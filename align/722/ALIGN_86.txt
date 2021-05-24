@@ -1,0 +1,60 @@
+Str	null
+wiersz	null
+SPROSTOWANIE	SPROSTOWANIE
+OMYŁEK	OMYŁEK
+null	 
+null	Str
+null	wiersz
+null	 
+null	 
+zamiast	zamiast
+null	czytaj
+null	 
+od	od
+dołu	dołu
+tymchże	null
+null	 tymchże
+null	 tychże
+null	 
+od	od
+góry	góry
+bióder	null
+Fra	null
+świętobliwy	null
+PY	null
+ołtarzu	null
+prosiłem	null
+n	null
+n	null
+null	 bióder
+null	 biódr
+null	 
+null	„
+null	„
+null	 świętobliwy
+null	 świątobliwy
+null	 
+null	„
+null	„
+null	 ołtarzu
+null	 ołtarza
+null	 
+null	„
+null	„
+null	 prosiłem
+null	 prosiłam
+null	 
+od	od
+dołu	dołu
+płakałam	null
+czy	null
+łą	null
+ij	null
+tychże	null
+biódr	null
+świątobliwy	null
+ołtarza	null
+prostam	null
+płakałem	null
+null	 płakałam
+null	 płakałem

@@ -1,0 +1,95 @@
+EA	null
+SPALSPRZIECZY	null
+CHATAWSEESIE	null
+mua	null
+SQ	null
+KOPCIUSZEK	null
+Ra	null
+«	null
+d	null
+UBOGROBOGATK	null
+sob	null
+null	Skan
+null	zawiera
+null	grafikę
+null	nie
+null	w
+null	PD
+null	SPIS
+null	RZECZY
+null	CHATA
+null	W
+null	LESIE  Str 
+null	KOPCIUSZEK   „ 
+null	UBOGI
+null	I
+null	BOGATY   „ 
+RUPIEC	RUPIEC
+KOPEĆ	null
+RE	null
+wa	null
+null	KOPEĆ   „ 
+WSZECHWIEDZĄCY	WSZECHWIEDZĄCY
+BDÓKTÓR	null
+©	null
+„	null
+null	DOKTÓR   „ 
+BIAŁOŚNIEŻKA	BIAŁOŚNIEŻKA
+I	I
+RÓŻANKA	null
+„	null
+null	RÓŻANKA   „ 
+JEDNOOCZKA	JEDNOOCZKA
+DWUOCZKA	DWUOCZKA
+TRZYOCZKA	null
+„	null
+j	null
+null	TRZYOCZKA   „ 
+PASTUSZKA	PASTUSZKA
+GĘSI	null
+Do	null
+da	null
+PASIUCZERSKOLU	null
+«	null
+ubic	null
+Ma	null
+SIS	null
+null	GĘSI   „ 
+null	PASTUSZEK   „ 
+BIEDNY	BIEDNY
+MŁYNARCZYK	MŁYNARCZYK
+I	I
+KOTEK	null
+„	null
+„	null
+null	KOTEK   „ 
+UKRADZIONY	UKRADZIONY
+GROSIK	null
+«	null
+„	null
+DUCNAWE	null
+FEASZCEW	null
+o	null
+A	null
+AN	null
+ia	null
+SIĘDMIOŚSPIOCHYJ	null
+„	null
+«aa	null
+„	null
+null	GROSIK   „ 
+null	DUCH
+null	WE
+null	FLASZCE   „ 
+null	SIEDMIOŚPIOCHY   „ 
+KRÓL	KRÓL
+DROZDOBRODY	null
+„	null
+KRASNOLUDKI	null
+sourę	null
+SEREANB	null
+zc	null
+SEZ	null
+LEŁEEJEZF	null
+null	DROZDOBRODY   „ 
+null	KRASNOLUDKI   „ 

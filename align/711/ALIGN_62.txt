@@ -1,0 +1,153 @@
+Polska	Polska
+w	w
+poezyi	poezyi
+łacińskiej	łacińskiej
+Tyge	Tyge
+de	de
+Brahe	null
+„Do	null
+Kopernika	null
+w	null
+„	null
+„Do	null
+Kopernika	null
+«ae	null
+null	Brahe „Do
+null	Kopernika“  
+null	 „ „ „ „Do
+null	Kopernika“  
+Konrad	Konrad
+Celtes	null
+„Mój	null
+null	Celtes „Mój
+przyjazd	przyjazd
+do	do
+Krakowa	null
+„	null
+„	null
+„Do	null
+null	Krakowa“  
+null	 „ „ „Do
+Ursa	Ursa
+lekarza	lekarza
+polskiego	null
+null	polskiego“  
+Polska	Polska
+w	w
+poezyi	poezyi
+rosyjskiej	rosyjskiej
+Teodor	Teodor
+Sołłohub	null
+„Stance	null
+null	Sołłohub „Stance
+do	do
+Polski	null
+null	Polski“  
+Aleksander	Aleksander
+Puszkin	null
+„Rocznica	null
+Borodina	null
+sk	null
+„Mickiewicz	null
+«ox	null
+a	null
+w	null
+a	null
+wm	null
+S	null
+w	null
+cQŻESŹŚ	null
+„	null
+w	null
+„Oszczercom	null
+Rosyi	null
+—	null
+null	Puszkin „Rocznica
+null	Borodina“  
+null	 „ „ „Mickiewicz“  —
+null	 „ „ „Oszczercom
+null	Rosyi“  —
+Polska	Polska
+w	w
+poezyi	poezyi
+rusińskiej	rusińskiej
+Pantelejmon	Pantelejmon
+Kulisz	null
+„Skarga	null
+żałosna”	null
+CZES	null
+„	null
+„	null
+„Lach	null
+null	Kulisz „Skarga
+null	żałosna“  
+null	 „ „ „Lach
+i	i
+Rusin	null
+«	null
+«	null
+«	null
+„	null
+—	null
+null	Rusin“  —
+Taras	Taras
+Szewczenko	null
+„Do	null
+Polaków	null
+w	null
+„Do	null
+Rusinów	null
+null	Szewczenko „Do
+null	Polaków“  
+null	 „ „ „Do
+null	Rusinów“  
+Polska	Polska
+w	w
+poezyi	poezyi
+włoskiej	włoskiej
+Gabryel	Gabryel
+Rossetti	null
+„Polska	null
+sów	null
+oś	null
+null	Rossetti „Polska“  
+Vincenzio	Vincenzio
+da	da
+Filicaja	null
+„Do	null
+null	Filicaja „Do
+Jana	Jana
+Sobieskiego	null
+null	Sobieskiego“  
+Józef	Józef
+Napoleon	Napoleon
+Ricciardi	null
+„Italia	null
+null	Ricciardi „Italia
+i	i
+Polonia”	null
+—	null
+null	Polonia“  —
+Polska	Polska
+w	w
+poezyi	poezyi
+hiszpańskiej	hiszpańskiej
+Piotr	Piotr
+Calderon	Calderon
+de	de
+la	la
+Barca	null
+„Do	null
+null	Barca „Do
+królewicza	królewicza
+polskiego	null
+„	null
+z	null
+„	null
+„Do	null
+null	polskiego“  
+null	 „ „ „ „ „Do
+królewny	królewny
+polskiej	null
+—	null
+null	polskiej“  —

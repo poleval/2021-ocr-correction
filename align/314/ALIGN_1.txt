@@ -1,0 +1,27 @@
+ua	null
+©	null
+w	null
+bad	null
+„Be	null
+KB	null
+niy	null
+null	JANTEK
+null	Z
+null	BUGAJA
+null	ŚPIEWNICZEK
+null	POLSKIEGO
+null	ŻOŁNIERZA
+null	CENA
+null	HAL
+null	KRAKÓW
+null	 
+null	NAKŁADEM
+null	 
+null	REDAKCYI
+null	 
+null	„PIASTA”
+null	ODBITO
+null	W
+null	DRUKARNI
+null	LITERACKIEJ
+null	 

@@ -1,0 +1,307 @@
+Sa	null
+null	 
+Z	Z
+opinją	opinją
+źle	źle
+się	się
+prawować	prawować
+null	 
+Nikt	Nikt
+nie	nie
+oszukuje	oszukuje
+innego	innego
+tylko	tylko
+siebie	siebie
+samego	samego
+null	 
+Gdy	Gdy
+owce	owce
+strzygą	strzygą
+drżą	drżą
+jagnięta	jagnięta
+null	 
+Jak	Jak
+kto	kto
+nie	nie
+ma	ma
+palców	palców
+to	to
+nie	nie
+może	może
+figi	figi
+pokazać	pokazać
+null	 
+Każdy	Każdy
+jest	jest
+panem	panem
+na	na
+swoich	swoich
+śmieciach	śmieciach
+null	 
+Im	Im
+pan	pan
+większy	większy
+tym	tym
+skromniejszy	skromniejszy
+null	 
+Jaki	Jaki
+pan	pan
+taki	taki
+sługa	sługa
+null	 
+Jak	Jak
+pan	pan
+psa	psa
+traktuje	traktuje
+tak	tak
+go	go
+cały	cały
+dwór	dwór
+traktuje	traktuje
+null	 
+Panna	Panna
+to	to
+jak	jak
+ręcznik	ręcznik
+Gdyż	Gdyż
+każdy	każdy
+kawaler	kawaler
+lub	lub
+swat	swat
+ociera	ociera
+się	się
+o	o
+nią	nią
+null	 
+Lepiej	Lepiej
+być	być
+młodą	młodą
+wdową	wdową
+niż	niż
+starą	starą
+panną	panną
+null	 
+Lepiej	Lepiej
+podrzeć	podrzeć
+papier	papier
+niż	niż
+pergamin	pergamin
+U	U
+żydów	żydów
+akt	akt
+zaręczynowy	zaręczynowy
+spisują	spisują
+na	na
+papierze	papierze
+rozwodowy	rozwodowy
+zaś	zaś
+na	na
+pergaminie	pergaminie
+Pr	null
+słowie	null
+null	Przysłowie
+wyraża	wyraża
+więc	więc
+że	że
+lepiej	lepiej
+jest	jest
+małżeństwa	małżeństwa
+nie	nie
+zawierać	zawierać
+niż	niż
+się	się
+później	później
+do	do
+rozwodu	rozwodu
+uciekać	uciekać
+null	 
+Każdy	Każdy
+powinien	powinien
+patrzeć	patrzeć
+za	za
+siebie	siebie
+ale	ale
+nie	nie
+przed	przed
+siebie	siebie
+Perłyna	null
+null	 
+null	Perły
+null	na
+szyi	szyi
+a	a
+kamienie	kamienie
+na	na
+sercu	sercu
+tj	tj
+na	na
+twarzy	twarzy
+radość	radość
+a	a
+w	w
+sercu	sercu
+boleść	boleść
+null	 
+Lepiej	Lepiej
+dać	dać
+piekarzowi	piekarzowi
+niż	niż
+lekarzowi	lekarzowi
+null	 
+Gdy	Gdy
+się	się
+traci	traci
+pieniądze	pieniądze
+to	to
+się	się
+traci	traci
+i	i
+rozum	rozum
+null	 
+Gdy	Gdy
+przybywa	przybywa
+pieniędzy	pieniędzy
+przybywa	przybywa
+i	i
+rozumu	rozumu
+null	 
+Pieniądze	Pieniądze
+to	to
+błoto	błoto
+ale	ale
+błoto	błoto
+nie	nie
+pieniądze	pieniądze
+null	 
+Pieniądze	Pieniądze
+v	v
+złoto	złoto
+idą	idą
+do	do
+pieniędzy	pieniędzy
+v	v
+złota	złota
+null	 
+Łatwiej	Łatwiej
+pieniądze	pieniądze
+zarobić	zarobić
+niż	niż
+je	je
+utrzymać	utrzymać
+null	 
+Strata	Strata
+pieniędzy	pieniędzy
+to	to
+pół	pół
+straty	straty
+strata	strata
+humoru	humoru
+v	v
+clięci	null
+null	chęci
+odwagi	odwagi
+to	to
+cała	cała
+strata	strata
+null	 
+Kto	Kto
+ma	ma
+pieniądze	pieniądze
+ma	ma
+i	i
+rozum	rozum
+albo	albo
+rozsądek	null
+null	rozsadek
+zdrową	zdrową
+radę	radę
+null	 
+Każdy	Każdy
+jest	jest
+panem	panem
+za	za
+swóje	null
+null	swoje
+pieniądze	pieniądze
+null	 
+Pieniądze	Pieniądze
+posagowe	posagowe
+i	i
+odziedziczone	odziedziczone
+szczęścia	szczęścia
+nie	nie
+dają	dają
+v	v
+wartości	wartości
+nie	nie
+mają	mają
+null	 
+Więcej	Więcej
+światła	światła
+spalono	spalono
+niż	niż
+pieniędzy	pieniędzy
+zarobiono	zarobiono
+null	O
+grze	grze
+null	 
+Gdy	Gdy
+Bóg	Bóg
+pieniądze	pieniądze
+odbiera	odbiera
+to	to
+i	i
+rozum	rozum
+z	z
+niemi	niemi
+null	 
+Pies	Pies
+psem	psem
+zostaje	zostaje
+null	 
+Pies	Pies
+co	co
+szczeka	szczeka
+nie	nie
+kąsa	kąsa
+null	 
+Gdy	Gdy
+jednego	jednego
+psa	psa
+uderzą	uderzą
+to	to
+wszystkie	wszystkie
+wyją	wyją
+null	 
+Choć	Choć
+pies	pies
+piekarzowi	piekarzowi
+obwarzanek	obwarzanek
+złapie	złapie
+to	to
+piekarz	piekarz
+piekarzem	piekarzem
+zostaje	zostaje
+null	 
+Pokaż	Pokaż
+psu	psu
+palec	palec
+zechce	zechce
+całej	całej
+ręki	ręki
+null	 
+Zrób	Zrób
+psn	null
+null	psu
+dobrze	dobrze
+to	to
+jeszcze	jeszcze
+wyje	wyje
+null	 
+Każdy	Każdy
+pies	pies
+jest	jest
+panem	panem
+na	na
+swoich	swoich
+śmieciach	śmieciach

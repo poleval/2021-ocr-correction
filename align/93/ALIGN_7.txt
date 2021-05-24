@@ -1,0 +1,100 @@
+Spis	Spis
+Rozdziałów	Rozdziałów
+ROZDZIAŁ	ROZDZIAŁ
+I	null
+A	null
+null	I A
+O	O
+Orkiestrze	null
+B	null
+null	Orkiestrze  od
+null	str 
+null	— 
+null	  B
+O	O
+chórach	null
+null	chórach   » » 
+null	— 
+ROZDZIAŁ	ROZDZIAŁ
+II	null
+O	null
+null	II O
+formie	formie
+muzycznej	null
+null	muzycznej   » » 
+null	—
+ROZDZIAŁ	ROZDZIAŁ
+III	null
+O	null
+null	III O
+tonach	tonach
+zasadniczych	zasadniczych
+i	i
+międzytonach	null
+O	null
+null	międzytonachO
+pisaniu	pisaniu
+nut	null
+null	nut   » » 
+null	—
+ROZDZIAŁ	ROZDZIAŁ
+IV	null
+O	null
+interwalach	null
+ROZDZIA	null
+V	null
+O	null
+gamach	null
+z	null
+null	IV O
+null	interwalach   » » 
+null	—
+ROZDZIAŁ	ROZDZIAŁ
+VI	null
+O	null
+null	V O
+null	gamach   » » 
+null	—
+null	ROZDZIAŁ
+null	VI O
+takcie	takcie
+i	i
+rytmie	null
+null	rytmie   » » 
+null	—
+ROZDZIAŁ	ROZDZIAŁ
+VII	null
+O	null
+akordzie	null
+s	null
+null	VII O
+null	akordzie   » » 
+null	—
+ROZDZIAŁ	ROZDZIAŁ
+VIII	null
+Kontrapunkt	null
+null	VIII Kontrapunkt
+kanon	kanon
+fuga	null
+null	fuga   » » 
+null	—
+ROZDZIAŁ	ROZDZIAŁ
+IX	null
+O	null
+null	IX O
+zdobnictwie	zdobnictwie
+nutowym	null
+od	null
+str	null
+„wuwcwuwov	null
+wvovvvow	null
+null	nutowym   » » 
+—	—
+—	null
+—	null
+—	null
+—	null
+—	null
+—	null
+—	null
+—	null

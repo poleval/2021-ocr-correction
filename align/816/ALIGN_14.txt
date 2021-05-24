@@ -1,0 +1,315 @@
+BÓJ	null
+null	 
+Czego	Czego
+kto	kto
+gwałtem	gwałtem
+nie	nie
+zdobywa	zdobywa
+tego	tego
+i	null
+nie	null
+null	i nie
+ma	ma
+tj	tj
+czego	czego
+nie	nie
+zdobywa	zdobywa
+usilnemi	usilnemi
+staraniami	staraniami
+mozolnym	mozolnym
+trudem	trudem
+null	 
+Kto	Kto
+się	się
+chce	chce
+przy	przy
+honorze	honorze
+ostać	ostać
+powinien	powinien
+jedną	jedną
+ucztę	ucztę
+na	na
+dwie	dwie
+podzielić	podzielić
+tj	tj
+powinien	powinien
+żyć	żyć
+skromnie	skromnie
+aby	aby
+nie	nie
+dojść	dojść
+do	do
+ubóstwa	ubóstwa
+null	 
+Lepsze	Lepsze
+dobre	dobre
+imię	imię
+niż	niż
+drogie	drogie
+kamienie	kamienie
+null	 
+Kto	Kto
+prosto	prosto
+idzie	idzie
+ten	ten
+się	się
+nie	nie
+potyka	potyka
+nie	nie
+pada	pada
+null	 
+Jak	Jak
+już	już
+idzie	idzie
+to	to
+i	null
+biega	null
+null	i biega
+tj	tj
+jak	jak
+się	się
+już	już
+komu	komu
+wiedzie	wiedzie
+to	to
+coraz	coraz
+lepiej	lepiej
+null	 
+Idź	Idź
+powoli	powoli
+prędzej	prędzej
+zajdziesz	zajdziesz
+null	 
+Idź	Idź
+powoli	powoli
+to	to
+nie	nie
+upadniesz	upadniesz
+null	 
+Gdzie	Gdzie
+dużo	dużo
+chodzą	chodzą
+tam	tam
+trawa	trawa
+nie	nie
+rośnie	rośnie
+null	 
+Co	Co
+się	się
+stanie	stanie
+z	null
+całym	null
+null	z całym
+Izraelem	Izraelem
+to	to
+się	się
+stanie	stanie
+i	i
+ż	null
+panem	null
+null	z panem
+Izraelem	Izraelem
+tj	tj
+co	co
+się	się
+stanie	stanie
+z	null
+całym	null
+null	z całym
+ogółem	ogółem
+to	to
+iz	null
+każdym	null
+null	i z każdym
+jest	jest
+bowiem	bowiem
+imię	imię
+męskie	męskie
+Izrael	Izrael
+null	 
+Najlepsze	Najlepsze
+jabłko	jabłko
+świni	świni
+się	się
+dostaje	dostaje
+null	 
+Jedna	Jedna
+jaskółka	jaskółka
+lata	lata
+nie	nie
+stanowi	stanowi
+null	 
+Gdyby	Gdyby
+jałmużna	jałmużna
+nie	nie
+wymagała	wymagała
+pieniędzy	pieniędzy
+a	a
+miłosierdzie	miłosierdzie
+zmartwienia	zmartwienia
+nie	nie
+przyczyniało	przyczyniało
+toby	toby
+było	było
+wielu	wielu
+dobroczyńców	dobroczyńców
+null	 
+Lepiej	Lepiej
+źle	źle
+jechać	jechać
+niż	niż
+dobrze	dobrze
+iść	iść
+null	 
+Jak	Jak
+się	się
+wczoraj	wczoraj
+jadło	jadło
+to	to
+się	się
+dziś	dziś
+nie	nie
+jest	jest
+sytym	sytym
+null	 
+Kto	Kto
+czeka	czeka
+na	na
+buty	buty
+teścia	teścia
+to	to
+musi	musi
+długo	długo
+boso	boso
+chodzić	chodzić
+null	 
+Kto	Kto
+sam	sam
+nie	nie
+ma	ma
+co	co
+jeść	jeść
+niech	niech
+innych	innych
+nie	nie
+łaje	łaje
+null	 
+Potrzeba	Potrzeba
+jeść	jeść
+ale	ale
+nie	nie
+żreć	żreć
+null	 
+Lepiej	Lepiej
+się	się
+dostać	dostać
+w	null
+chrześcjańskie	null
+null	w chrześcjańskie
+ręce	ręce
+niż	niż
+na	na
+żydowskie	żydowskie
+języki	języki
+null	 
+Cały	Cały
+świat	świat
+na	na
+końcn	null
+null	końcu
+języka	języka
+stoi	stoi
+null	 i
+Język	Język
+wiedzie	wiedzie
+człowieka	człowieka
+do	do
+szezęścia	null
+null	szczęścia
+i	i
+do	do
+nieszczęścia	nieszczęścia
+null	 
+Jaja	Jaja
+cheą	null
+null	chcą
+być	być
+od	od
+kur	kur
+mędrszemi	mędrszemi
+null	 
+Jabłuszko	Jabłuszko
+nie	nie
+daleko	daleko
+pada	pada
+od	od
+drzewka	drzewka
+null	 
+Jeden	Jeden
+przeciwko	przeciwko
+gromadzie	gromadzie
+falbo	null
+null	albo
+przeciw	przeciw
+wielu	wielu
+zawsze	zawsze
+przegrywa	przegrywa
+null	 
+Nikt	Nikt
+nie	nie
+wie	wie
+czyje	czyje
+jutro	jutro
+null	 
+O	O
+jutro	jutro
+niech	niech
+się	się
+Bóg	Bóg
+kłopocze	kłopocze
+null	 
+I	I
+kalendarz	kalendarz
+czasem	czasem
+zgaduje	zgaduje
+null	 
+Kto	Kto
+z	null
+książki	null
+null	z książki
+gotuje	gotuje
+a	null
+kalendarzem	null
+null	a kalendarzem
+się	się
+kieruje	kieruje
+ten	ten
+null	nic
+nie	nie
+nie	null
+ma	ma
+null	 
+Dwa	Dwa
+twarde	twarde
+kamienie	kamienie
+nie	nie
+mielą	mielą
+null	 
+Wszyscy	Wszyscy
+kantorzy	kantorzy
+są	są
+głupcami	głupcami
+ale	ale
+nie	nie
+wszyścy	null
+null	wszyscy
+głupcy	głupcy
+są	są
+kantorami	kantorami
+kantorśpiewak	null
+null	kantor
+null	śpiewak
+w	w
+synagodze	synagodze
+odprawiający	odprawiający
+nabożeństwo	nabożeństwo

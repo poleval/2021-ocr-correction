@@ -1,0 +1,302 @@
+ESTC	null
+null	 
+Każdy	Każdy
+kapcan	kapcan
+jest	jest
+dobroczynnym	dobroczynnym
+z	null
+cudzej	null
+null	z cudzej
+kieszeni	kieszeni
+null	 
+Każdy	Każdy
+kaznodzieja	kaznodzieja
+dla	dla
+siebie	siebie
+każe	każe
+null	 
+Gdy	Gdy
+nie	nie
+można	można
+kąsać	kąsać
+to	to
+nie	nie
+trzóba	null
+null	trzeba
+zębów	zębów
+ostrzyć	ostrzyć
+null	 
+Najlepszy	Najlepszy
+kąsek	kąsek
+najgorszemu	najgorszemu
+psu	psu
+się	się
+dostaje	dostaje
+null	 
+Pierwszy	Pierwszy
+kąsek	kąsek
+to	to
+świder	świder
+tj	tj
+wzbudza	wzbudza
+chęć	chęć
+do	do
+dalszego	dalszego
+jedzenia	jedzenia
+null	 
+Kij	Kij
+ma	ma
+dwa	dwa
+końce	końce
+null	 
+Kto	Kto
+nie	nie
+rozumie	rozumie
+skinienia	skinienia
+na	na
+tego	tego
+kija	kija
+trzeba	trzeba
+Kłamea	null
+null	 
+null	Kłamca
+nikomu	nikomu
+nie	nie
+wierzy	wierzy
+null	 
+Kłamca	Kłamca
+musi	musi
+mieć	mieć
+dobrą	dobrą
+pamięć	pamięć
+null	 
+Kłamcy	Kłamcy
+i	null
+prawdę	null
+null	i prawdę
+mówiącemu	mówiącemu
+nie	nie
+wierzą	wierzą
+Kłamea	null
+null	 
+null	Kłamca
+póty	póty
+kłamstwo	kłamstwo
+powtarza	powtarza
+aż	aż
+w	null
+nie	null
+null	w nie
+sam	sam
+uwierzy	uwierzy
+null	 
+Jest	Jest
+to	to
+kłamstwo	kłamstwo
+z	null
+dowodem	null
+null	z dowodem
+gdy	gdy
+kto	kto
+kłamie	kłamie
+i	i
+powołuje	powołuje
+się	się
+na	na
+czyjeś	czyjeś
+Świadectwo	null
+null	świadectwo
+null	 
+Kłopoty	Kłopoty
+i	i
+lata	lata
+ludziom	ludziom
+włosy	włosy
+bielą	bielą
+null	 
+Cały	Cały
+świat	świat
+się	się
+kłopocze	kłopocze
+ta	ta
+się	się
+kłopocze	kłopocze
+że	że
+jej	jej
+perły	perły
+są	są
+za	za
+rzadkie	rzadkie
+inna	inna
+znowu	znowu
+że	że
+jej	jej
+perłowa	perłowa
+kasza	kasza
+jest	jest
+za	za
+rzadka	rzadka
+null	 
+Kłótnia	Kłótnia
+to	to
+ogień	ogień
+null	 
+Gdzie	Gdzie
+żona	żona
+albo	albo
+kobieta	kobieta
+rządzi	rządzi
+tam	tam
+wszystko	wszystko
+mar	null
+nieje	null
+null	marnieje
+null	 
+Kobiety	Kobiety
+mają	mają
+długie	długie
+włosy	włosy
+a	a
+krótki	krótki
+rozum	rozum
+null	 
+Płakać	Płakać
+i	i
+śmiać	śmiać
+się	się
+to	to
+dla	dla
+kobiet	kobiet
+dwie	dwie
+łatwe	łatwe
+rzeczy	rzeczy
+null	 
+Kiedy	Kiedy
+kogut	kogut
+pieje	pieje
+to	to
+wszędzie	wszędzie
+pieje	pieje
+null	 
+I	I
+komar	komar
+może	może
+ukąsić	ukąsić
+null	 
+Ślepy	Ślepy
+koń	koń
+prosto	prosto
+w	w
+dół	dół
+trafia	trafia
+null	 
+Na	Na
+parszywego	parszywego
+konia	konia
+wszelkie	wszelkie
+muchy	muchy
+siadają	siadają
+null	 
+Kiedy	Kiedy
+konia	konia
+ukradziono	ukradziono
+wtedy	wtedy
+stajnię	stajnię
+zamknięto	zamknięto
+null	 
+Dobre	Dobre
+konie	konie
+daleko	daleko
+błądzą	błądzą
+null	 
+Dobrego	Dobrego
+konia	konia
+jeszcze	jeszcze
+zacinają	zacinają
+null	 
+Zacinaj	Zacinaj
+konia	konia
+owsem	owsem
+a	a
+nie	nie
+biczem	biczem
+null	 
+Bliższa	Bliższa
+mi	mi
+koszula	koszula
+niż	niż
+suknia	suknia
+null	 
+Kiedy	Kiedy
+się	się
+kot	kot
+myje	myje
+będą	będą
+goście	goście
+null	 
+Jak	Jak
+się	się
+kto	kto
+z	z
+kotem	kotem
+bawi	bawi
+to	to
+musi	musi
+znieść	znieść
+i	null
+drapnięcie	null
+null	i drapnięcie
+null	 
+Koza	Koza
+wszędzie	wszędzie
+trawę	trawę
+skubie	skubie
+Rznć	null
+null	 
+null	Rzuć
+kota	kota
+jak	jak
+chcesz	chcesz
+on	on
+na	na
+nogi	nogi
+padnie	padnie
+null	 
+Dwa	Dwa
+koty	koty
+w	w
+jednym	jednym
+worku	worku
+się	się
+nie	nie
+zgodzą	zgodzą
+null	 
+Cudzy	Cudzy
+kożuch	kożuch
+nie	nie
+grzeje	grzeje
+null	 
+Póki	Póki
+się	się
+kółko	kółko
+kręci	kręci
+to	to
+się	się
+kręci	kręci
+tj	tj
+póki	póki
+się	się
+wiedzie	wiedzie
+to	to
+się	się
+wiedzie	wiedzie
+null	 
+Kiedy	Kiedy
+krawiec	krawiec
+szyje	szyje
+darmo	darmo
+Gdy	Gdy
+supełka	supełka
+nie	nie
+robi	robi
+l	null

@@ -1,0 +1,24 @@
+null	„Gazeta
+null	Polska“
+null	 
+null	Tom
+null	LXIV
+ANTONI	ANTONI
+LANGE	LANGE
+——O——	null
+null	PRZEKŁADY
+null	Z
+null	POETÓW
+null	OBCYCH
+null	Część
+null	II
+null	WARSZAWA
+null	Nakładem
+null	Redakcyi
+null	„Gazety
+null	Polskiej“
+null	Druk
+null	J
+null	Sikorskiego
+null	Warecka
+null	—

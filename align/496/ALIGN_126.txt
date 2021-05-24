@@ -1,0 +1,45 @@
+YET	null
+KACK	null
+Oto	null
+null	 Oto
+mowa	mowa
+pogrzebowa	pogrzebowa
+wygłoszona	wygłoszona
+przeż	null
+null	przez
+naród	naród
+meksykański	meksykański
+na	na
+uczczenie	uczczenie
+pamięci	pamięci
+zmarłego	zmarłego
+cesarza	cesarza
+i	i
+jego	jego
+generałów	null
+—	null
+Aa	null
+null	generałów —
+null	∗             ∗∗
+null	 Tak
+zmarł	zmarł
+Maksymiljan	Maksymiljan
+austrjacki	austrjacki
+Ostatnie	Ostatnie
+dni	dni
+jego	jego
+życia	życia
+dowiodły	dowiodły
+że	że
+wart	wart
+był	był
+zginąć	zginąć
+za	za
+lepszą	lepszą
+sprawę	null
+—	null
+—	null
+—	null
+m	null
+TOZ	null
+null	sprawę — — —

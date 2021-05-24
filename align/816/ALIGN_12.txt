@@ -1,0 +1,331 @@
+null	 
+Kiedy	Kiedy
+dziecko	dziecko
+pada	pada
+anioł	anioł
+ręce	ręce
+podkłada	podkłada
+null	 
+Każde	Każde
+dziecko	dziecko
+z	null
+swoją	null
+null	z swoją
+dolą	dolą
+się	się
+rodzi	rodzi
+null	 
+Moje	Moje
+dzieci	dzieci
+to	to
+cuda	cuda
+boskie	boskie
+Tak	Tak
+mawiają	mawiają
+zazwyczaj	zazwyczaj
+matki	matki
+null	 
+Małe	Małe
+dzieci	dzieci
+nie	nie
+dają	dają
+spać	spać
+duże	duże
+nie	nie
+dają	dają
+żyć	żyć
+null	 
+Małe	Małe
+dzieci	dzieci
+małe	małe
+troski	troski
+duże	duże
+dzieci	dzieci
+duże	duże
+troski	troski
+null	 
+Dzieci	Dzieci
+i	null
+szklanek	null
+BY	null
+null	i szklanek
+null	nigdy
+nie	nie
+za	za
+wiele	wiele
+null	 
+Jaki	Jaki
+„dobry	„dobry
+dzień	null
+null	dzień“
+taki	taki
+„dobry	„dobry
+rok	null
+null	rok“
+Na	Na
+pozdrowienie	pozdrowienie
+„dobry	„dobry
+dzień	null
+null	dzień“
+żydzi	żydzi
+kisowiaieja	null
+null	odpowiadają
+zazwyczaj	zazwyczaj
+„dobry	„dobry
+rok	null
+null	rok“
+null	 
+Brzydką	Brzydką
+dziewczynę	dziewczynę
+strzeż	strzeż
+się	się
+całować	całować
+null	 
+Dziura	Dziura
+robi	robi
+złodzieja	złodzieja
+Tj	Tj
+okazja	okazja
+sposobność	sposobność
+null	 
+Kiedy	Kiedy
+elementarz	elementarz
+albo	albo
+książka	książka
+do	do
+nauki	nauki
+lub	lub
+do	do
+nabożeństwa	nabożeństwa
+nie	nie
+umarł	umarł
+to	to
+i	null
+nauczyciel	null
+null	i nauczyciel
+nie	nie
+umarł	umarł
+Tak	Tak
+mawiają	mawiają
+leniwi	leniwi
+uczniowie	uczniowie
+których	których
+po	po
+krótkiej	krótkiej
+przerwie	przerwie
+w	w
+nanee	null
+null	nauce
+spowodowanej	spowodowanej
+śmiercią	śmiercią
+nauczyciela	nauczyciela
+zapędzają	zapędzają
+znowu	znowu
+do	do
+książki	książki
+u	null
+mnego	null
+nauczy	null
+ciela	null
+null	u innego
+null	nauczyciela
+null	 
+Nie	Nie
+fruwaj	fruwaj
+wysoko	wysoko
+nie	nie
+spadniesz	spadniesz
+nizko	nizko
+null	 
+Kto	Kto
+ma	ma
+garb	garb
+musi	musi
+go	go
+dźwigać	dźwigać
+null	 
+Kiedy	Kiedy
+się	się
+garbaty	garbaty
+raduje	raduje
+Gdy	Gdy
+widzi	widzi
+drugiego	drugiego
+garbate	null
+go	null
+null	garbatego
+null	 
+Gardło	Gardło
+ma	ma
+małą	małą
+dziurkę	dziurkę
+a	a
+pochłania	pochłania
+całe	całe
+domy	domy
+null	 
+Lepszy	Lepszy
+stary	stary
+garnek	garnek
+niż	niż
+nowa	nowa
+skorupa	skorupa
+null	 
+Dobrze	Dobrze
+się	się
+trzeć	trzeć
+o	o
+tłusty	tłusty
+garnek	garnek
+Tj	Tj
+znajdować	znajdować
+się	się
+w	null
+bogatym	null
+null	w bogatym
+domu	domu
+Qzem	null
+null	 
+null	Czem
+garnek	garnek
+nawre	nawre
+tem	tem
+śmierdzi	śmierdzi
+null	 
+Kto	Kto
+się	się
+kładzie	kładzie
+głodny	głodny
+ten	ten
+wstaje	wstaje
+śpiący	śpiący
+null	 
+Kto	Kto
+głodny	głodny
+spać	spać
+idzie	idzie
+temu	temu
+się	się
+żebrak	żebrak
+śni	śni
+null	 
+Głód	Głód
+łamie	łamie
+żelazo	żelazo
+bieda	bieda
+zamki	zamki
+null	 
+Jak	Jak
+głowy	głowy
+niema	niema
+to	to
+wszystko	wszystko
+djabli	djabli
+biorą	biorą
+Tj	Tj
+gdy	gdy
+niema	niema
+silnej	silnej
+ręki	ręki
+władzy	władzy
+null	 
+Jak	Jak
+kto	kto
+nie	nie
+ma	ma
+w	null
+głowie	null
+null	w głowie
+to	to
+musi	musi
+mieć	mieć
+w	null
+nogach	null
+null	w nogach
+null	 
+Gdzie	Gdzie
+głowa	głowa
+ma	ma
+spocząć	spocząć
+tam	tam
+nogi	nogi
+zanoszą	zanoszą
+null	 
+Jak	Jak
+kto	kto
+ma	ma
+w	null
+głowie	null
+null	w głowie
+tak	tak
+ma	ma
+w	null
+mowie	null
+Tle	null
+null	w mowie
+null	 
+null	Ile
+głów	głów
+tyle	tyle
+zdań	zdań
+null	 
+Nie	Nie
+czapka	czapka
+jest	jest
+przewrócona	przewrócona
+ale	ale
+głowa	głowa
+Oały	null
+null	 
+null	Cały
+głupiec	głupiec
+to	to
+pół	pół
+proroka	proroka
+null	 
+Jak	Jak
+kto	kto
+posyła	posyła
+głupea	null
+null	głupca
+na	na
+targ	targ
+to	to
+się	się
+kupcy	kupcy
+radują	radują
+null	 
+Głupi	Głupi
+to	to
+kaleka	kaleka
+na	na
+wszystkie	wszystkie
+cztery	cztery
+nogi	nogi
+null	 
+Głupi	Głupi
+jest	jest
+zdrów	zdrów
+tj	tj
+mądry	mądry
+dla	dla
+siebie	siebie
+null	 
+Głupi	Głupi
+mówi	mówi
+co	co
+wie	wie
+a	a
+mądry	mądry
+wie	wie
+co	co
+mówi	mówi
+null	 
+Głupiemu	Głupiemu
+połowy	połowy
+albo	albo
+niedokończonej	niedokończonej
+roboty	roboty
+pokazać	pokazać
+nie	nie
+można	można

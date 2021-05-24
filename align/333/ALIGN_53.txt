@@ -1,0 +1,153 @@
+SPIS	SPIS
+TREŚCI	TREŚCI
+Część	Część
+I	I
+PROBLEM	PROBLEM
+GRANIC	GRANIC
+OPODATKOWANIA	null
+I	null
+Gospodarka	null
+null	OPODATKOWANIA 
+null	Str
+null	I  Gospodarka
+prywatna	prywatna
+a	a
+gospodarka	gospodarka
+publiczna	null
+Il	null
+Ogólne	null
+założenia	null
+z	null
+IIL	null
+Dochód	null
+null	publiczna  
+null	II  Ogólne
+null	założenia  
+null	III  Dochód
+społeczny	społeczny
+a	a
+świadczenia	świadczenia
+na	na
+rzecz	rzecz
+gospodarki	gospodarki
+publicznej	null
+»	null
+de	null
+w	null
+TV	null
+Ogólna	null
+null	publicznej  
+null	IV  Ogólna
+charakterystyka	charakterystyka
+gospodarki	gospodarki
+publicznej	null
+V	null
+Stosunek	null
+null	publicznej  
+null	V  Stosunek
+świadczeń	świadczeń
+publicznych	publicznych
+do	do
+dochodu	dochodu
+społecznego	null
+VI	null
+Wpływ	null
+null	społecznego  
+null	VI  Wpływ
+świadczeń	świadczeń
+publicznych	publicznych
+na	na
+zaspakajanie	zaspakajanie
+potrzeb	potrzeb
+indywidualnych	indywidualnych
+oraz	oraz
+na	na
+kapitalizację	null
+m	null
+VIIL	null
+Porównywanie	null
+null	kapitalizację  
+null	VII  Porównywanie
+stopnia	stopnia
+zaspokojenia	zaspokojenia
+potrzeb	potrzeb
+indywidualnych	indywidualnych
+i	i
+stopnia	stopnia
+zaspokojenia	zaspokojenia
+potrzeb	potrzeb
+zbiorowych	null
+VIJI	null
+Ostateczna	null
+null	zbiorowych  
+null	VIII  Ostateczna
+ocena	ocena
+i	i
+dobór	dobór
+kryteriów	null
+null	kryteriów  
+Część	Część
+II	II
+DOCHÓD	DOCHÓD
+SPOŁECZNY	SPOŁECZNY
+I	I
+ŚWIADCZENIA	ŚWIADCZENIA
+PUBLICZNE	PUBLICZNE
+W	W
+POLSCE	POLSCE
+W	W
+LATACH	LATACH
+—	null
+Dochód	null
+null	— 
+null	I  Dochód
+społeczny	społeczny
+w	w
+Polsce	Polsce
+i	i
+jego	jego
+zmiany	zmiany
+w	w
+latach	latach
+—	null
+Il	null
+Wpływy	null
+null	—  
+null	II  Wpływy
+i	i
+wydatki	wydatki
+budżetowe	budżetowe
+w	w
+latach	latach
+—	null
+III	null
+Stosunek	null
+null	—  
+null	III  Stosunek
+świadczeń	świadczeń
+publicznych	publicznych
+do	do
+dochodu	dochodu
+w	w
+Polsce	Polsce
+w	w
+latach	latach
+—	null
+SĘ	null
+IV	null
+Wnioski	null
+V	null
+Próba	null
+porównania	null
+VI	null
+Dodatek	null
+null	—  
+null	IV  Wnioski  
+null	V  Próba
+null	porównania  
+null	VI  Dodatek
+Źródła	Źródła
+do	do
+Tablic	null
+Str	null
+null	Tablic  

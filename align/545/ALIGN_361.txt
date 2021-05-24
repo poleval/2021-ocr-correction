@@ -1,0 +1,152 @@
+IL	null
+LIL	null
+dy	null
+VI	null
+ML	null
+VIII	null
+XII	null
+XIII	null
+XIV	null
+XV	null
+XVI	null
+XVII	null
+XVIH	null
+XIX	null
+l	null
+TM	null
+iv	null
+TRESC	null
+CZĘŚĆ	null
+null	TREŚĆ
+null	CZEŚĆ
+Isza	Isza
+Zdumienie	null
+null	I Zdumienie
+pani	pani
+Małgorzaty	Małgorzaty
+Linde	null
+Zdumienie	null
+Mateusza	null
+Zdumienie	null
+null	Linde  
+null	II Zdumienie
+null	Mateusza  
+null	III Zdumienie
+Maryli	Maryli
+Cutber	null
+Ę	null
+Poranek	null
+null	Cutbert  
+null	IV Poranek
+na	na
+Zielonem	Zielonem
+Wzgórzu	null
+Historja	null
+Ani	null
+la	null
+postanowiła	null
+Modlitwa	null
+Ani	null
+Zaczyna	null
+null	Wzgórzu  
+null	V Historja
+null	Ani  
+null	VI Co
+null	Maryla
+null	postanowiła  
+null	VII Modlitwa
+null	Ani  
+null	VIII Zaczyna
+się	się
+wychowywanie	wychowywanie
+Ani	null
+burzenie	null
+null	Ani  
+null	IX Oburzenie
+pani	pani
+Linde	null
+znanie	null
+winy	null
+żenia	null
+null	Linde  
+null	X Wyznanie
+null	winy  
+null	XI Wrażenia
+Ani	Ani
+w	w
+zkole	null
+niedzielnej	null
+Rozkoszne	null
+oczekiwania	null
+Przyznanie	null
+null	szkole
+null	niedzielnej  
+null	XII Uroczysta
+null	przysięga  
+null	XIII Rozkoszne
+null	oczekiwania  
+null	XIV Przyznanie
+się	się
+do	do
+winy	null
+Awantura	null
+null	winy  
+null	XV Awantura
+w	w
+szkole	null
+ć	null
+Tragiczne	null
+null	szkole  
+null	XVI Tragiczne
+skutki	skutki
+podwiec	null
+orku	null
+Nowy	null
+null	podwieczorku  
+null	XVII Nowy
+cel	cel
+w	w
+życiu	null
+Ania	null
+null	życiu  
+null	XVIII Ania
+w	w
+roli	roli
+zbawcy	null
+ę	null
+Koncert	null
+null	zbawcy  
+null	XIX Koncert
+katastrofa	katastrofa
+i	i
+wyżnanie	null
+null	wyznanie  
+CZĘŚĆ	CZĘŚĆ
+Ilga	null
+Bezdroża	null
+wyobraźni	null
+Now	null
+Odwiedziny	null
+null	IIga
+null	I Bezdroża
+null	wyobraźni  
+null	II Nowe
+null	zastosowanie
+null	kropli
+null	walerjanowych  
+null	III Odwiedziny
+Ani	Ani
+u	u
+pastorstwa	null
+Ofiara	null
+null	pastorstwa  
+null	IV Ofiara
+Ani	Ani
+dla	dla
+sprawy	sprawy
+honorowej	null
+tosowanie	null
+kropli	null
+walerjanowych	null
+a	null
+null	honorowej  

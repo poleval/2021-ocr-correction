@@ -1,0 +1,313 @@
+—	null
+null	 
+Czego	Czego
+sobie	sobie
+kto	kto
+sam	sam
+nie	nie
+bierze	bierze
+tego	tego
+i	null
+nie	null
+null	i nie
+ma	ma
+Tj	Tj
+czego	czego
+sam	sam
+staraniami	staraniami
+mozołem	mozołem
+nie	nie
+zdobędzie	zdobędzie
+null	 
+Z	Z
+brania	brania
+nikt	nikt
+nie	nie
+ubożeje	ubożeje
+null	 
+Na	Na
+cudzej	cudzej
+brodzie	brodzie
+dobrze	dobrze
+się	się
+uczyć	uczyć
+strzyc	strzyc
+null	 
+Kiedyś	Kiedyś
+bydlę	bydlę
+żryj	żryj
+słomę	słomę
+null	 
+Gdzie	Gdzie
+cię	cię
+lubią	lubią
+tam	tam
+rzadko	rzadko
+bywaj	bywaj
+gdzie	gdzie
+cię	cię
+nienawidzą	nienawidzą
+tam	tam
+nigdy	nigdy
+null	 
+Kiedy	Kiedy
+nie	nie
+jest	jest
+tak	tak
+jak	jak
+chcemy	chcemy
+to	to
+chciejmy	chciejmy
+tak	tak
+jak	jak
+jest	jest
+null	 
+Nie	Nie
+trzeba	trzeba
+opowiadać	opowiadać
+co	co
+się	się
+w	w
+chederze	chederze
+dzieje	dzieje
+Odpowiednie	Odpowiednie
+polskie	polskie
+Choćby	Choćby
+cię	cię
+smażono	smażono
+w	w
+smole	smole
+nie	nie
+powiadaj	powiadaj
+co	co
+się	się
+dzieje	dzieje
+w	null
+szkole	null
+null	w szkole
+null	 
+Gdy	Gdy
+się	się
+nareszcie	nareszcie
+chleb	chleb
+znałazło	null
+null	znalazło
+to	to
+się	się
+śmierć	śmierć
+zjawia	zjawia
+null	 
+Jak	Jak
+kto	kto
+ma	ma
+chleb	chleb
+niech	niech
+nie	nie
+szuka	szuka
+bułki	bułki
+albo	albo
+piernika	piernika
+null	 
+Kiedy	Kiedy
+znajdujemy	znajdujemy
+chleb	chleb
+to	to
+już	już
+i	null
+z	null
+masłem	null
+null	i z masłem
+Tj	Tj
+kiedy	kiedy
+się	się
+wiedzie	wiedzie
+to	to
+się	się
+wiedzie	wiedzie
+null	 
+Kto	Kto
+na	na
+ciebie	ciebie
+kamieniem	kamieniem
+ty	ty
+na	na
+niego	niego
+chlebem	chlebem
+null	 
+Do	Do
+chleba	chleba
+noża	noża
+dostanie	dostanie
+null	 
+Swawolny	Swawolny
+chłopiec	chłopiec
+miewa	miewa
+dobrą	dobrą
+tj	tj
+zdolną	zdolną
+głowę	głowę
+null	 
+Chorego	Chorego
+się	się
+pytają	pytają
+zdrowemu	zdrowemu
+dają	dają
+null	 
+Połóż	Połóż
+chorego	chorego
+jak	jak
+chcesz	chcesz
+wszędzie	wszędzie
+go	go
+boli	boli
+null	 
+Między	Między
+chrześcjanami	chrześcjanami
+żyć	żyć
+między	między
+Żydami	null
+null	żydami
+umierać	umierać
+najle	null
+piej	null
+null	najlepiej
+null	 
+Przed	Przed
+obcym	obcym
+nie	nie
+trzeba	trzeba
+źle	źle
+mówić	mówić
+o	null
+chrześcjanach	null
+null	o chrześcjanach
+Przysłowie	Przysłowie
+przypominające	przypominające
+odległe	odległe
+wieki	wieki
+null	 
+Kto	Kto
+się	się
+sam	sam
+chwali	chwali
+musi	musi
+mieć	mieć
+złych	złych
+sąsiadów	sąsiadów
+Z	null
+ementarza	null
+null	 
+null	Z cmentarza
+z	z
+powrotem	powrotem
+nie	nie
+niosą	niosą
+null	 
+Córka	Córka
+piękna	piękna
+to	to
+pół	pół
+posagu	posagu
+null	 
+Gdy	Gdy
+córkę	córkę
+karzą	karzą
+to	to
+synowę	synowę
+myślą	myślą
+tj	tj
+myślą	myślą
+że	że
+będzie	będzie
+czyjąś	czyjąś
+synową	synową
+null	 
+Pięć	Pięć
+córek	córek
+ochotę	ochotę
+do	do
+śmiechu	śmiechu
+odbiera	odbiera
+null	l
+null	 
+Gdy	Gdy
+się	się
+cyganowi	cyganowi
+w	null
+twarz	null
+null	w twarz
+napluje	napluje
+to	to
+powiada	powiada
+że	że
+deszcz	deszcz
+pada	pada
+null	 
+Gorsza	Gorsza
+ta	ta
+co	co
+czarownicę	czarownicę
+udaje	udaje
+v	v
+naśladuje	naśladuje
+niż	niż
+ta	ta
+eo	null
+null	co
+nią	nią
+jest	jest
+null	 
+Czas	Czas
+włosy	włosy
+pobielai	null
+zdanie	null
+null	pobiela
+null	i zdanie
+odmienia	odmienia
+Przynosi	Przynosi
+rozum	rozum
+null	 
+Im	Im
+kto	kto
+dłużej	dłużej
+czeka	czeka
+tym	tym
+się	się
+dłużej	dłużej
+oszukuje	oszukuje
+null	 
+Długo	Długo
+czekane—nie	null
+null	czekane
+null	—
+null	nie
+darowane	darowane
+null	 
+Czelność	Czelność
+popłaca	popłaca
+null	 
+Nim	Nim
+się	się
+człowieka	człowieka
+pozna	pozna
+trzeba	trzeba
+z	null
+nim	null
+null	z nim
+beczkę	beczkę
+soli	soli
+zjeść	zjeść
+j	null
+a	null
+null	 
+Nim	Nim
+człowiek	człowiek
+siedmdziesięcin	null
+null	siedmdziesięciu
+lat	lat
+dożyje	dożyje
+wszystko	wszystko
+mu	mu
+przed	przed
+oczyma	oczyma
+stanie	stanie

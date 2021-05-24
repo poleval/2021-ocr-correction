@@ -1,0 +1,25 @@
+HENRYK	HENRYK
+JANUSZ	JANUSZ
+KORCZAK	KORCZAK
+UPURUWUŻUWZUO	null
+OWO	null
+KOSZAŁKI	KOSZAŁKI
+OPAŁKI	OPAŁKI
+AR	null
+KOSZAŁKI	null
+OPAŁKI	null
+null	KOSZAŁKIOPAŁKI  
+Satyry	Satyry
+społeczne	null
+Cena	null
+null	społeczne  
+null	       Cena
+Rb	Rb
+WARSZAWA	WARSZAWA
+Jeiececeiniece	null
+null	      
+NAKŁADEM	NAKŁADEM
+KSIĘGARNI	KSIĘGARNI
+POWSZECHNEJ	POWSZECHNEJ
+MARSZAŁKOWSKA	MARSZAŁKOWSKA
+Ą	null

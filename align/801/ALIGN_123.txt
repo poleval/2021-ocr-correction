@@ -1,0 +1,64 @@
+Il	null
+III	null
+IV	null
+VI	null
+FI	null
+VIII	null
+IX	null
+XII	null
+SPIS	SPIS
+RZECZYĆ	null
+W	null
+null	RZECZY
+null	I  W
+króliczej	króliczej
+jamie	null
+Kałuża	null
+lez	null
+Wyścigi	null
+Królik	null
+null	jamie  
+null	II  Kałuża
+null	łez  
+null	III  Wyścigi  
+null	IV  Królik
+wysyła	wysyła
+malego	null
+Bibusia	null
+Rada	null
+gąsienicy	null
+Prosię	null
+null	małego
+null	Bibusia  
+null	V  Rada
+null	gąsienicy  
+null	VI  Prosię
+i	i
+pieprz	null
+Warjacki	null
+Podwieczorek	null
+Plac	null
+null	pieprz  
+null	VII  Warjacki
+null	podwieczorek  
+null	VIII  Plac
+krokietowy	krokietowy
+królowej	null
+Historja	null
+żółwiozwierza	null
+Kontredans	null
+homarów	null
+Kto	null
+null	królowej  
+null	IX  Historja
+null	żółwiozwierza  
+null	X  Kontredans
+null	homarów  
+null	XI  Kto
+ukradł	ukradł
+ciasteczka	null
+Zeznanie	null
+Alinki	null
+null	ciasteczka  
+null	XII  Zeznanie
+null	Alinki  

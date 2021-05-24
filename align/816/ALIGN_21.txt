@@ -1,0 +1,308 @@
+SR	null
+null	 
+Gdzie	Gdzie
+trzęba	null
+null	trzeba
+rozumu	rozumu
+tam	tam
+siła	siła
+nie	nie
+pomoże	pomoże
+null	 
+Dwiema	Dwiema
+rózgami	rózgami
+nie	nie
+biją	biją
+v	v
+nie	nie
+karzą	karzą
+tj	tj
+przestępcy	przestępcy
+nie	nie
+powinny	powinny
+dwie	dwie
+kary	kary
+spotkać	spotkać
+tylko	tylko
+jedna	jedna
+null	 
+Rózga	Rózga
+na	na
+dziecko	dziecko
+kij	kij
+na	na
+głupca	głupca
+null	 
+Kto	Kto
+dał	dał
+na	na
+ryby	ryby
+da	da
+i	i
+na	na
+pieprz	pieprz
+null	 
+Rzemieślnik	Rzemieślnik
+pracuje	pracuje
+przed	przed
+jedzeniem	jedzeniem
+i	i
+je	je
+przed	przed
+pracą	pracą
+null	 
+Rzemieślnik	Rzemieślnik
+z	z
+głodu	głodu
+nie	nie
+umiera	umiera
+null	 
+Choć	Choć
+biedne	biedne
+rzemiosło	rzemiosło
+ale	ale
+rzemiosło	rzemiosło
+null	 
+Wiele	Wiele
+rzemiosł	rzemiosł
+mało	mało
+błogosławieństw	błogosławieństw
+a	null
+e”	null
+null	 
+Kiedy	Kiedy
+rzeźnik	rzeźnik
+od	od
+pnia	pnia
+odchodzi	odchodzi
+to	to
+pies	pies
+na	na
+pień	pień
+skacze	skacze
+null	 
+W	W
+sądzie	sądzie
+trzeba	trzeba
+obie	obie
+strony	strony
+wysłuchać	wysłuchać
+null	 
+Gdzie	Gdzie
+sekret	sekret
+tam	tam
+kradzież	kradzież
+null	 
+We	We
+śnie	śnie
+się	się
+nie	nie
+grzeszy	grzeszy
+null	 
+Kiedy	Kiedy
+serce	serce
+pełne	pełne
+to	to
+oczy	oczy
+łzami	łzami
+zachodzą	zachodzą
+null	 
+Co	Co
+jeden	jeden
+ma	ma
+na	na
+sercu	sercu
+to	to
+inny	inny
+na	na
+języku	języku
+null	 
+Można	Można
+być	być
+i	i
+czarnym	czarnym
+byle	byle
+serce	serce
+mieć	mieć
+dobre	dobre
+null	 
+Nie	Nie
+to	to
+serce	serce
+jest	jest
+radosne	radosne
+co	co
+się	się
+Śmieje	null
+null	śmieje
+null	 
+Nie	Nie
+piękna	piękna
+twarz	twarz
+stanowi	stanowi
+ale	ale
+piękne	piękne
+serce	serce
+null	 
+Kiedy	Kiedy
+skąpy	skąpy
+staje	staje
+się	się
+rozrzntnym	null
+null	rozrzutnym
+to	to
+je	je
+barszcz	barszcz
+z	z
+piernikiem	piernikiem
+null	 
+Skąpy	Skąpy
+drożej	drożej
+płaci	płaci
+leniwy	leniwy
+dłużej	dłużej
+chodzi	chodzi
+null	 
+Z	Z
+cudzej	cudzej
+skóry	skóry
+dobrze	dobrze
+pasy	pasy
+krajać	krajać
+null	 
+Nie	Nie
+bądź	bądź
+za	za
+słodki	słodki
+bo	bo
+cię	cię
+zjedzą	zjedzą
+nie	nie
+bądź	bądź
+za	za
+gorzki	gorzki
+bo	bo
+cię	cię
+wyplują	wyplują
+null	 
+Słońce	Słońce
+zarówno	zarówno
+biednym	biednym
+i	i
+bogatym	bogatym
+przyświeca	przyświeca
+null	 
+Toż	Toż
+samo	samo
+słońce	słońce
+czyni	czyni
+płótno	płótno
+białem	białem
+a	a
+cygana	cygana
+czarnym	czarnym
+t	null
+null	 
+Dobre	Dobre
+albo	albo
+łaskawe	łaskawe
+słowo	słowo
+powoduje	powoduje
+dobrą	dobrą
+odpowiedź	odpowiedź
+null	 
+Razy	Razy
+przemijają	przemijają
+a	a
+słowa	słowa
+zostają	zostają
+Odpowiednie	Odpowiednie
+polskie	polskie
+rana	rana
+się	się
+zagoi	zagoi
+a	a
+słowo	słowo
+nie	nie
+null	 
+Lepsze	Lepsze
+jedno	jedno
+słowo	słowo
+w	w
+czasie	czasie
+niż	niż
+dwa	dwa
+po	po
+niewczasie	niewczasie
+null	 
+Słowo	Słowo
+gdy	gdy
+jeszcze	jeszcze
+w	w
+ustach	ustach
+jest	jest
+panem	panem
+gdy	gdy
+wyszło	wyszło
+z	z
+ust	ust
+głipcem	null
+null	głupcem
+null	 
+Lepiej	Lepiej
+dobrze	dobrze
+słyszeć	słyszeć
+niż	niż
+źle	źle
+widzieć	widzieć
+null	 
+Jak	Jak
+kto	kto
+smaruje	smaruje
+tak	tak
+jedzie	jedzie
+null	 
+Kto	Kto
+się	się
+koło	koło
+smoły	smoły
+uwija	uwija
+ten	ten
+sobie	sobie
+ręce	ręce
+umazać	umazać
+musi	musi
+null	 
+Kiedy	Kiedy
+dwaj	dwaj
+śpią	śpią
+na	na
+jednej	jednej
+poduszce	poduszce
+niech	niech
+się	się
+trzeci	trzeci
+nie	nie
+miesza	miesza
+null	 
+Jak	Jak
+się	się
+kto	kto
+na	na
+gorącem	gorącem
+sparzy	sparzy
+to	to
+na	na
+zimne	zimne
+dmucha	dmucha
+null	 
+Błogo	Błogo
+temu	temu
+kogo	kogo
+Bóg	Bóg
+na	na
+starość	starość
+uszczęśliwia	uszczęśliwia
+Przysłow	null
+żyd	null
+e	null

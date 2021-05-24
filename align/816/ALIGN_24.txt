@@ -1,0 +1,307 @@
+null	 
+Tonący	Tonący
+i	null
+ostrza	null
+null	i ostrza
+miecza	miecza
+się	się
+chwyta	chwyta
+null	 
+Drogi	Drogi
+towar	towar
+z	null
+pod	null
+null	z pod
+ziemi	ziemi
+wyrasta	wyrasta
+tj	tj
+gdy	gdy
+towar	towar
+jaki	jaki
+zdrożeje	zdrożeje
+wtedy	wtedy
+go	go
+kupcy	kupcy
+nawet	nawet
+z	null
+pod	null
+null	z pod
+ziemi	ziemi
+wydobywają	wydobywają
+byle	byle
+jakuajkorzystniej	null
+null	jaknajkorzystniej
+sprzedać	sprzedać
+null	 
+Trocha	Trocha
+do	do
+trochy	trochy
+stanie	stanie
+się	się
+połna	null
+null	pełna
+miska	miska
+null	 
+Każdy	Każdy
+dzień	dzień
+przynosi	przynosi
+nowe	nowe
+troski	troski
+null	 
+Nikt	Nikt
+nie	nie
+wie	wie
+kogo	kogo
+trzewik	trzewik
+dolega	dolega
+tylko	tylko
+ten	ten
+co	co
+go	go
+nosi	nosi
+null	 
+Co	Co
+u	null
+trzeżwego	null
+null	u trzeźwego
+na	na
+sercu	sercu
+to	to
+u	u
+pijanego	pijanego
+na	na
+języku	języku
+null	 
+Twarz	Twarz
+to	to
+zdrajca	zdrajca
+tj	tj
+zdradza	zdradza
+wszystkie	wszystkie
+uczucia	uczucia
+człowieka	człowieka
+null	 
+Cudze	Cudze
+ubranie	ubranie
+nie	nie
+grzeje	grzeje
+null	 
+Kiedy	Kiedy
+uczeń	uczeń
+jest	jest
+zuchwały	zuchwały
+to	to
+i	null
+nauczyciel	null
+null	i nauczyciel
+jest	jest
+zuchwały	zuchwały
+null	 
+Kiedy	Kiedy
+się	się
+uczeń	uczeń
+raduje	raduje
+Gdy	Gdy
+nauczyciel	nauczyciel
+siedzi	siedzi
+na	na
+pokucie	pokucie
+gdyż	gdyż
+wtedy	wtedy
+następuje	następuje
+przerwa	przerwa
+w	w
+nauce	nauce
+null	 
+Umarłego	Umarłego
+z	null
+powrotem	null
+null	z powrotem
+nie	nie
+odnoszą	odnoszą
+null	 
+Kiedy	Kiedy
+mówią	mówią
+umarł	umarł
+to	to
+wierz	wierz
+null	 
+Młody	Młody
+może	może
+stary	stary
+musi	musi
+umrzeć	umrzeć
+null	 
+Dobrze	Dobrze
+wszystko	wszystko
+umieć	umieć
+a	null
+niczego	null
+null	a niczego
+nie	nie
+używać	używać
+null	 
+Lepiej	Lepiej
+dziesięć	dziesięć
+razy	razy
+chorować	chorować
+niż	niż
+raz	raz
+umrzeć	umrzeć
+null	 
+Umrzeć	Umrzeć
+zawsze	zawsze
+czas	czas
+null	 
+Umrzeć	Umrzeć
+nigdy	nigdy
+nie	nie
+za	za
+późno	późno
+null	 
+Upadłemu	Upadłemu
+Bóg	Bóg
+pomaga	pomaga
+null	 
+Dobrzy	Dobrzy
+upominacze—żli	null
+null	upominacze
+null	—
+null	źli
+płatnicy	płatnicy
+null	 
+Wada	Wada
+że	że
+panna	panna
+albo	albo
+narzeczona	narzeczona
+za	za
+piękna	piękna
+Gdy	Gdy
+kto	kto
+wskazuje	wskazuje
+jako	jako
+wadę	wadę
+to	to
+co	co
+w	null
+rzeczywistości	null
+null	w rzeczywistości
+jest	jest
+zaletą	zaletą
+null	 
+Każdy	Każdy
+jest	jest
+na	na
+swoje	swoje
+wady	wady
+ślepy	ślepy
+null	 
+Wszyscy	Wszyscy
+warjaci	warjaci
+w	null
+cudzych	null
+null	w cudzych
+oknach	oknach
+szyby	szyby
+wybijają	wybijają
+tj	tj
+dla	dla
+siebie	siebie
+na	na
+swoją	swoją
+niekorzyść	niekorzyść
+nikt	nikt
+nie	nie
+jest	jest
+warjatem	warjatem
+null	 
+Lepsze	Lepsze
+dobrze	dobrze
+widziane	widziane
+niż	niż
+źle	źle
+słyszane	słyszane
+null	 
+Gdyby	Gdyby
+wszyscy	wszyscy
+byli	byli
+wieszczymi	wieszczymi
+nie	nie
+byłoby	byłoby
+biednych	biednych
+null	 
+Kiedy	Kiedy
+się	się
+wiedzie	wiedzie
+to	to
+i	null
+wół	null
+null	i wół
+się	się
+cieli	cieli
+null	 
+Kiedy	Kiedy
+się	się
+komu	komu
+nie	nie
+wiedzie	wiedzie
+to	to
+null	bo
+znaczy	znaczy
+ba	ba
+null	 
+Kto	Kto
+ma	ma
+wisielca”	null
+null	wisielca
+w	w
+rodzie	rodzie
+temu	temu
+o	o
+stryczku	stryczku
+nie	nie
+wspominaj	wspominaj
+null	 
+Co	Co
+własne	własne
+to	to
+miłe	miłe
+null	 
+Siwe	Siwe
+włosy	włosy
+to	to
+listki	listki
+grobowe	grobowe
+Qiche	null
+null	 
+null	Ciche
+wody	wody
+brzegi	brzegi
+rwą	rwą
+null	 
+Kiedy	Kiedy
+się	się
+wóz	wóz
+przewraca	przewraca
+to	to
+koła	koła
+są	są
+za	za
+ciężkie	ciężkie
+null	 
+Za	Za
+ciężkim	ciężkim
+wozem	wozem
+dobrze	dobrze
+jest	jest
+pieszo	pieszo
+iść	iść
+tj	tj
+przy	przy
+pomocy	pomocy
+bogatego	bogatego
+wpływowego	wpływowego
+łatwo	łatwo
+sobie	sobie
+poradzić	poradzić

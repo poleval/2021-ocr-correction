@@ -1,0 +1,44 @@
+OSOBY	OSOBY
+lurek	null
+lat	null
+Wacio	null
+lat	null
+Krysia	null
+lat	null
+Elżunia	null
+a	null
+«ARE	null
+Matka	null
+null	 Jurek  lat
+null	 Wacio  lat
+null	 Krysia  lat
+null	 Elżunia  lat
+null	 Matka
+—	—
+dziewczynka	dziewczynka
+lat	lat
+—	—
+w	w
+długiej	długiej
+sukni	sukni
+Rzecz	null
+null	 Rzecz
+dzieje	dzieje
+się	się
+w	w
+miasteczku	miasteczku
+U	null
+meblowanie	null
+null	Umeblowanie
+pokoju	pokoju
+dostatnie	dostatnie
+Stół	Stół
+krzeseł	null
+ka	null
+null	krzesełka
+szafa	szafa
+może	może
+być	być
+szezlong	szezlong
+lub	lub
+łóżko	łóżko

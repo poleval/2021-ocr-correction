@@ -1,0 +1,74 @@
+Wychowańcy	null
+null	V Wychowańcy
+panny	panny
+Stacy	Stacy
+urządzają	urządzają
+koncert	null
+Mateusz	null
+null	koncert  
+null	VI Mateusz
+rzecznikiem	rzecznikiem
+bufiastych	bufiastych
+rękawów	null
+Klub	null
+powieściowy	null
+udaż	null
+Próżność	null
+ukarana	null
+ź	null
+Niefortunne	null
+przedstawienie	null
+Epoka	null
+null	rękawów  
+null	VII Klub
+null	powieściowy  
+null	VIII Próżność
+null	ukarana  
+null	IX Niefortunne
+null	przedstawienie  
+null	X Epoka
+w	w
+życiu	życiu
+Ani	null
+Utworzenie	null
+null	Ani  
+null	XI Utworzenie
+kompletu	kompletu
+seminarzystek	null
+Zwierzenia	null
+Ogłoszenie	null
+null	seminarzystek  
+null	XII Zwierzenia  
+null	XIII Ogłoszenie
+listy	listy
+przyjętych	null
+Koncert	null
+null	przyjętych  
+null	XIV Koncert
+w	w
+Kasynie	null
+Seminarzystka	null
+Zirma	null
+null	Kasynie  
+null	XV Seminarzystka  
+null	XVI Zima
+w	w
+minarjum	null
+Sława	null
+null	seminarjum  
+null	XVII Sława
+i	i
+marzenie	null
+Przewożnik	null
+null	marzenie  
+null	XVIII Przewoźnik
+którego	którego
+imię	imię
+je	null
+śmierć	null
+Zmiana	null
+planów	null
+null	jest
+null	śmierć  
+null	XIX Zmiana
+null	planów  

@@ -1,0 +1,291 @@
+Bibljoteka	null
+Instytutu	null
+Huzykolo	null
+UR	null
+gieznego	null
+U	null
+J	null
+Ad	null
+o	null
+RKop	null
+Duch	null
+null	 R
+null	Kop
+null	 Duch
+sieroty	sieroty
+słowa	słowa
+Lenartowicza	null
+Do	null
+Helenki	null
+śpiewów	null
+Nr	null
+—	null
+zaa	null
+Galary	null
+sitowa	null
+Lenartowicza	null
+ŻE	null
+Damn	null
+ie	null
+Nr	null
+a	null
+Hej	null
+null	Lenartowicza  — 
+null	 Galary
+null	słowa
+null	Lenartowicza  — 
+null	 Hej
+do	do
+tańca	tańca
+dziewuchy	dziewuchy
+Mazur	null
+Lza	null
+null	Mazur  — 
+null	 Kalina  — 
+null	 Kujawiak
+słowa	słowa
+Korsaka	null
+„	null
+Nr	null
+—	null
+Kalina	null
+Ukrainiec	null
+Dumka	null
+„Nr	null
+—	null
+Kujawiak	null
+słowa	null
+J	J
+Gregorowicza	null
+Młoda	null
+Matka	null
+Nr	null
+Nowa	null
+null	Gregorowicza  — 
+null	 Nowa
+miłość	miłość
+z	z
+Goethego	null
+—es	null
+Anioł	null
+i	null
+pacholę	null
+spiewow	null
+Nr	null
+Pieśń	null
+null	Goethego  — ½
+null	 Pieśń
+Minstrela	Minstrela
+z	z
+dziewicy	dziewicy
+jeziora	null
+a»	null
+Już	null
+się	null
+nie	null
+powróci	null
+„	null
+Nr	null
+Polonez	null
+null	jeziora  — ½
+null	 Polonez
+„Chociaż	„Chociaż
+to	to
+null	życie
+idzie	idzie
+po	null
+Melodja	null
+Moore	null
+w	null
+NERO	null
+OEM	null
+grudzie”	null
+R	null
+Prośba	null
+dziewczęcia	null
+„	null
+M	null
+M	null
+Kwiat	null
+—m	null
+Rozmowa	null
+ze	null
+słowikiem„	null
+Nr	null
+Powiśle	null
+p	null
+—	null
+Spiew	null
+Zniwiarki	null
+m	null
+Nr	null
+Spiew	null
+Musek	null
+null	pogrudzie“  — 
+null	 Kwiaty  — ½
+null	 Powiśle  — 
+null	 Śpiew
+null	Masek
+z	z
+Maryi	Maryi
+Malezewskiego—a	null
+Trzy	null
+piesńi	null
+z	null
+Lirenki	null
+l	null
+i	null
+null	Malczewskiego  — 
+null	 Żal
+null	Turczynki
+po	po
+stracie	stracie
+syna	syna
+na	na
+wojnie—	null
+Lenartowieza	null
+»	null
+Nr	null
+kJ	null
+Pieśń	null
+null	wojnie  — 
+null	 Pieśń
+z	z
+Wieży	null
+null	wieży
+śpiewów	śpiewów
+Nr	Nr
+Wspomnienie	null
+Nr	null
+—	null
+Pieśń	null
+null	  — 
+null	 Pieśń
+wschodnia	wschodnia
+„Nr	null
+a	null
+Drzym	null
+null	 „ 
+null	Nr
+null	  — ½
+null	 Panna
+null	młoda
+null	 „ 
+null	Nr
+null	  — ½
+null	 R
+null	Kop
+null	 Do
+null	Helenki
+null	  śpiewów
+null	Nr
+null	— ½
+null	 Ułan   „ 
+null	Nr
+null	— ½
+null	 Łza
+null	słowa
+null	Korsaka   „ 
+null	Nr
+null	—  
+null	 Ukrainiec
+null	Dumka   „ 
+null	Nr
+null	—  
+null	 Młoda
+null	Matka   „ 
+null	Nr
+null	—  
+null	 Anioł
+null	i
+null	pacholę  
+null	śpiewów
+null	Nr
+null	—  
+null	 Już
+null	się
+null	nie
+null	powróci   „ 
+null	Nr
+null	—  
+null	 Melodja
+null	Moore   „ 
+null	Nr
+null	—  
+null	 Prośba
+null	dziewczęcia   „ 
+null	Nr
+null	—  
+null	 Rozmowa
+null	ze
+null	słowikiem   „ 
+null	Nr
+null	—  
+null	 Śpiew
+null	żniwiarki   „ 
+null	Nr
+null	—  
+null	 Trzy
+null	pieśni
+null	z
+null	LirenkiLenartowicza   „ 
+null	Nr
+null	— ½
+null	 Wspomnienie   „ 
+null	Nr
+null	—  
+null	 Drzym
+sobie	sobie
+duszo	duszo
+z	z
+tow	null
+Panna	null
+młoda	null
+„	null
+NB	null
+zwa	null
+wiolonczeli	null
+null	towwiolonczeli
+i	i
+fortepian	null
+null	fortepianu   „ 
+Nr	Nr
+null	—  
+Ośm	Ośm
+śpiewów	śpiewów
+wydanie	wydanie
+drugie	drugie
+w	w
+kompłecie	null
+R	null
+Kop	null
+null	komplecie  R
+Dziewięć	Dziewięć
+śpiewów	śpiewów
+w	w
+komplecie	null
+R	null
+null	komplecie  R
+null	 kop
+WARSZAWA	WARSZAWA
+Sa	null
+Nakład	Nakład
+i	i
+własność	własność
+GEBETHNERAiWOLEFA	null
+SB	null
+gi”	null
+ssa	null
+LitJ	null
+null	GEBETHNERA
+null	i
+null	WOLFFA
+null	Lit
+null	J
+Mękarski	Mękarski
+uLAleksandrja	null
+N	null
+null	ul
+null	Aleksandrja
+null	№
+Warszawa	Warszawa

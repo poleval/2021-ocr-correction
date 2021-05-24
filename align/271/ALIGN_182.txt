@@ -1,0 +1,105 @@
+SPIS	SPIS
+RZECZY	RZECZY
+Wstęp	null
+null	Str
+null	Wstęp   
+Część	Część
+pierwsza	pierwsza
+Nauki	Nauki
+matematyczne	matematyczne
+Rozdział	Rozdział
+I	null
+Intuicya	null
+null	I Intuicya
+i	i
+logika	logika
+w	w
+A	null
+null	matematyce  
+Rozdział	Rozdział
+II	null
+Miara	null
+czasu	null
+null	II Miara
+null	czasu  
+Rozdział	Rozdział
+ILI	null
+Pojęcie	null
+ni	null
+M	null
+null	III Pojęcie
+null	przestrzeni  
+Rozdział	Rozdział
+V	null
+Przestrzeń	null
+null	IV Przestrzeń
+i	i
+jej	jej
+trzy	trzy
+wymiary	null
+null	wymiary  
+Część	Część
+druga	druga
+Nauki	Nauki
+fizyczne	fizyczne
+Rozdział	Rozdział
+V	null
+Analiza	null
+null	V Analiza
+i	i
+fizyka	null
+null	fizyka  
+Rozdział	Rozdział
+VI	null
+Astronomia	null
+—	null
+null	VI Astronomia  
+Rozdział	Rozdział
+VII	null
+Historya	null
+null	VII Historya
+fizyki	fizyki
+RaZ	null
+A	null
+null	matematycznej  
+Rozdział	Rozdział
+VIIL	null
+Obecne	null
+null	VIII Obecne
+przesilenie	przesilenie
+fizyki	fizyki
+rate	null
+cziejh	null
+null	matematycznej  
+Rozdział	Rozdział
+TX	null
+Przyszłość	null
+null	IX Przyszłość
+fizyki	fizyki
+matematycznej	null
+zm	null
+null	matematycznej  
+Część	Część
+trzecia	trzecia
+Wartość	Wartość
+przedmiotowa	przedmiotowa
+nauki	nauki
+Rozdział	Rozdział
+X	null
+Czy	null
+null	X Czy
+nauka	nauka
+jest	jest
+sztuczną	null
+ę	null
+Foks	null
+null	sztuczną  
+Rozdział	Rozdział
+XI	null
+Nauka	null
+null	XI Nauka
+a	a
+Rzeczywistość	null
+ę	null
+Ę	null
+null	Rzeczywistość  

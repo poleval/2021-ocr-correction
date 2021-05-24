@@ -1,0 +1,154 @@
+LXT	null
+LXIV	null
+LXV	null
+LXVI	null
+LXVII	null
+LXXII	null
+LXXIIL	null
+LXXIV	null
+LXXVI	null
+LXXVII	null
+LXXVIIL	null
+LXXIX	null
+XA	null
+Gdy	null
+null	Str
+null	LII Gdy
+na	na
+łożu	null
+Dziewczę	null
+null	łożu  
+null	LIII Dziewczę
+z	z
+usty	usty
+różannomi	null
+Niech	null
+null	różannemi  
+null	LIV Niech
+tam	tam
+sobie	null
+Niechaj	null
+inni	null
+Czyż	null
+null	sobie  
+null	LV Niechaj
+null	inni  
+null	LVI Czyż
+Ci	Ci
+me	me
+null	oczy  
+null	LVII Zakonanyś
+null	przyjacielu  
+null	LVIII Chciałem
+null	zabawić  
+null	LIX Twoje
+oczy	oczy
+Zakonanyś	null
+przyjacielu	null
+Chciałem	null
+zabawić	null
+Twoje	null
+oczy	null
+—	—
+to	to
+szafiry	null
+Okłamałem	null
+Cię	null
+Świat	null
+null	szafiry  
+null	LX Okłamałem
+null	Cię  
+null	LXI Świat
+jest	jest
+zagadką	null
+Łamałem	null
+sobie	null
+Dziś	null
+wieczór	null
+Radbym	null
+null	zagadką  
+null	LXII Łamałem
+null	sobie  
+null	LXIII Dziś
+null	wieczór  
+null	LXIV Radbym
+by	by
+moje	moje
+piosenki	null
+Masz	null
+perly	null
+Kto	null
+null	piosenki  
+null	LXV Masz
+null	perły  
+null	LXVI Kto
+raz	raz
+pierwszy	null
+Do	null
+null	pierwszy  
+null	LXVII Do
+twych	twych
+uczuć	null
+—	null
+Panil	null
+«	null
+«	null
+«	null
+»	null
+«	null
+Miałem	null
+null	uczuć  
+null	LXVIII —
+null	Pani  
+null	LXIX Miałem
+rad	rad
+dosyć	null
+Ów	null
+null	dosyć  
+null	LXX Ów
+roskoszny	roskoszny
+młodzian	null
+Raz	null
+null	młodzian  
+null	LXXI Raz
+mi	mi
+się	się
+śniło	null
+W	null
+null	śniło  
+null	LXXII W
+miesiącu	miesiącu
+Lipcu	null
+Od	null
+null	Lipcu  
+null	LXXIII Od
+ust	ust
+twych	null
+W	null
+null	twych  
+null	LXXIV W
+ciemnej	ciemnej
+pocztowćj	null
+Jakby	null
+widziadła	null
+Gdyś	null
+null	pocztowéj  
+null	LXXVI Jakby
+null	widziadła  
+null	LXXVII Gdyś
+mi	mi
+w	w
+uściskach	null
+Gdy	null
+null	uściskach  
+null	LXXVIII Gdy
+już	już
+zostaniesz	null
+Gdy	null
+null	zostaniesz  
+null	LXXIX Gdy
+mnie	mnie
+w	w
+objęciach	null
+Str	null
+null	objęciach  

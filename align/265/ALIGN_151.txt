@@ -1,0 +1,123 @@
+O	O
+sercu	null
+Bohaterstwo	null
+null	sercu  
+null	Bohaterstwo  „ 
+Sztuka	Sztuka
+dla	dla
+sztuki	null
+null	sztuki  „ 
+Do	Do
+muzyki	null
+null	muzyki  
+Na	Na
+marginesie	marginesie
+karty	karty
+pogrzebowej	null
+Człowiekwół	null
+Krytykowi	null
+„Oóż	null
+null	pogrzebowej  „ 
+null	Człowiekwół  
+null	Krytykowi  „ 
+null	„Cóż
+szukacie	szukacie
+żywiącego	żywiącego
+miody	null
+zmanoni	null
+Modlitwa	null
+null	między
+null	umarłymi”  „ 
+null	Modlitwa  
+Długie	Długie
+życie	null
+null	życie  „ 
+Wieczny	Wieczny
+Tułacz	null
+null	Tułacz  
+Dzieło	Dzieło
+i	i
+Autor	null
+null	Autor  „ 
+O	O
+Wierszach	null
+Kukułka	null
+Tańce	null
+Mędrey	null
+Roztańczonej	null
+Theatrum	null
+null	Wierszach  
+null	Kukułka  „ 
+null	Tańce  
+null	Mędrcy  „ 
+null	Roztańczonej  „ 
+null	Theatrum  
+O	O
+głupeu	null
+null	głupcu  „ 
+Z	Z
+Księgi	Księgi
+Przyrody	null
+Odrodzenie	null
+null	Przyrody  
+null	Odrodzenie  „ 
+Co	Co
+gorsze	null
+null	gorsze  „ 
+Ostateczności	Ostateczności
+sohadze	null
+się	null
+null	schodzą
+null	się  
+Pytanie	Pytanie
+Pawła	null
+null	Pawła  „ 
+Do	Do
+przyjaciela	null
+null	przyjaciela  
+Życie	Życie
+śmiercią—śmierć	null
+życiem	null
+A	null
+Pieniądz	null
+Najniestrawniejsze	null
+null	śmiercią
+null	—
+null	śmierć
+null	życiem  „ 
+null	X  „ 
+null	Pieniądz  
+null	Najniestrawniejsze  „ 
+Cudny	Cudny
+jest	jest
+ten	ten
+świat	null
+Pewnemu	null
+null	świat  
+null	Pewnemu  „ 
+Do	Do
+bociana	null
+kestina	null
+lente	null
+null	bociana  „ 
+null	Festina
+null	lente  
+Groźny	Groźny
+zbawca	null
+null	zbawca  
+O	O
+Księdzu	Księdzu
+Biskupie	Biskupie
+Warmińskim	null
+null	Warmińskim  „ 
+O	O
+Trembeckim	null
+null	Trembeckim  „ 
+Zagadka	Zagadka
+śmierci	null
+null	śmierci  
+Co	Co
+zbawia	null
+»	null
+»	null
+null	zbawia  „ 

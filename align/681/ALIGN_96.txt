@@ -1,0 +1,81 @@
+Str	null
+Iran	null
+null	TREŚĆ
+null	———
+null	I Iran
+i	i
+Irańczycy	null
+RWNOWETR	null
+Ii	null
+Religja	null
+null	Irańczycy  
+null	II Religja
+Irańczyków	Irańczyków
+se	null
+Zaratustrą	null
+IJL	null
+Reformacja	null
+null	przed
+null	Zaratustrą  
+null	III Reformacja
+religijna	religijna
+i	i
+społeczno	null
+oby	null
+czajowa	null
+Zaratustry	null
+«	null
+«	null
+lv	null
+Zaramsira	null
+V	null
+Awesta	null
+«	null
+soaiAL	null
+VI	null
+Ahura	null
+null	społecznoobyczajowa
+null	Zaratustry  
+null	IV Zaratustra  
+null	V Awesta  
+null	VI Ahura
+Mazda	Mazda
+i	i
+Aogro	null
+ssa	null
+A	null
+MIĘCKOŁ	null
+UA	null
+VIIL	null
+Rytuał	null
+oaacć	null
+null	Angro
+null	Mainyu  
+null	VII Kult  
+null	VIII Rytuał
+null	oczyszczania
+i	i
+dze	null
+NAA	null
+IX	null
+Śmierć	null
+null	obyczaje  
+null	IX Śmierć
+i	i
+życie	życie
+zagrobowe	null
+«	null
+X	null
+Rzeczy	null
+null	zagrobowe  
+null	X Rzeczy
+ostateczne	ostateczne
+Koniec	Koniec
+świata	null
+a	null
+aratustra	null
+i	null
+jego	null
+nauka	null
+OWEN	null
+null	świata  

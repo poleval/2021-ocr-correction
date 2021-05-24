@@ -1,0 +1,79 @@
+II	null
+II	null
+NĄ	null
+VE	null
+VII	null
+VIII	null
+IX	null
+SPIS	SPIS
+ROZDZIAŁÓW	ROZDZIAŁÓW
+„AVA	null
+od	null
+null	 od
+null	strdo
+str	str
+do	null
+str	null
+Charakterystyka	null
+Żyda	null
+—	null
+Talmud	null
+null	I Charakterystyka
+null	Żyda  —  
+null	II Talmud
+żydowska	żydowska
+Księga	Księga
+Ksiąg	null
+—	null
+Złudzenia	null
+asymilacyjne	null
+»	null
+„	null
+—	null
+Co	null
+null	Ksiąg  —  
+null	III Złudzenia
+null	asymilacyjne  —  
+null	IV Co
+Żydzi	Żydzi
+wnieśli	wnieśli
+do	do
+kultury	kultury
+europejskiej	null
+—	null
+Żydzi	null
+null	europejskiej  —
+null	V Żydzi
+w	w
+handlu	null
+—	null
+Kłamstwo	null
+syonizmu	null
+—	null
+Antysemici	null
+©	null
+„	null
+ę	null
+erą	null
+KZDZBO	null
+Antysemici	null
+polscy	null
+—	null
+Współczośni	null
+null	handlu  —
+null	VI Kłamstwo
+null	syonizmu  —
+null	VII Antysemici  —
+null	VIII Antysemici
+null	polscy  —
+null	IX Współcześni
+Żydzi	Żydzi
+polscy	null
+—	null
+Streszczenie	null
+null	polscy  —
+null	X Streszczenie
+i	i
+wnioski	null
+—	null
+null	wnioski  —

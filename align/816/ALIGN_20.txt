@@ -1,0 +1,299 @@
+skończony	null
+null	 
+Prawdą	Prawdą
+przed	przed
+Boga	Boga
+zajdziesz	zajdziesz
+null	 
+Za	Za
+prawdę	prawdę
+biją	biją
+null	 
+Kto	Kto
+nie	nie
+może	może
+prochu	prochu
+wąchać	wąchać
+niech	niech
+na	na
+wojnę	wojnę
+nie	nie
+idzie	idzie
+null	 
+Kto	Kto
+za	za
+wiele	wiele
+przebiera	przebiera
+ten	ten
+w	w
+błoto	błoto
+wpada	wpada
+null	 
+Jak	Jak
+nie	nie
+można	można
+przejść	przejść
+to	to
+trzeba	trzeba
+podleźć	podleźć
+null	 
+Z	Z
+kim	kim
+kto	kto
+przestaje	przestaje
+takim	takim
+się	się
+staje	staje
+null	 
+Co	Co
+komu	komu
+przeznaczone	przeznaczone
+to	to
+się	się
+spełnia	spełnia
+null	 
+Gdy	Gdy
+przychodzi	przychodzi
+przeznaczony	przeznaczony
+to	to
+interes	interes
+w	w
+dwóch	dwóch
+słowach	słowach
+null	skończony
+tj	tj
+gdy	gdy
+się	się
+zjawia	zjawia
+konkurent	konkurent
+do	do
+ręki	ręki
+panny	panny
+null	 
+Zasługa	Zasługa
+przodków	przodków
+to	to
+nie	nie
+są	są
+żarty	żarty
+null	 
+Za	Za
+przyglądanie	przyglądanie
+za	za
+obejrzenie	obejrzenie
+nie	null
+null	nic
+się	się
+nie	nie
+płaci	płaci
+null	 
+Chcesz	Chcesz
+się	się
+przekonać	przekonać
+że	że
+jestem	jestem
+twoim	twoim
+przyjacielem	przyjacielem
+Nie	Nie
+posłuchaj	posłuchaj
+mojej	mojej
+rady	rady
+null	 
+Kto	Kto
+wprzód	wprzód
+przychodzi	przychodzi
+ten	ten
+wprzód	wprzód
+miele	miele
+Qv	null
+null	 
+null	Co
+przymuszone	przymuszone
+i	i
+wmówione	wmówione
+tego	tego
+Bóg	Bóg
+nie	nie
+cierpi	cierpi
+up	null
+null	np
+null	o
+małżeństwie	małżeństwie
+zawartem	zawartem
+pod	pod
+przymusem	przymusem
+null	 
+Przyrzekać	Przyrzekać
+łatwo	łatwo
+dotrzymać	dotrzymać
+trudniej	trudniej
+null	 
+Przysłowie	Przysłowie
+to	to
+przykazanie	przykazanie
+null	 
+Znać	Znać
+ptaka	ptaka
+po	po
+pierzu	pierzu
+null	 
+Purym	Purym
+nie	nie
+święto	święto
+febra	febra
+nie	nie
+choroba	choroba
+Purymzapusty	null
+null	Purym
+null	zapusty
+null	 
+Pycha	Pycha
+na	na
+śmiecisku	śmiecisku
+leży	leży
+Tak	Tak
+mówią	mówią
+gdy	gdy
+się	się
+kto	kto
+za	null
+nadto	null
+null	zanadto
+nadyma	nadyma
+wynosi	wynosi
+my	null
+null	 
+Kto	Kto
+pyta	pyta
+nie	nie
+błądzi	błądzi
+null	 
+Rabinowi	Rabinowi
+wolno	wolno
+Odpowiednie	Odpowiednie
+polskie	polskie
+panu	panu
+wolno	wolno
+null	 
+Miej	Miej
+mnie	mnie
+za	za
+rabina	rabina
+a	a
+pilnuj	pilnuj
+jak	jak
+złodzieja	złodzieja
+null	 
+Rachunek	Rachunek
+jest	jest
+w	w
+porządku	porządku
+tylko	tylko
+pieniędzy	pieniędzy
+brak	brak
+null	 
+Dobrze	Dobrze
+choć	choć
+i	i
+godzinę	godzinę
+być	być
+wrajn	null
+null	w
+null	raju
+null	 
+Błogosławione	Błogosławione
+te	te
+ręce	ręce
+co	co
+sobie	sobie
+same	same
+usługują	usługują
+null	 
+Próżne	Próżne
+ręce	ręce
+ściany	ściany
+psują	psują
+Qudzemi	null
+null	 
+null	Cudzemi
+rękami	rękami
+dobrze	dobrze
+żar	żar
+wygrzebywać	wygrzebywać
+null	 
+Robakowi	Robakowi
+w	w
+chrzanie	chrzanie
+zdaje	zdaje
+się	się
+że	że
+niema	niema
+nie	null
+null	nic
+słodszego	słodszego
+null	 
+Gdy	Gdy
+się	się
+robaka	robaka
+przydepcze	przydepcze
+to	to
+się	się
+i	i
+on	on
+krzywi	krzywi
+null	 
+Jeżeli	Jeżeli
+nie	nie
+możemy	możemy
+robić	robić
+jak	jak
+chcemy	chcemy
+róbmy	róbmy
+jak	jak
+może	null
+null	możemy
+null	 
+Nie	Nie
+tak	tak
+się	się
+prędko	prędko
+robi	robi
+jak	jak
+się	się
+mówi	mówi
+null	 
+Gdy	Gdy
+rodzice	rodzice
+są	są
+djabłami	djabłami
+to	to
+dzieci	dzieci
+złemi	złemi
+duchami	duchami
+null	 
+Lepszy	Lepszy
+chleb	chleb
+u	u
+rodziców	rodziców
+niż	niż
+kołacz	kołacz
+u	u
+siebie	siebie
+null	 
+Rodzice	Rodzice
+muszą	muszą
+od	od
+dzieci	dzieci
+cierpieć	cierpieć
+null	 
+Wszystkiego	Wszystkiego
+za	za
+pieniądze	pieniądze
+dostanie	dostanie
+prócz	prócz
+rozumu	rozumu
+null	 
+Rozum	Rozum
+z	z
+latami	latami
+przychodzi	przychodzi

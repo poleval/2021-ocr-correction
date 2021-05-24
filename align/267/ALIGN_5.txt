@@ -1,0 +1,40 @@
+OSOBY	OSOBY
+Ludwiś	null
+null	 Ludwiś
+null	 
+lat	lat
+Zbyszek	null
+null	 Zbyszek
+null	 
+lat	lat
+nizki	nizki
+tęgi	tęgi
+chłopiec	chłopiec
+Kazia	null
+at	null
+Elunia	null
+null	 Kazia
+null	 
+lat	lat
+Rzecz	null
+null	 Elunia
+null	 
+null	lat
+null	 
+null	 Rzecz
+dzieje	dzieje
+się	się
+w	w
+mieście	mieście
+Scena	Scena
+przedstawia	przedstawia
+pokój	pokój
+w	w
+nim	nim
+stół	stół
+krzesła	krzesła
+obrazy	obrazy
+etażerka	etażerka
+szafa	szafa
+zegar	zegar
+ścienny	ścienny

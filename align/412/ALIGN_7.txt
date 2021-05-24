@@ -1,0 +1,34 @@
+JI	null
+GJĘ	null
+PI	null
+null	JAK
+null	SIĘ
+null	PAN
+PAWEŁ	PAWEŁ
+ŻEJIZ	null
+null	ŻENIŁ
+null	i
+JAK	JAK
+SIĘ	SIĘ
+OŻENIŁ	OŻENIŁ
+POWIEŚO	null
+null	POWIEŚC
+J	J
+I	I
+Kraszewskiego	Kraszewskiego
+Nakład	Nakład
+i	i
+własność	własność
+wydawców	wydawców
+WARSZAWA	WARSZAWA
+null	  
+KRAKÓW	KRAKÓW
+Gebethner	Gebethner
+i	i
+Wolf	null
+null	Wolff
+null	  
+G	G
+Gebethner	Gebethner
+i	i
+Sp	Sp

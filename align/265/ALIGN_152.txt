@@ -1,0 +1,102 @@
+Na	Na
+karnecie	karnecie
+balowym	null
+Małżeństwo	null
+null	balowym  
+null	Małżeństwo  „ 
+Co	Co
+droższe	null
+Bogaczowi	null
+Sąsiedztwo	null
+null	droższe  „ 
+null	Bogaczowi  
+null	   „ 
+null	Sąsiedztwo  
+Przestroga	Przestroga
+w	w
+przysłowiu	null
+Muchołapskiemu	null
+null	przysłowiu  „ 
+null	Muchołapskiemu  
+Księga	Księga
+zażaleń	null
+null	zażaleń  „ 
+Grzech	Grzech
+czy	czy
+nieszczęście	null
+Szlachectwo	null
+null	nieszczęście  „ 
+null	Szlachectwo  
+Circulus	Circulus
+vitiosus	null
+null	vitiosus  „ 
+Muzyka	Muzyka
+myśli	null
+null	myśli  „ 
+„Caro	„Caro
+est	est
+nom	null
+Angelus	null
+Pytanie	null
+Najpiękniejsze	null
+null	non
+null	Angelus”  
+null	Pytanie  „ 
+null	Najpiękniejsze  „ 
+Zapach	Zapach
+ziemi	null
+null	ziemi  
+Przy	Przy
+ujściu	null
+Mizantropia	null
+null	ujściu  „ 
+null	Mizantropia  „ 
+Dziwiącemu	Dziwiącemu
+się	null
+null	się  „ 
+Na	Na
+zawsze	null
+Codzienność	null
+null	zawsze  
+null	Codzienność  „ 
+Z	Z
+barłogu	barłogu
+Hiobowego	null
+null	Hiobowego  „ 
+Słowo	Słowo
+a	a
+Ciało	null
+null	Ciało  
+Stopnie	Stopnie
+boleści	null
+null	boleści  „ 
+Nie	Nie
+trynmfuj	null
+null	tryumfuj  
+Pociecha	Pociecha
+niepełna	null
+null	niepełna  „ 
+Vitam	Vitam
+aeternam	null
+Pytanie	null
+null	aeternam  „ 
+null	Pytanie  „ 
+O	O
+swoich	swoich
+myślach	null
+null	myślach  
+PRZEKŁADY	PRZEKŁADY
+Z	Z
+PSAŁTERZA	PSAŁTERZA
+DAWIDOWEGO	DAWIDOWEGO
+Psalm	Psalm
+XLI	null
+null	XLI  
+Psalm	Psalm
+LVI	null
+null	LVI  
+Psalm	Psalm
+LXXVI	null
+»	null
+»	null
+null	LXXVI  

@@ -1,0 +1,34 @@
+OJCIEC	OJCIEC
+PROKOP	PROKOP
+KARTKA	KARTKA
+ZE	ZE
+WSPOMNIEŃ	WSPOMNIEŃ
+Przeł	null
+null	przez
+Klemensa	Klemensa
+Junoszę	Junoszę
+TF	null
+INSTYTUT	null
+BADAŃ	null
+LITERACKICH	null
+PAN	null
+BIBLIOTEKA	null
+Warszawa	null
+ul	null
+Nowy	null
+Świat	null
+Rf	null
+Tel	null
+WARSZAWĄ	null
+null	     ────     ────
+null	Z
+null	portretem
+null	────     ────     
+null	WARSZAWA
+Nakład	Nakład
+null	i
+druk	druk
+Emila	Emila
+Skiwskiego	Skiwskiego
+httprcinorgpl	null
+null	─

@@ -1,0 +1,25 @@
+WARSZAWA	null
+KRAKÓW	null
+TOWARZYSTWO	null
+WYDAWNICZE	null
+W	null
+WARSZAWIE	null
+MAZOWIECKA	null
+STARE	null
+null	Janusz
+null	Korczak
+null	Jak
+null	kochać
+null	dziecko
+null	Dziecko
+null	w
+null	rodzinie
+null	WARSZAWA  KRAKÓWTOWARZYSTWO
+null	 WYDAWNICZE
+null	 W
+null	 WARSZAWIEMAZOWIECKA
+null	 STARE
+MIASTO	MIASTO
+II	null
+MARSZAŁKOWSKA	null
+null	 MARSZAŁKOWSKA

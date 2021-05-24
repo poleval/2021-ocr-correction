@@ -1,0 +1,111 @@
+SPIS	SPIS
+PRZEDMIOTÓW	PRZEDMIOTÓW
+Przypisanie	null
+W	null
+samotności	null
+ZA	null
+Za	null
+bramą	null
+Ź	null
+r	null
+DE	null
+kopanem	null
+DY	null
+©	null
+ubałówce	null
+ź	null
+Jaworz	null
+U	null
+null	  Przypisanie  
+null	I  W
+null	samotności  
+null	II  Za
+null	bramą  
+null	III  Z
+null	rana  
+null	IV  W
+null	Zakopanem
+null	  
+null	V  Na
+null	Gubałówce  
+null	VI  Jaworzynka  
+null	VII  W
+null	Jaszczurówce  
+null	VIII  Kalatówka  
+null	IX  Na
+null	Magórze  
+null	X  W
+null	niepogodę  
+null	XI  Kościelisko  
+null	XII  W
+null	Strążyskach  
+null	XIII  U
+stóp	stóp
+Giewontu	null
+a	null
+W	null
+null	Giewontu  
+null	XIV  W
+Zakopanem	Zakopanem
+Małołąka	null
+W	null
+null	  
+null	XV  Małołąka  
+null	XVI  W
+Anioł	Anioł
+Pański	null
+w	null
+l	null
+U	null
+null	Pański  
+null	XVII  U
+Czerwonego	Czerwonego
+Wircha	null
+m	null
+f	null
+Na	null
+łące	null
+i	null
+U	null
+Zawratu	null
+j	null
+W	null
+lesie	null
+Rz	null
+U	null
+null	Wircha  
+null	XVIII  Na
+null	łące  
+null	XIX  U
+null	Zawratu  
+null	XX  W
+null	lesie  
+null	XXI  U
+Morskiego	Morskiego
+Oka	null
+Mirań	null
+Koszysta	null
+O	null
+zachodzie	null
+Babia	null
+Góra	null
+Liliowćj	null
+W	null
+nocy	null
+A	null
+Pożegnanie	null
+null	Oka  
+null	XXII  Przed
+null	burzą  
+null	XXIII  Murań  
+null	XXIV  Koszysta  
+null	XXV  O
+null	zachodzie  
+null	XXVI  Babia
+null	Góra  
+null	XXVII  Z
+null	Liliowéj  
+null	XXVIII  W
+null	nocy  
+null	XXIX  Pożegnanie  
+null	XXX  Zakończenie  

@@ -1,0 +1,27 @@
+null	ARTUR
+null	OPPMAN
+null	OROT
+null	Pieśni
+null	o
+null	Sławie
+NOWE	NOWE
+POEZYE	POEZYE
+null	Z
+PORTRETEM	PORTRETEM
+AUTORA	AUTORA
+RSZAWA	null
+————	null
+LUBLIN	null
+—————	null
+azaj	null
+©	null
+null	NAKŁAD
+null	GEBETHNERA
+null	I
+null	WOLFFA
+null	WARSZAWA      LUBLIN
+null	      ŁÓDŹKRAKÓW          G
+GEBETHNER	GEBETHNER
+I	I
+SSA	null
+null	SPÓŁKA

@@ -1,0 +1,244 @@
+u	null
+Tf	null
+ez	null
+W	null
+null	 W
+trójdźwięku	trójdźwięku
+powyższym	powyższym
+nie	nie
+ma	ma
+modulacyi	modulacyi
+Tony	Tony
+as	as
+i	i
+des	des
+nie	nie
+mają	mają
+żadnej	żadnej
+wspólności	wspólności
+z	z
+gamą	gamą
+dur	null
+je	null
+dnak	null
+null	Cdur
+null	jednak
+nie	nie
+zmieniają	zmieniają
+pojęcia	pojęcia
+tonacyi	tonacyi
+dur	null
+Tonacye	null
+null	Cdur
+null	 Tonacye
+określają	określają
+trzy	trzy
+trójdźwięki	trójdźwięki
+toniczny	toniczny
+na	na
+to	null
+nice	null
+null	tonice
+utworzony	utworzony
+poddominantowy	poddominantowy
+i	i
+dominantowy	dominantowy
+Zdarza	null
+null	 Zdarza
+się	się
+że	że
+kompozytor	kompozytor
+pisząc	pisząc
+motyw	motyw
+nie	nie
+harmoni	null
+zuje	null
+null	harmonizuje
+go	go
+a	a
+jednak	jednak
+daje	daje
+się	się
+w	w
+nim	nim
+wyczuć	wyczuć
+harmonia	harmonia
+jak	jak
+n	null
+p	null
+null	n p
+w	w
+»Impromtu«	»Impromtu«
+Schuberta	Schuberta
+Tak	null
+null	 Tak
+trójźwięki	trójźwięki
+jak	jak
+i	i
+czteródźwięki	null
+null	czterodźwięki
+rozpoznamy	rozpoznamy
+łatwo	łatwo
+używszy	używszy
+tonu	tonu
+zasadniczego	zasadniczego
+zamiast	zamiast
+akordu	akordu
+Zanalizujmy	null
+trójdźwiek	null
+null	 Zanalizujmy
+null	trójdźwięk
+c	c
+eg	null
+null	e
+null	g
+na	na
+prawie	prawie
+współbrzmień	współbrzmień
+gy”	null
+eż	null
+cg	null
+null	 
+null	c
+null	→
+null	g
+null	 
+null	c
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	  
+null	 
+null	c
+null	g
+kwinta	kwinta
+g	g
+c	c
+kwarta	kwarta
+odwrócona	odwrócona
+kwinta	kwinta
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	g
+null	 
+c	c
+null	←
+g	g
+Jako	null
+null	 Jako
+naturalny	naturalny
+ton	ton
+współbrzmienia	współbrzmienia
+wprowadzimy	wprowadzimy
+ter	null
+cyę	null
+null	tercyę
+e	e
+GL	null
+null	 
+null	c
+null	→
+e	e
+CH	null
+ko	null
+sha	null
+c—	null
+null	 
+null	g
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	  
+null	 
+null	c
+null	—
+e	e
+tercya	tercya
+wielka	wielka
+null	 
+null	 
+e	e
+—	—
+g	g
+tercya	tercya
+mała	mała
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+c	c
+eg	null
+a	null
+esl	null
+null	 
+null	es
+null	←
+null	g
+null	es
+—	—
+null	c
+w	w
+dół	dół
+tercya	tercya
+mała	mała
+g	g
+—	—
+es	es
+w	w
+dół	dół
+tercya	tercya
+wielka	wielka

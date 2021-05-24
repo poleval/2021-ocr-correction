@@ -1,0 +1,306 @@
+SB	null
+null	 
+Wszyscy	Wszyscy
+szewcy	szewcy
+bez	bez
+butów	butów
+chodzą	chodzą
+null	 
+Nikt	Nikt
+nie	nie
+szkodzi	szkodzi
+innym	innym
+tylko	tylko
+sobie	sobie
+null	 
+Szlachcic	Szlachcic
+myśli	myśli
+o	null
+psach	null
+i	null
+koniach	null
+a	null
+żyd	null
+o	null
+żonie	null
+i	null
+dzieciach	null
+null	o psach
+null	i koniach
+null	a żyd
+null	o żonie
+null	i dzieciach
+null	 
+Każdy	Każdy
+szynkarz	szynkarz
+swoje	swoje
+piwo	piwo
+chwali	chwali
+null	 
+Ściany	Ściany
+mają	mają
+uszy	uszy
+ulice	ulice
+mają	mają
+oczy	oczy
+null	 
+Nie	Nie
+stawaj	stawaj
+pod	pod
+cudze	cudze
+ściany	ściany
+nie	nie
+usłyszysz	usłyszysz
+własnej	własnej
+nagany	nagany
+null	 
+Pierwsze	Pierwsze
+śliwki	śliwki
+są	są
+robaczywe	robaczywe
+null	 
+Tylko	Tylko
+śmierć	śmierć
+darmo	darmo
+przychodzi	przychodzi
+a	null
+jednak	null
+null	a jednak
+trzeba	trzeba
+ją	ją
+Życiem	null
+null	życiem
+przypłacić	przypłacić
+null	 
+Wszystko	Wszystko
+lepsze	lepsze
+niż	niż
+śmierć	śmierć
+null	 
+Śmierć	Śmierć
+nie	nie
+zemsta	zemsta
+null	 
+Śmierć	Śmierć
+prawdę	prawdę
+wyjawia	wyjawia
+null	 
+Śmierć	Śmierć
+nie	nie
+przebiera	przebiera
+null	 
+Śmierć	Śmierć
+ma	ma
+zawsze	zawsze
+wymówkę	wymówkę
+null	 
+Śmierć	Śmierć
+nie	nie
+kłopocze	kłopocze
+się	się
+o	null
+to	null
+null	o to
+czy	czy
+umarły	umarły
+ma	ma
+na	na
+całun	całun
+albo	albo
+na	na
+ubranie	ubranie
+pośmiertne	pośmiertne
+null	 
+Śmierć	Śmierć
+zabija	zabija
+a	null
+sprawiedliwą	null
+null	a sprawiedliwą
+być	być
+nie	nie
+przestaje	przestaje
+Z	null
+śmiercią	null
+null	 
+null	Z śmiercią
+niema	niema
+żartów	żartów
+null	 
+Przed	Przed
+śmiercią	śmiercią
+nie	nie
+można	można
+się	się
+ukryć	ukryć
+null	 
+Gdy	Gdy
+się	się
+zdejmie	zdejmie
+śmietanę	śmietanę
+pozostaje	pozostaje
+kwaśne	kwaśne
+mleko	mleko
+null	 
+Kiedy	Kiedy
+świat	świat
+mówi	mówi
+trzeba	trzeba
+wierzyć	wierzyć
+null	 
+Tak	Tak
+to	to
+się	się
+na	na
+świecie	świecie
+dzieje	dzieje
+jeden	jeden
+ma	ma
+worek	worek
+a	null
+drugi	null
+null	a drugi
+ma	ma
+pieniądze	pieniądze
+null	 
+Jak	Jak
+kto	kto
+ma	ma
+ten	ten
+świat	świat
+to	to
+ma	ma
+i	null
+tamten	null
+null	i tamten
+świat	świat
+tj	tj
+jak	jak
+się	się
+kto	kto
+ma	ma
+dobrze	dobrze
+na	na
+tym	tym
+świecie	świecie
+to	to
+i	null
+na	null
+null	i na
+tamtym	tamtym
+null	 
+Kto	Kto
+się	się
+chce	chce
+światn	null
+null	światu
+pokazać	pokazać
+dużo	dużo
+go	go
+to	to
+kosztuje	kosztuje
+tj	tj
+gdy	gdy
+kto	kto
+chce	chce
+w	null
+świecie	null
+null	w świecie
+piękne	piękne
+imię	imię
+zyskać	zyskać
+null	 
+Bóg	Bóg
+zaprzysiągł	zaprzysiągł
+by	by
+w	null
+świecie	null
+null	w świecie
+null	nic
+nie	nie
+nie	null
+zaginęło	zaginęło
+null	 
+Cały	Cały
+świat	świat
+to	to
+jedno	jedno
+miasto	miasto
+null	 
+Jedna	Jedna
+połowa	połowa
+Świata	null
+null	świata
+żyje	żyje
+jak	jak
+panowie	panowie
+druga	druga
+jak	jak
+nędzarze	nędzarze
+null	 
+Świat	Świat
+jest	jest
+jak	jak
+drabina	drabina
+jeden	jeden
+wchodzi	wchodzi
+drugi	drugi
+schodzi	schodzi
+null	 
+Światu	Światu
+nie	nie
+można	można
+ust	ust
+zamknąć	zamknąć
+null	 
+Po	Po
+święcie	święcie
+zostają	zostają
+długi	długi
+i	null
+brudna	null
+null	i brudna
+bielizna	bielizna
+null	 
+Gdyby	Gdyby
+świnia	świnia
+miała	miała
+rogi	rogi
+światby	światby
+się	się
+ostać	ostać
+nie	nie
+mógł	mógł
+Z	null
+świńskiego	null
+null	 
+null	Z świńskiego
+ogona	ogona
+nie	nie
+zrobisz	zrobisz
+kołpaka	kołpaka
+null	 
+Co	Co
+tanie	tanie
+to	to
+drogie	drogie
+null	 
+Kiedy	Kiedy
+dziewczyna	dziewczyna
+nie	nie
+umie	umie
+tańczyć	tańczyć
+to	to
+powiada	powiada
+że	że
+muzykanei	null
+null	muzykanci
+nie	nie
+umieją	umieją
+grać	grać
+null	 
+Nim	Nim
+tłusty	tłusty
+schudnie	schudnie
+to	to
+chudy	chudy
+zdechnie	zdechnie

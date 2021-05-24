@@ -1,0 +1,1 @@
+--metric WER:s<(\\n|\ )+><\ >N<WER> --precision 5 --show-as-percentage

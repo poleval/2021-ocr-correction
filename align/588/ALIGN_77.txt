@@ -1,0 +1,38 @@
+WZW	null
+ania	null
+aa	null
+Treść	Treść
+Wstęp	null
+M	null
+I	null
+Od	null
+null	Wstęp  
+null	I Od
+rękopisu	rękopisu
+do	do
+drukarni	null
+I	null
+Zecernia	null
+III	null
+Druk	null
+V	null
+Papier	null
+V	null
+Introligatornia	null
+VI	null
+Do	null
+null	drukarni  
+null	II Zecernia  
+null	III Druk  
+null	IV Papier  
+null	V Introligatornia  
+null	VI Do
+rąk	rąk
+czytelników	null
+Zakończenie	null
+KOJE	null
+AZSDJEJA	null
+ROZDZ	null
+null	czytelników  
+null	Zakończenie  
+null	 

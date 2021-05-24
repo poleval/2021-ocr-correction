@@ -1,0 +1,108 @@
+TRESG	null
+ara	null
+null	TREŚĆ
+null	Str
+ROZDZIAŁ	ROZDZIAŁ
+Wstępny	null
+null	 I Wstępny
+Bohaterowie	Bohaterowie
+w	w
+imię	imię
+pracy	pracy
+i	i
+nauki	null
+vyvwvvv	null
+wyvwvwvwv	null
+Podbój	null
+null	nauki  
+null	» 
+null	II Podbój
+kuli	kuli
+ziemskiej	null
+«	null
+«	null
+«	null
+«	null
+wa	null
+Badanie	null
+null	ziemskiej  
+null	» 
+null	III Badanie
+wyższych	wyższych
+warstw	warstw
+atmosfery	null
+«	null
+Odkrycie	null
+null	atmosfery  
+null	» 
+null	IV Odkrycie
+systemu	systemu
+słonecznego	null
+P	null
+DZERZSOWO	null
+Twórcy	null
+zasad	null
+Przemysł	null
+null	słonecznego  
+null	» 
+null	V Drukarstwo  
+null	» 
+null	VI Metoda
+null	naukowa  
+null	» 
+null	VII Twórcy
+null	zasad  
+null	» 
+null	VIII Przemysł
+i	i
+maszyny	null
+Statki	null
+null	maszyny  
+null	» 
+null	IX Statki
+parowe	parowe
+i	i
+drogi	drogi
+żelazne	null
+Lokarżó	null
+wwa	null
+«	null
+XI	null
+WECZETOSZYTMA	null
+„	null
+XII	null
+Ekonomiści	null
+null	żelazne  
+null	» 
+null	X Lekarze  
+null	» 
+null	XI Wiedza
+i	i
+filozofowie	null
+b	null
+FACE	null
+PIETPLOSEI	null
+ZŻBIAEĘ	null
+GfóUA	null
+GZ	null
+SCEECPEEE	null
+»	null
+„	null
+SŁ	null
+lkonmi	null
+m	null
+Str	null
+null	ojczyzna  
+null	» 
+null	XII Ekonomiści
+i	i
+u	null
+MrodlcgF	null
+Q	null
+a	null
+łu	null
+r	null
+null	filozofowie  
+null	» 
+null	XIII Prości
+null	żołnierze  

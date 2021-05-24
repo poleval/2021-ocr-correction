@@ -1,0 +1,191 @@
+Pamięta	null
+Kajtus	null
+null	 Pamięta
+null	Kajtuś
+własną	własną
+niewolę	niewolę
+w	null
+twierdzy	null
+null	w twierdzy
+czarodzieja	czarodzieja
+Zna	Zna
+udrękę	udrękę
+zamknięcia	zamknięcia
+i	null
+długie	null
+null	i długie
+czarne	czarne
+godziny	godziny
+I	null
+dawniej	null
+null	 I dawniej
+lubił	lubił
+Kajtuś	Kajtuś
+patrzeć	patrzeć
+na	na
+awantury	awantury
+areszty	areszty
+Lubił	Lubił
+czytać—o	null
+bójkach	null
+i	null
+kradzieżach	null
+w	null
+gazecie	null
+null	czytać
+null	—
+null	o bójkach
+null	i kradzieżach
+null	w gazecie
+Lubił	Lubił
+rozmowy	rozmowy
+o	o
+złodziejach	złodziejach
+i	null
+bandytach	null
+I	null
+filmy	null
+null	i bandytach
+null	I filmy
+awanturnicze	awanturnicze
+Dawniej	null
+null	 Dawniej
+ciekawość	ciekawość
+—teraz	null
+współczucie	null
+Współczuciel	null
+—	—
+null	teraz
+null	współczucie
+null	 Współczucie
+null	 —
+Chcę	Chcę
+i	null
+rozkazuję	null
+null	i rozkazuję
+Chcę	Chcę
+zwiedzić	zwiedzić
+więzienie	więzienie
+Rzekł	null
+Idzie	null
+null	 Rzekł
+null	 Idzie
+w	w
+czapce	czapce
+niewidce	niewidce
+przez	przez
+mroczny	mroczny
+korytarz	korytarz
+obchodzi	obchodzi
+ponure	ponure
+cele	cele
+skazańców	skazańców
+I	null
+młodzi	null
+i	null
+starzy—Biedne	null
+null	 I młodzi
+null	i starzy
+null	—
+null	Biedne
+dzieci	dzieci
+tych	tych
+ludzi	ludzi
+zamkniętych	zamkniętych
+na	na
+długie	długie
+lata—Co	null
+null	lata
+null	—
+null	Co
+one	one
+winne	winne
+—	null
+null	 —
+Tata	Tata
+w	null
+kryminale	null
+Był	null
+w	null
+szkole	null
+kolega—Niedobry	null
+null	w kryminale
+null	 Był
+null	w szkole
+null	kolega
+null	—
+null	Niedobry
+niemiły	niemiły
+—	—
+Ale	Ale
+czy	czy
+dziw	dziw
+gdy	gdy
+w	null
+każdej	null
+null	w każdej
+kłótni	kłótni
+zaraz	zaraz
+—	null
+null	 —
+Ty	Ty
+złodziejski	złodziejski
+synu	synu
+Będziesz	Będziesz
+w	w
+kajdanach	kajdanach
+jak	jak
+tatus	null
+Zaprawdę	null
+null	tatuś
+null	 Zaprawdę
+wiele	wiele
+wszędzie	wszędzie
+smutku	smutku
+i	null
+nieładu	null
+null	i nieładu
+Wśród	Wśród
+dorosłych	dorosłych
+i	null
+dzieci	null
+Wiele	null
+null	i dzieci
+null	 Wiele
+smutku	smutku
+i	null
+wiele	null
+null	i wiele
+nieładu	nieładu
+Zrozumiał	null
+i	null
+czuje	null
+Opuścił	null
+mury—Znów	null
+null	 Zrozumiał
+null	i czuje
+null	 Opuścił
+null	mury
+null	—
+null	Znów
+oddycha	oddycha
+powietrzem	powietrzem
+swobody	swobody
+Jedna	null
+i	null
+druga	null
+null	 Jedna
+null	i druga
+ulica	ulica
+Zagrała	null
+null	 Zagrała
+trąbka	trąbka
+Pogotowia	Pogotowia
+Szybko	Szybko
+toczy	toczy
+się	się
+samochód	samochód
+w	null
+kierunku	null
+null	w kierunku
+szpitala	szpitala

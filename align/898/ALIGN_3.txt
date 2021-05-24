@@ -1,0 +1,25 @@
+WACŁAW	WACŁAW
+ANCZYC	ANCZYC
+O	O
+KSIĄŻCE	KSIĄŻCE
+POLSKIEJ	POLSKIEJ
+OBECNEJ	null
+SŁÓW	null
+null	OBECNEJSŁÓW
+KILKA	KILKA
+Odbitka	Odbitka
+«	null
+null	z
+Przeglądu	Przeglądu
+Graficznego	Graficznego
+Wydawniczego	Wydawniczego
+i	i
+Papierniczego	Papierniczego
+null	 
+nr	nr
+null	 
+z	z
+lipca	lipca
+roku	roku
+POZNAŃ	POZNAŃ
+MCMXXXVII	MCMXXXVII

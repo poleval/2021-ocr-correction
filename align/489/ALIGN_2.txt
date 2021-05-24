@@ -1,0 +1,24 @@
+ZBIORU	ZBIORU
+OGÓLNEGO	OGÓLNEGO
+KAROLA	KAROLA
+MAYA	MAYA
+mecza	null
+DIN	null
+null	 Tom
+null	  
+SZATAN	SZATAN
+i	i
+JUDASZ	JUDASZ
+The	The
+Player	Player
+EAST	EAST
+Naklsdem	null
+null	Nakładem
+Sp	Sp
+Wyd	Wyd
+„ORIENT	null
+null	„ORIENT“
+R	R
+D	D
+Z	Z
+WARSZAWA	WARSZAWA

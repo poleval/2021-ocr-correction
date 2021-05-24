@@ -1,0 +1,242 @@
+R	null
+null	 
+Bodeleryzm	Bodeleryzm
+—	—
+od	od
+nazwy	nazwy
+poety	poety
+francuskiego	francuskiego
+Baudelairea	null
+null	Baudelaire’a
+—	—
+oznacza	oznacza
+kierunek	kierunek
+literacki	literacki
+polegający	polegający
+na	na
+odtwarzaniu	odtwarzaniu
+w	w
+poezji	poezji
+indywidualnych	indywidualnych
+odczuć	odczuć
+i	i
+wzruszeń	wzruszeń
+dziwacznych	dziwacznych
+niepospolitych	niepospolitych
+niedostępnych	niedostępnych
+i	i
+niezrozumiałych	niezrozumiałych
+dla	dla
+ogółu	ogółu
+null	 
+Szukanie	Szukanie
+w	w
+człowieku	człowieku
+«nagiej	«nagiej
+duszy»	duszy»
+«absolutu»	«absolutu»
+i	null
+t	null
+p	null
+null	i t p
+cechowało	cechowało
+twórczość	twórczość
+prądu	prądu
+modernislycznego	null
+null	modernistycznego
+w	w
+literaturze	literaturze
+por	por
+ods	ods
+ss	null
+null	 
+Quasi	Quasi
+łac	łac
+—	—
+niby	niby
+null	 
+Eksces	Eksces
+łac	łac
+—	—
+nadużycie	nadużycie
+wybryk	wybryk
+null	 
+Klepsydra	Klepsydra
+greck	greck
+—	—
+zegar	zegar
+siarodawny	null
+null	starodawny
+mierzący	mierzący
+czas	czas
+szybkością	szybkością
+przesypywania	przesypywania
+się	się
+piasku	piasku
+si	null
+null	 
+Władca	Władca
+umysłów	umysłów
+—	—
+po	po
+rosyjsku	rosyjsku
+se	null
+null	 
+Mistyk	Mistyk
+—	—
+filozof	filozof
+dążący	dążący
+do	do
+poznania	poznania
+zagadnień	zagadnień
+hytu	null
+null	bytu
+przez	przez
+objawienia	objawienia
+wewnętrzne	wewnętrzne
+kontemplację	kontemplację
+religijną	religijną
+null	 
+Dostojewskij	Dostojewskij
+—	—
+słynny	słynny
+pisarz	pisarz
+rosyjski	rosyjski
+m	null
+i	null
+null	m i
+autor	autor
+powieści	powieści
+«Zbrodnia	«Zbrodnia
+i	i
+kara»	kara»
+null	 
+Andrzej	Andrzej
+Towiański	Towiański
+rówieśnik	rówieśnik
+Mickiewicza	Mickiewicza
+twórca	twórca
+nowej	nowej
+«nauki»	«nauki»
+mistycznego	mistycznego
+poglądu	poglądu
+na	na
+świat	świat
+Działał	Działał
+w	w
+połowie	połowie
+XIX	XIX
+w	w
+wśród	null
+null	Wśród
+wychodźtwa	wychodźtwa
+polskiego	polskiego
+w	w
+Paryżu	Paryżu
+i	i
+w	w
+Szwajcarji	Szwajcarji
+Wywarł	Wywarł
+wielki	wielki
+wpływ	wpływ
+na	na
+twórczość	twórczość
+naszych	naszych
+poetów	poetów
+romantycznych	romantycznych
+m	null
+i	null
+null	m i
+na	na
+Mickiewicza	Mickiewicza
+Słowackiego	Słowackiego
+J	null
+B	null
+null	J B
+Zaleskiego	Zaleskiego
+Goszczyńskiego	Goszczyńskiego
+ss	null
+null	 
+Gordyje	Gordyje
+Polaki	Polaki
+po	po
+rosyjsku	rosyjsku
+—	—
+dumni	dumni
+Polacy	Polacy
+se	null
+Q	null
+null	 
+null	O
+polskiej	polskiej
+dumie	dumie
+j	null
+w	null
+s	null
+null	j w
+null	 
+Przeklęty	Przeklęty
+narodowiecl	null
+null	narodowiec
+ros	ros
+null	 
+Por	Por
+©ds	null
+Fowariszcz	null
+null	ods
+null	 
+null	Towariszcz
+po	po
+niesczastju	niesczastju
+ros	ros
+—	—
+towarzysz	towarzysz
+niedoli	niedoli
+Rozpięta	null
+wt	null
+null	 
+null	Rozpiętą
+null	 
+Czyli	Czyli
+null	 
+Buntownicy	Buntownicy
+null	 
+Zgodnie	Zgodnie
+z	z
+prawem	prawem
+null	 
+Przyrząd	Przyrząd
+nurka	nurka
+doprowadzający	doprowadzający
+mu	mu
+powietrze	powietrze
+do	null
+oddychania	null
+null	dooddychania
+oddychalnik	oddychalnik
+null	↑
+null	Modernistyczny
+null	modernizm
+null	nacechowany
+null	właściwościami
+null	prądu
+null	literackoartystycznego
+null	zwanego
+null	modernizmem
+null	który
+null	polega
+null	między
+null	innemi
+null	na
+null	odtwarzaniu
+null	wzruszeń
+null	i
+null	odczuć
+null	dusz
+null	krańcowo
+null	indywidualnych
+null	↑
+null	O
+null	polskiej
+null	dumie
+null	j w

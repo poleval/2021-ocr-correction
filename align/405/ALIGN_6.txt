@@ -1,0 +1,55 @@
+BIBLJOTEKA	BIBLJOTEKA
+DOMU	DOMU
+POLSKIEGO	POLSKIEGO
+WYCHODZI	WYCHODZI
+i	i
+KAŻDEGO	KAŻDEGO
+MIESIĄCA	MIESIĄCA
+REDAKTOR	REDAKTOR
+I	I
+WYDAWCA	WYDAWCA
+IGNACY	IGNACY
+PŁAŻEWSKI	PŁAŻEWSKI
+REDAKCJA	REDAKCJA
+I	I
+ADMINISTRACJA	ADMINISTRACJA
+WARSZAWA	WARSZAWA
+ULICA	ULICA
+NOWOWIEJSKA	NOWOWIEJSKA
+TEL	TEL
+PRENUMERATA	PRENUMERATA
+WYNOSI	WYNOSI
+ł	null
+Kwartalnie	Kwartalnie
+tomów	tomów
+«	null
+null	 
+zł	zł
+gr	gr
+Półrocznie	Półrocznie
+s	null
+LAPIE	null
+UB	null
+null	 „ 
+null	 
+null	 „ 
+null	  „  
+Rocznie	Rocznie
+Gaerzyran	null
+i	null
+GZEKMST	null
+W	null
+null	 
+null	 „ 
+null	 
+null	„ 
+null	—
+null	  „  
+z	z
+przesyłką	przesyłką
+pocztową	pocztową
+ROK	ROK
+null	 
+I	I
+TOM	TOM
+XIII	XIII

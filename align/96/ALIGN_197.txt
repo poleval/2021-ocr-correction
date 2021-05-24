@@ -1,0 +1,116 @@
+Bo	null
+KRÓDOB	null
+o	null
+saczowacwa	null
+MAIĄGEZARODZIEJE	null
+„	null
+«	null
+w	null
+TRÓZWPIÓRA	null
+em	null
+ua	null
+lu	null
+«	null
+geliy	null
+ŚWIERĆ	null
+RUREI	null
+NAR	null
+w	null
+OŁA	null
+»	null
+BIERIWRÓBEE	null
+„ah	null
+Luaó	null
+e	null
+„	null
+GEGACZOWER	null
+„eeik	null
+„	null
+AT	null
+null	KRÓL
+null	ŻAB   „ 
+null	MALI
+null	CZARODZIEJE   „ 
+null	TRZY
+null	PIÓRA   „ 
+null	ŚMIERĆ
+null	KURKI   „ 
+null	PIES
+null	I
+null	WRÓBEL   „ 
+null	WILK
+null	I
+null	CZŁOWIEK   „ 
+SŁODKA	SŁODKA
+POTRAWA	null
+w	null
+„	null
+MISI—	null
+KRÓLIK	null
+null	POTRAWA   „ 
+null	MISIKRÓLIK
+I	I
+NIEDŹWIEDŹ	null
+„	null
+TRZOJSBKACIA	null
+ZW	null
+PASA	null
+„	null
+ZAJĄCRĄEŻ	null
+Om	null
+nuko	null
+WA	null
+re	null
+AA	null
+„	null
+GŹ	null
+WIOSNE	null
+KIM	null
+GSZ	null
+«	null
+BANSGRUBAS	null
+ao	null
+JARO	null
+m	null
+null	NIEDŹWIEDŹ   „ 
+null	TRZEJ
+null	BRACIA   „ 
+null	ZAJĄC
+null	I
+null	JEŻ   „ 
+null	WŁÓCZĘGI   „ 
+null	PAN
+null	GRUBAS   „ 
+DZIEWCZYNKA	DZIEWCZYNKA
+I	I
+LALKA	null
+„	null
+„	null
+AI	null
+NS	null
+EV	null
+EGRBlG	null
+EE	null
+QE	null
+JG	null
+OS	null
+BI	null
+LGP	null
+JG	null
+©	null
+G	null
+meiner	null
+tthinotiwniśni	null
+cO	null
+KSG	null
+acz	null
+ac	null
+zn	null
+rw	null
+null	LALKA   „ 
+null	Skan
+null	zawiera
+null	grafikę
+null	nie
+null	w
+null	PD

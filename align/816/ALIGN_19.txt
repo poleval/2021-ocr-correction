@@ -1,0 +1,273 @@
+null	 
+Bitemu	Bitemu
+psu	psu
+kija	kija
+nie	nie
+pokazywać	pokazywać
+null	 
+Co	Co
+u	u
+kogo	kogo
+to	to
+piękne	piękne
+null	 
+Zbytnia	Zbytnia
+piękność	piękność
+i	i
+to	to
+czasem	czasem
+wada	wada
+null	 
+Kiedy	Kiedy
+dwaj	dwaj
+mówią	mówią
+pijany	pijany
+niech	niech
+się	się
+trzeci	trzeci
+spać	spać
+położy	położy
+null	 
+Pijanego	Pijanego
+nie	nie
+trzeba	trzeba
+popychać	popychać
+null	 
+Dla	Dla
+pijaka	pijaka
+niema	niema
+złej	złej
+wódki	wódki
+null	 
+Szuka	Szuka
+szczerby	szczerby
+na	na
+pile	pile
+O	O
+lubiącym	lubiącym
+wszystkiemu	wszystkiemu
+przyganiać	przyganiać
+wszędzie	wszędzie
+doszukującym	doszukującym
+się	się
+wady	wady
+null	 
+Cóż	Cóż
+się	się
+staje	staje
+z	z
+dobrego	dobrego
+piwa	piwa
+w	w
+złej	złej
+beczce	beczce
+null	 
+Gdy	Gdy
+każdy	każdy
+płaci	płaci
+za	za
+siebie	siebie
+to	to
+mieszkowi	mieszkowi
+zdrowiej	zdrowiej
+null	 
+Kiedy	Kiedy
+płacą	płacą
+to	to
+warte	warte
+null	 
+Płaczem	Płaczem
+długu	długu
+nie	nie
+zapłacisz	zapłacisz
+null	 
+Jak	Jak
+się	się
+kto	kto
+wypłacze	wypłacze
+to	to
+mu	mu
+lżej	lżej
+na	na
+sercu	sercu
+null	 
+Kto	Kto
+pochlebia	pochlebia
+jest	jest
+nieprzyjacielem	nieprzyjacielem
+kto	kto
+karze	karze
+przyjacielem	przyjacielem
+null	 
+Nim	Nim
+pociecha	pociecha
+przyjdzie	przyjdzie
+to	to
+dusza	dusza
+uleci	uleci
+null	 
+Podzięki	Podzięki
+nie	nie
+można	można
+do	do
+kieszeni	kieszeni
+włożyć	włożyć
+null	 
+Z	Z
+pokuty	pokuty
+nikt	nikt
+nie	nie
+tyje	tyje
+null	 
+Lepszy	Lepszy
+policzek	policzek
+niż	niż
+obłudny	obłudny
+całus	całus
+null	 
+W	W
+Polsce	Polsce
+wszystko	wszystko
+krzywe	krzywe
+tylko	tylko
+wschody	wschody
+proste	proste
+null	 
+Leniwy	Leniwy
+poseł	poseł
+zawsze	zawsze
+wymówkę	wymówkę
+znajdzie	znajdzie
+null	 
+Jak	Jak
+sobie	sobie
+kto	kto
+ściele	ściele
+tak	tak
+się	się
+wysypia	wysypia
+null	 
+Z	Z
+pośpiechu	pośpiechu
+nie	null
+null	nic
+dobrego	dobrego
+nie	nie
+wynika	wynika
+Komn	null
+null	 
+null	Komu
+wiele	wiele
+potrzeba	potrzeba
+ten	ten
+nie	nie
+może	może
+wiele	wiele
+oszczędzać	oszczędzać
+null	 
+Chcesz	Chcesz
+być	być
+m	null
+null	u
+innych	innych
+w	w
+poważaniu	poważaniu
+poważaj	poważaj
+siebie	siebie
+sa	null
+mego	null
+null	samego
+null	 
+Łatwiej	Łatwiej
+to	to
+powiedzieć	powiedzieć
+niż	niż
+znieść	znieść
+null	 
+W	W
+którem	którem
+miejscu	miejscu
+powróż	null
+null	powróz
+jest	jest
+najcieńszy	najcieńszy
+tam	tam
+się	się
+rwie	rwie
+null	 
+Kto	Kto
+wszystko	wszystko
+chce	chce
+poznać	poznać
+v	v
+wiedzieć	wiedzieć
+ten	ten
+się	się
+nie	nie
+starzeje	starzeje
+null	 
+Po	Po
+pożarze	pożarze
+każdy	każdy
+bogatszy	bogatszy
+Gdyż	Gdyż
+po	po
+pożarze	pożarze
+każdy	każdy
+zaczyna	zaczyna
+wyliczać	wyliczać
+co	co
+mu	mu
+zginęło	zginęło
+chociaż	chociaż
+przed	przed
+pożarem	pożarem
+narzekał	narzekał
+na	na
+niedostatek	niedostatek
+null	 
+Pożyczanie	Pożyczanie
+sprawuje	sprawuje
+kłopotanie	kłopotanie
+null	 
+Kto	Kto
+chce	chce
+pożyczyć	pożyczyć
+niech	niech
+jutro	jutro
+przyjdzie	przyjdzie
+null	 
+Samemu	Samemu
+można	można
+jeść	jeść
+ale	ale
+nie	nie
+pracować	pracować
+null	 
+Prawdę	Prawdę
+tylko	tylko
+świadczyć	świadczyć
+dobrze	dobrze
+null	 
+Prawda	Prawda
+jak	jak
+oliwa	oliwa
+ma	null
+null	na
+wodzie	wodzie
+na	na
+wierzch	wierzch
+wychodzi	wychodzi
+null	 
+Prawdę	Prawdę
+wolno	wolno
+i	i
+własnemu	własnemu
+ojeu	null
+null	ojcu
+powiedzieć	powiedzieć
+null	 
+Prawda	Prawda
+to	to
+największy	największy
+szwindel	szwindel

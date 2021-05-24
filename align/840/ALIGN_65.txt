@@ -1,0 +1,21 @@
+null	∗∗                         ∗
+Tam	Tam
+poza	poza
+mną	mną
+trawią	trawią
+ognie	ognie
+moje	moje
+raje	raje
+p	null
+e	null
+e	null
+null	∗∗                         ∗
+Wokół	Wokół
+nas	nas
+krzyczały	krzyczały
+bezgłosne	bezgłosne
+błyskawice	błyskawice
+p	null
+p	null
+e	null
+null	∗∗                         ∗

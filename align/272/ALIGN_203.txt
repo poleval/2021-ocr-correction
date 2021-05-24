@@ -1,0 +1,120 @@
+SPIS	SPIS
+RZECZY	RZECZY
+HK	null
+null	Str
+null	Wstęp  
+Część	Część
+Pierwsza	Pierwsza
+Liczba	Liczba
+a	a
+Wielkość	Wielkość
+Rozdział	Rozdział
+I	null
+O	null
+null	I O
+istocie	istocie
+rozumowania	rozumowania
+matematycznego	null
+null	matematycznego  
+Rozdział	Rozdział
+II	null
+Wielkość	null
+null	II Wielkość
+matematyczna	matematyczna
+a	a
+doświadczenie	null
+null	doświadczenie  
+Część	Część
+Druga	Druga
+Przestrzeń	Przestrzeń
+Rozdział	Rozdział
+TLI	null
+Geometrye	null
+nieeuklidesowe	null
+A	null
+WOJE	null
+null	III Geometrye
+null	nieeuklidesowe  
+Rozdział	Rozdział
+TV	null
+Przestrzeń	null
+null	IV Przestrzeń
+a	a
+geometrya	null
+a	null
+„	null
+AP	null
+null	geometrya  
+Rozdział	Rozdział
+V	null
+Doświadczenie	null
+null	V Doświadczenie
+a	a
+geometrya	null
+null	geometrya  
+Część	Część
+Trzecia	Trzecia
+Siła	Siła
+Rozdział	Rozdział
+VI	null
+Mechanika	null
+klasyczna	null
+MB	null
+null	VI Mechanika
+null	klasyczna  
+Rozdział	Rozdział
+VII	null
+Ruch	null
+null	VII Ruch
+względny	względny
+a	a
+ruch	ruch
+wzwadkówi	null
+null	bezwzględny  
+Rozdział	Rozdział
+VIII	null
+Kucrgia	null
+null	VIII Energia
+a	a
+termodynamika	null
+null	termodynamika  
+Część	Część
+Czwarta	Czwarta
+Przyroda	Przyroda
+Rozdział	Rozdział
+IX	null
+Hypotezy	null
+null	IX Hypotezy
+w	w
+fizyce	null
+«	null
+«	null
+„	null
+null	fizyce  
+Rozdział	Rozdział
+X	null
+Teorye	null
+null	X Teorye
+fizyki	fizyki
+nowoczesnej	null
+null	nowoczesnej  
+Rozdział	Rozdział
+XI	null
+Rachunek	null
+prawdopodobieństwa	null
+null	XI Rachunek
+null	prawdopodobieństwa  
+Rozdział	Rozdział
+XII	null
+Optyka	null
+null	XII Optyka
+i	i
+elektryczność	null
+„	null
+null	elektryczność  
+Rozdział	Rozdział
+XIII	null
+Elektrodynamika	null
+«	null
+„aSÓR	null
+null	XIII Elektrodynamika  

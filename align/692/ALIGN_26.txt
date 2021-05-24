@@ -1,0 +1,181 @@
+—	null
+XXII	null
+—	null
+XI	null
+Noc	null
+null	Str
+null	XI Noc
+cudna	cudna
+ciepła	null
+XII	null
+Za	null
+null	ciepła  
+null	XII Za
+miłości	miłości
+tęsknię	tęsknię
+łzami	null
+XIIL	null
+Błękitne	null
+oczy	null
+«	null
+«	null
+«	null
+«	null
+«	null
+XIV	null
+Kiedy	null
+null	łzami  
+null	XIII Błękitne
+null	oczy  
+null	XIV Kiedy
+bawię	bawię
+u	u
+bogdanki	null
+XV	null
+Wysmukłe	null
+null	bogdanki  
+null	XV Wysmukłe
+lilji	lilji
+ramiona	null
+Czego	null
+null	ramiona  
+null	XVII Czego
+tak	tak
+błądzisz	null
+«	null
+Gdy	null
+null	błądzisz  
+null	XVIII Gdy
+błękitne	błękitne
+oczy	null
+Znów	null
+null	oczy  
+null	XIX Znów
+me	me
+serce	null
+Chodzę	null
+null	serce  
+null	XXII Chodzę
+pomiędzy	pomiędzy
+Aneraal	null
+Rankiem	null
+null	drzewami  
+null	XXIII Rankiem
+daję	daję
+ci	null
+«	null
+«	null
+«	null
+«	null
+Serduszka	null
+nasze	null
+«	null
+«	null
+«	null
+Któżto	null
+wynalazł	null
+«	null
+«	null
+«	null
+Jakaż	null
+null	ci  
+null	XXIV Serduszka
+null	nasze  
+null	XXV Któżto
+null	wynalazł  
+null	XXVI Jakaż
+cudna	cudna
+woń	null
+«	null
+Był	null
+null	woń  
+null	XXIX Był
+raz	raz
+król	król
+stary	null
+«	null
+«	null
+«	null
+«	null
+«	null
+Ach	null
+null	stary  
+null	XXX Ach
+dla	dla
+czego	null
+«	null
+«	null
+«	null
+Kiedy	null
+szelest	null
+«	null
+«	null
+«	null
+«	null
+«	null
+Marzyłem	null
+niegdyś	null
+«	null
+Ach	null
+Rozbrzmiej	null
+«	null
+«	null
+Cóż	null
+null	czego  
+null	XXXI Kiedy
+null	szelest  
+null	XXXII Marzyłem
+null	niegdyś  
+null	XXXIII Ach
+null	Rozbrzmiej  
+null	XXXIV Cóż
+za	za
+męki	null
+«	null
+»	null
+«	null
+Znów	null
+null	męki  
+null	XXXV Znów
+zakwitł	zakwitł
+krzew	null
+List	null
+null	krzew  
+null	XXXVI List
+którym	którym
+dostał	null
+Wiosna	null
+null	dostał  
+null	XXXVII Wiosna
+jest	jest
+smutną	null
+I	null
+null	smutną  
+null	XXXVIII I
+mnie	mnie
+znów	znów
+los	null
+Ledwo	null
+null	los  
+null	XL Ledwo
+wzrosły	wzrosły
+życzenia	null
+„	null
+„	null
+O	null
+null	życzenia  
+null	XLI O
+czarnych	czarnych
+żaglach	null
+Pieniste	null
+fale	null
+XLII	null
+Morze	null
+null	żaglach  
+null	XLII Pieniste
+null	fale  
+null	XLIII Morze
+w	w
+slonecznej	null
+„	null
+null	słonecznej  

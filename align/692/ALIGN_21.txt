@@ -1,0 +1,177 @@
+XLVIL	null
+XLVIII	null
+XLIX	null
+L	null
+LI	null
+LIL	null
+LIIL	null
+LIV	null
+LV	null
+LVL	null
+LVL	null
+LIIL	null
+LIX	null
+LXI	null
+LXIL	null
+LXUII	null
+LXIV	null
+LXV	null
+LXVI	null
+—	null
+XVII	null
+—	null
+null	Str
+null	XL Z
+olbrzymich	olbrzymich
+cierpień	null
+Pomimo	null
+woli	null
+ieszczuchy	null
+null	cierpień  
+null	XLI Pomimo
+null	woli  
+null	XLII Mieszczuchy
+w	w
+ubraniu	null
+Ach	null
+null	ubraniu  
+null	XLIII Ach
+obrazy	obrazy
+lat	lat
+minionych	null
+Młodzieniec	null
+kocha	null
+„	null
+Przyjaźń	null
+miłość	null
+„	null
+„	null
+Gdy	null
+null	minionych  
+null	XLIV Młodzieniec
+null	kocha  
+null	XLV Przyjaźń
+null	miłość  
+null	XLVI Gdy
+słyszę	słyszę
+piosnkę	null
+Na	null
+null	piosnkę  
+null	XLVII Na
+słoneczka	słoneczka
+promienie	null
+Śniłem	null
+null	promienie  
+null	XLVIII Śniłem
+o	o
+dziecku	null
+„	null
+Byłaś	null
+null	dziecku  
+null	XLIX Byłaś
+luba	luba
+ze	ze
+mną	null
+Dziwnie	null
+null	mną  
+null	L Dziwnie
+piękna	piękna
+bajeczka	null
+Ja	null
+null	bajeczka  
+null	LI Ja
+cię	cię
+o	o
+Juba	null
+kocham	null
+W	null
+null	luba
+null	kocham  
+null	LII W
+ogrodzie	ogrodzie
+kwitły	kwitły
+liście	null
+MYR	null
+MAU	null
+s	null
+Ach	null
+null	liście  
+null	LIII Myśl
+null	ma  
+null	LIV Ach
+Walkę	Walkę
+miałem	null
+Lato	null
+null	miałem  
+null	LV Lato
+—	—
+ta	ta
+pora	null
+Gdy	null
+null	pora  
+null	LVI Gdy
+dwóch	dwóch
+się	się
+żegna	null
+Jedli	null
+null	żegna  
+null	LVII Jedli
+i	i
+pili	pili
+u	u
+stołu	null
+Znowu	null
+null	stołu  
+null	LVIII Znowu
+sen	sen
+dawny	null
+«	null
+Stanąłem	null
+null	dawny  
+null	LIX Stanąłem
+na	na
+góry	góry
+szczycie	null
+Powóz	null
+mój	null
+«	null
+«	null
+«	null
+»«	null
+Płakałem	null
+null	szczycie  
+null	LX Powóz
+null	mój  
+null	LXI Płakałem
+we	we
+śnie	null
+W	null
+null	śnie  
+null	LXII W
+sennem	sennem
+cię	cię
+widzę	null
+—	null
+Wiatr	null
+szumiąć	null
+»	null
+Wicher	null
+jesienny	null
+null	widzę  
+null	LXIII Wiatr
+null	szumiąc  
+null	LXIV Wicher
+null	jesienny  
+null	LXV Z
+iskrzącej	iskrzącej
+pieb	null
+wysokości	null
+Ujrzałem	null
+null	nieb
+null	wysokości  
+null	LXVI Ujrzałem
+we	we
+śnie	null
+«	null
+Str	null
+null	śnie  

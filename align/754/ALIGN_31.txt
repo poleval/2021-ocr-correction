@@ -1,0 +1,24 @@
+Czy	Czy
+wielkim	wielkim
+czy	czy
+nie	nie
+wielkim	wielkim
+rządzimy	rządzimy
+obszarem	obszarem
+Jednakowo	Jednakowo
+nas	nas
+słońce	słońce
+opromienia	opromienia
+żarem	żarem
+Silni	Silni
+słabi	słabi
+źli	źli
+dobrzy	dobrzy
+ubodzy	ubodzy
+majętni	null
+—	null
+null	majętni —
+Jednakowo	Jednakowo
+jesteśmy	jesteśmy
+słońcu	słońcu
+obojętni	obojętni

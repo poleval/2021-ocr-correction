@@ -1,0 +1,288 @@
+RZWAB	null
+null	 
+I	I
+podeszwa	podeszwa
+w	w
+miodzie	miodzie
+usmażona	usmażona
+jest	jest
+słodka	słodka
+null	 
+Nowa	Nowa
+miotła	miotła
+dobrze	dobrze
+zamiata	zamiata
+null	 
+Błogo	Błogo
+temu	temu
+co	co
+do	do
+gotowej	gotowej
+miski	miski
+przychodzi	przychodzi
+null	 
+Sługa	Sługa
+bóżniczy	bóżniczy
+wszystkich	wszystkich
+do	do
+modlitwy	modlitwy
+budzi	budzi
+a	a
+sam	sam
+się	się
+spać	spać
+kładzie	kładzie
+Mowa—	null
+null	 
+null	Mowa
+null	—
+srebro	srebro
+milczenie	milczenie
+—złoto	null
+null	—
+null	złoto
+null	 
+Za	Za
+oczy	oczy
+wolno	wolno
+mówić	mówić
+co	co
+kto	kto
+chce	chce
+null	 
+Jaki	Jaki
+muzykant	muzykant
+takie	takie
+wesele	wesele
+null	 
+Kiedy	Kiedy
+mysz	mysz
+syta	syta
+to	to
+się	się
+jej	jej
+mąka	mąka
+gorzką	gorzką
+wydaje	wydaje
+null	 
+Myśl	Myśl
+o	o
+sobie	sobie
+zapomnisz	zapomnisz
+o	o
+cudzym	cudzym
+null	 
+Nie	Nie
+długo	długo
+myśleć	myśleć
+a	a
+dobrze	dobrze
+zrobić	zrobić
+Qo	null
+null	 
+null	Co
+zanadto	zanadto
+to	to
+niezdrowo	niezdrowo
+null	 
+Nie	Nie
+ma	ma
+brzydkiej	brzydkiej
+narzeczonej	narzeczonej
+Odpowiednie	Odpowiednie
+polskie	polskie
+ta	ta
+panna	panna
+piękna	piękna
+co	co
+za	za
+mąż	mąż
+idzie	idzie
+null	 
+Nauka	Nauka
+jest	jest
+niezgłębioną	niezgłębioną
+null	 
+Gdzie	Gdzie
+nauka	nauka
+tam	tam
+mądrość	mądrość
+null	 
+Z	Z
+nauką	nauką
+nikt	nikt
+nie	nie
+ginie	ginie
+null	 
+Nauka	Nauka
+najlepszy	najlepszy
+towar	towar
+null	 
+Nie	Nie
+wylewaj	wylewaj
+nieczystego	nieczystego
+gdy	gdy
+nie	nie
+masz	masz
+czystego	czystego
+null	 
+Lepszy	Lepszy
+jeden	jeden
+przyjaciel	przyjaciel
+niż	niż
+dziesięciu	dziesięciu
+nieprzyjaciół	nieprzyjaciół
+null	 
+Jednego	Jednego
+nieszczęście	nieszczęście
+—	—
+drugiego	drugiego
+szczęściem	szczęściem
+null	 
+I	I
+do	do
+nieszczęścia	nieszczęścia
+trzeba	trzeba
+mieć	mieć
+szczęście	szczęście
+M	null
+null	 
+Lepszy	Lepszy
+nieśmiały	nieśmiały
+niż	niż
+zuchwały	zuchwały
+ś	null
+null	 
+Niezdara	Niezdara
+na	na
+trawę	trawę
+pada	pada
+a	a
+nos	nos
+sobie	sobie
+rozbija	rozbija
+null	 
+Jak	Jak
+kto	kto
+w	w
+stół	stół
+uderza	uderza
+to	to
+się	się
+nożyce	nożyce
+odzywają	odzywają
+null	 
+Lepiej	Lepiej
+u	u
+siebie	siebie
+krupnik	krupnik
+albo	albo
+kołacz	kołacz
+jeść	jeść
+niż	niż
+u	u
+obcych	obcych
+pieczeń	pieczeń
+A	null
+null	 
+Kiedy	Kiedy
+przed	przed
+tobą	tobą
+kogo	kogo
+obmawiają	obmawiają
+to	to
+nie	nie
+wierz	wierz
+póki	póki
+się	się
+twe	twe
+oczy	oczy
+o	o
+tem	tem
+nie	nie
+przekonają	przekonają
+null	 
+Kiedy	Kiedy
+obręcze	obręcze
+pękają	pękają
+to	to
+się	się
+beczka	beczka
+rozsypuje	rozsypuje
+null	 
+Żadna	Żadna
+odpowiedź	odpowiedź
+jest	jest
+także	także
+odpowiedzią	odpowiedzią
+Zwierzehnie	null
+null	 
+null	Zwierzchnie
+odzienie	odzienie
+pokrywa	pokrywa
+spodnią	spodnią
+biedę	biedę
+null	 
+Bez	Bez
+ognia	ognia
+niema	niema
+dymu	dymu
+E	null
+null	 
+Ogień	Ogień
+to	to
+złodziej	złodziej
+P	null
+null	 
+Nie	Nie
+igraj	igraj
+z	z
+ogniem	ogniem
+k	null
+null	 
+Wszystkiego	Wszystkiego
+za	za
+pieniądze	pieniądze
+dostanie	dostanie
+prócz	prócz
+ojea	null
+null	ojca
+i	i
+matki	matki
+null	 
+Jedno	Jedno
+oko	oko
+szpeci	szpeci
+całą	całą
+twarz	twarz
+null	 
+Oko	Oko
+wyjawia	wyjawia
+co	co
+serce	serce
+myśli	myśli
+null	 
+Większe	Większe
+oczy	oczy
+niż	niż
+gęba	gęba
+null	 
+Dobra	Dobra
+opinja	opinja
+dużo	dużo
+kosztuje	kosztuje
+tj	tj
+kto	kto
+sobie	sobie
+chee	null
+null	chce
+dobre	dobre
+imię	imię
+wyrobić	wyrobić
+winien	winien
+wiele	wiele
+rozdawać	rozdawać
+oe	null
+Ora	null
+NĘ	null
+Topo	null

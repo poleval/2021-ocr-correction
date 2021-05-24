@@ -1,0 +1,90 @@
+TRES	null
+null	TREŚĆ
+INTERMEZZO	INTERMEZZO
+Przedmowa	null
+«	null
+»	null
+»	null
+«	null
+«	null
+»	null
+»	null
+Prolog	null
+IL	null
+v	null
+V	null
+VI	null
+VIL	null
+Vi	null
+IX	null
+X	null
+XI	null
+XII	null
+W	null
+null	Str
+null	Przedmowa  VII
+null	Prolog  
+null	I W
+prześlicznym	prześlicznym
+Maju	null
+Z	null
+null	Maju  
+null	II Z
+łez	łez
+moich	null
+Róża	null
+null	moich  
+null	III Róża
+i	i
+lilja	null
+Gdy	null
+null	lilja  
+null	IV Gdy
+się	się
+w	w
+twe	twe
+cudne	cudne
+oczy	null
+Miałem	null
+null	oczy  
+null	V Miałem
+niedawno	niedawno
+sny	null
+Oprzój	null
+null	sny  
+null	VI Oprzéj
+swe	swe
+usta	null
+«	null
+Kielichom	null
+liji	null
+Stałe	null
+null	usta  
+null	VII Kielichom
+null	lilji  
+null	VIII Stałe
+jak	jak
+serca	serca
+tęsknica	null
+Na	null
+null	tęsknica  
+null	IX Na
+skrzydłach	skrzydłach
+pieśni	null
+Drzy	null
+null	pieśni  
+null	X Drzy
+piękny	piękny
+kielich	kielich
+lotosu	null
+Gdzie	null
+Ren	null
+Niekochasz	null
+mnie	null
+«	null
+»	null
+null	lotosu  
+null	XI Gdzie
+null	Ren  
+null	XII Niekochasz
+null	mnie  

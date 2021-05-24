@@ -1,0 +1,361 @@
+Data	null
+w	null
+o	null
+s	null
+Rodzaj	null
+pieczywa	null
+R	null
+Drożdże	null
+R	null
+F	null
+m	null
+Zakwas	null
+o	null
+aq	null
+N	null
+Ę	null
+Q	null
+UZ	null
+s	null
+g	null
+null	Wzór
+null	rachunkowości
+null	do
+null	nauki
+null	piekarstwa
+null	  Data
+null	Rodzaj    pieczywa
+null	Rozczynienie
+null	Pierwszemiesienie
+null	Drugiemiesienie
+null	Sól
+Mąka	Mąka
+B	null
+w	null
+He	null
+s	null
+o	null
+Prym	null
+B	null
+Czas	null
+podE	null
+chodzenia	null
+Mąka	null
+r	null
+cj	null
+DE	null
+PA	null
+B	null
+Qzas	null
+pod	null
+Ę	null
+chodzenia	null
+i	null
+cą	null
+—	null
+Mąka	null
+B	null
+cą	null
+z	null
+o	null
+E	null
+Płyn	null
+B	null
+og	null
+E	null
+Czas	null
+pod	null
+chodzenia	null
+m	null
+e	null
+KAUÓGI	null
+Mąka	null
+na	null
+kulanie	null
+Waga	null
+pieczywa	null
+eMsIeyosld	null
+TĄneu	null
+op	null
+somoyunYysed	null
+null	nakulanie
+null	Wagapieczywa
+null	     Drożdże
+null	     Zakwas
+null	   Mąka
+null	   Płyn
+null	Czaspodchodzenia
+null	     Mąka
+null	     Płyn
+null	Czaspodchodzenia
+null	     Mąka
+null	     Płyn
+null	Czaspodchodzenia
+null	kg
+null	gr
+null	kg
+null	gr
+null	kg
+null	gr
+null	litr
+null	god
+null	min
+null	kg
+null	gr
+null	litr
+null	god
+null	min
+null	kg
+null	gr
+null	litr
+null	god
+null	min
+null	kg
+null	gr
+null	kg
+null	gr
+null	kg
+null	gr
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 
+null	 

@@ -1,0 +1,132 @@
+syć	null
+żeoa	null
+null	 
+Żyd	Żyd
+sobie	sobie
+zawsze	zawsze
+radzi	radzi
+null	 
+Żydowska	Żydowska
+dziewica	dziewica
+starą	starą
+panną	panną
+nie	nie
+zostaje	zostaje
+null	 
+Żydowski	Żydowski
+urok	urok
+jest	jest
+gorszy	gorszy
+niż	niż
+chrześcjańskie	chrześcjańskie
+czary	czary
+null	 
+Żydowskie	Żydowskie
+bogactwo	bogactwo
+to	to
+jak	jak
+marcowy	marcowy
+śnieg	śnieg
+null	 
+Wszystkiego	Wszystkiego
+żydzi	żydzi
+mają	mają
+mało	mało
+tylko	tylko
+rozumu	rozumu
+mają	mają
+do	null
+null	dosyć
+null	 
+Lepszy	Lepszy
+żyd	żyd
+bez	bez
+brody	brody
+niż	niż
+broda	broda
+bez	bez
+żyda	żyda
+null	 
+Kiedy	Kiedy
+żyd	żyd
+śpiewa	śpiewa
+Gdy	Gdy
+jest	jest
+głodny	głodny
+Żydzi	null
+o	null
+sobie	null
+chcąc	null
+tem	null
+wyrazić	null
+kolwiek	null
+interesie	null
+z	null
+trudnością	null
+do	null
+porozumienia	null
+dochodzą	null
+jesz	null
+null	 
+Każdy	Każdy
+żyd	żyd
+ma	ma
+swoją	swoją
+biedę	biedę
+Z	null
+żydem	null
+null	 
+null	Z żydem
+dobrze	dobrze
+tylko	tylko
+do	do
+bóżnicy	bóżnicy
+pójść	pójść
+Tak	Tak
+mawiają	mawiają
+ż	null
+null	żydzi
+null	o sobie
+null	chcąc
+null	tem
+null	wyrazić
+null	iż
+jeden	jeden
+żyd	żyd
+z	null
+drugim	null
+w	null
+jakim	null
+I	null
+Mojżesz	null
+null	z drugim
+null	w jakimkolwiek
+null	interesie
+null	z trudnością
+null	do
+null	porozumienia
+null	dochodzą
+null	 
+null	I Mojżesz
+nie	nie
+mógł	mógł
+sobie	sobie
+z	null
+żydami	null
+null	z żydami
+dać	dać
+rady	rady
+Z	null
+żydowskiej	null
+null	 
+null	Z żydowskiej
+obmowy	obmowy
+dziesięcioma	dziesięcioma
+wodami	wodami
+się	się
+nie	nie
+obmy	null
+null	obmyjesz
+Samuel	Samuel
+Adalberg	null
+null	Adalberg 

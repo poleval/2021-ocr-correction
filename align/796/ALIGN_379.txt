@@ -1,0 +1,47 @@
+ELŻBIETA	ELŻBIETA
+BARRET	BARRET
+BROWNING	BROWNING
+—	null
+Żona	null
+null	 
+null	 Żona
+głośnego	głośnego
+poety	poety
+Roberta	Roberta
+Browninga	Browninga
+u	null
+null	ur
+autorka	autorka
+długiego	długiego
+wierszy	wierszy
+obejmującego	obejmującego
+poematu	poematu
+opowieściowego	opowieściowego
+p	null
+t	null
+null	p t
+Aurora	Aurora
+Leigh	Leigh
+cyklu	cyklu
+sonetów	sonetów
+miłosnych	miłosnych
+wrzekomo	wrzekomo
+tłómaczonych	tłómaczonych
+z	z
+portugalskiego	portugalskiego
+poematu	poematu
+Lady	Lady
+Oeraldine	null
+null	Geraldine
+Courtship	Courtship
+I	null
+t	null
+d	null
+null	i t d
+Tłumaczka	Tłumaczka
+«Prometeusza»	null
+null	«Prometeusza«»
+Aischylosa	Aischylosa
+Zmarła	Zmarła
+w	w
+Florencyi	Florencyi

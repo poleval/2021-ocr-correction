@@ -1,0 +1,297 @@
+null	 
+Głupstwo	Głupstwo
+się	się
+pamięta	pamięta
+null	 
+Głupi	Głupi
+trzy	trzy
+razy	razy
+się	się
+śmieje	śmieje
+null	 
+Czasem	Czasem
+i	null
+głupi	null
+null	i głupi
+coś	coś
+dorzecznego	dorzecznego
+powie	powie
+O	null
+więcej	null
+null	 
+null	O więcej
+jeden	jeden
+głupi	głupi
+może	może
+zapytać	zapytać
+niż	niż
+dziesięciu	dziesięciu
+mądrych	mądrych
+może	może
+odpowiedzieć	odpowiedzieć
+null	 
+Lepszy	Lepszy
+głupi	głupi
+a	null
+bywalec	null
+null	a bywalec
+niż	niż
+mądry	mądry
+a	null
+domator	null
+null	a domator
+null	 
+Gdy	Gdy
+jeden	jeden
+głupi	głupi
+wrzuci	wrzuci
+kamień	kamień
+do	do
+studni	studni
+albo	albo
+do	do
+ogro	null
+du	null
+null	ogrodu
+to	to
+dziesięciu	dziesięciu
+mądrych	mądrych
+go	go
+nie	nie
+wydobędzie	wydobędzie
+null	 
+Każdy	Każdy
+głupiec	głupiec
+dla	dla
+siebie	siebie
+jest	jest
+mądry	mądry
+null	 
+Każdemu	Każdemu
+głupcowi	głupcowi
+zdaje	zdaje
+się	się
+że	że
+jest	jest
+mądry	mądry
+null	 
+Dla	Dla
+głupca	głupca
+niema	niema
+sekretu	sekretu
+a	null
+null	 a
+Za	Za
+wiele	wiele
+honoru	honoru
+to	to
+pół	pół
+wstydu	wstydu
+null	 
+Kozła	Kozła
+strzeż	strzeż
+się	się
+z	null
+przodu	null
+null	z przodu
+konia	konia
+z	null
+tyłu	null
+null	z tyłu
+a	a
+głupiego	głupiego
+ze	ze
+wszystkich	wszystkich
+stron	stron
+null	 
+Choć	Choć
+się	się
+głupstwo	głupstwo
+czasem	czasem
+uda	uda
+będzie	będzie
+to	to
+zawsze	zawsze
+głupstwo	głupstwo
+null	 
+Jaka	Jaka
+gmina	gmina
+taki	taki
+zwierzchnik	zwierzchnik
+null	 
+Lepszy	Lepszy
+pierwszy	pierwszy
+gniew	gniew
+niż	niż
+drugi	drugi
+null	 
+Gniew	Gniew
+to	to
+głupiec	głupiec
+albo	albo
+głupi	głupi
+doradca	doradca
+null	 
+Pieczone	Pieczone
+gołąbki	gołąbki
+nie	nie
+lecą	lecą
+do	do
+gąbki	gąbki
+null	 
+Gdy	Gdy
+gosdodarz	gosdodarz
+jest	jest
+żarłokiem	żarłokiem
+to	to
+gościom	gościom
+nic	nic
+się	się
+nie	nie
+dostaje	dostaje
+null	 
+Lepiej	Lepiej
+być	być
+bogatym	bogatym
+sąsiadem	sąsiadem
+niż	niż
+ubogim	ubogim
+gospodarzem	gospodarzem
+ti	null
+null	tj
+lepiej	lepiej
+być	być
+bogatym	bogatym
+lokatorem	lokatorem
+niż	niż
+ubogim	ubogim
+właścicielem	właścicielem
+domu	domu
+null	 
+Kiedy	Kiedy
+gospodyni	gospodyni
+niedbała	niedbała
+niezdarna	niezdarna
+to	to
+kot	kot
+łakomy	łakomy
+tj	tj
+niedbała	niedbała
+gospodyni	gospodyni
+wszystkie	wszystkie
+szkody	szkody
+poczynione	poczynione
+w	null
+zapasach	null
+śŚpiŻarnianych	null
+null	w zapasach
+null	śpiżarnianych
+składa	składa
+zazwyczaj	zazwyczaj
+na	na
+łakomstwo	łakomstwo
+kota	kota
+null	 
+Dom	Dom
+bez	bez
+gospodyni	gospodyni
+to	to
+wóz	wóz
+bez	bez
+kół	kół
+null	 
+Gość	Gość
+na	na
+chwilę	chwilę
+widzi	widzi
+na	na
+milę	milę
+null	 
+Jacy	Jacy
+są	są
+goście	goście
+tak	tak
+się	się
+kugiel	kugiel
+udaje	udaje
+null	 
+Im	Im
+mniej	mniej
+gości	gości
+tem	tem
+weselsza	weselsza
+uezta	null
+null	uczta
+null	 
+Najlepszy	Najlepszy
+towar	towar
+na	na
+świecie	świecie
+gotówka	gotówka
+null	 
+Niema	Niema
+gotówki	gotówki
+niema	niema
+poszanowania	poszanowania
+u	null
+ludzi	null
+null	u ludzi
+v	v
+niema	niema
+wesołej	wesołej
+pięknej	pięknej
+twarzy	twarzy
+null	 
+Góra	Góra
+z	null
+górą	null
+null	z górą
+się	się
+nie	nie
+schodzi	schodzi
+ale	ale
+człowiek	człowiek
+z	null
+człowiekiem	null
+null	z człowiekiem
+null	 
+Lepszy	Lepszy
+koszerny	koszerny
+grosz	grosz
+niż	niż
+trefny	trefny
+rubel	rubel
+null	 
+Lepszy	Lepszy
+częsty	częsty
+grosz	grosz
+niż	niż
+rzadki	rzadki
+rubel	rubel
+null	 
+Lepszy	Lepszy
+blizki	blizki
+grosz	grosz
+niż	niż
+daleki	daleki
+rubel	rubel
+null	 
+Małe	Małe
+grzechy	grzechy
+powodują	powodują
+wielkie	wielkie
+biedy	biedy
+kary	kary
+null	 
+Grzesznikowi	Grzesznikowi
+wiedzie	wiedzie
+się	się
+na	na
+tym	tym
+świecie	świecie
+enotliwemu	null
+null	cnotliwemu
+na	na
+tamtym	tamtym
+Przystow	null
+żyd	null

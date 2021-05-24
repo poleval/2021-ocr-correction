@@ -1,0 +1,166 @@
+—	null
+XIX	null
+—	null
+XYIIL	null
+Wstąpiłem	null
+znowu	null
+XXIII	null
+Noc	null
+null	Str
+null	XYII Wstąpiłem
+null	znowu  
+null	XXIII Noc
+była	była
+cichą	null
+»	null
+XXIV	null
+Jakże	null
+null	cichą  
+null	XXIV Jakże
+możeż	możeż
+spać	null
+Śpi	null
+null	spać  
+null	XXV Śpi
+piękne	piękne
+dziewczę	null
+Wlepiłem	null
+oczy	null
+«	null
+»	null
+Jak	null
+null	dziewczę  
+null	XXVI Wlepiłem
+null	oczy  
+null	XXVII Jak
+Atlasa	Atlasa
+nieszczęsnego	null
+Płyną	null
+Jata	null
+«	null
+Śiilem	null
+©	null
+taa	null
+Cóż	null
+null	nieszczęsnego  
+null	XXVIII Płyną
+null	lata  
+null	XXIX Śniłem  
+null	XXX Cóż
+ta	ta
+łezka	null
+«	null
+»	null
+Blady	null
+null	łezka  
+null	XXXI Blady
+jesienny	jesienny
+wieczór	null
+Toż	null
+null	wieczór  
+null	XXXII Toż
+mi	mi
+straszliwa	null
+Sądzą	null
+null	straszliwa  
+null	XXXIII Sądzą
+że	że
+życie	życie
+pędzę	null
+Gdybym	null
+null	pędzę  
+null	XXXIV Gdybym
+choć	choć
+raz	null
+Czyż	null
+null	raz  
+null	XXXV Czyż
+ci	ci
+nigdy	null
+XXXVI	null
+Oboje	null
+czcili	null
+«	null
+«	null
+XXXVII	null
+A	null
+null	nigdy  
+null	XXXVI Oboje
+null	czcili  
+null	XXXVII A
+gdym	gdym
+przed	przed
+wami	null
+Ej	null
+człowieku	null
+O	null
+dzićcię	null
+moje	null
+«	null
+Serce	null
+null	wami  
+null	XXXIX Ej
+null	człowieku  
+null	XLI O
+null	dziécię
+null	moje  
+null	XLII Serce
+mnie	mnie
+boli	null
+XLII	null
+Jak	null
+null	boli  
+null	XLIII Jak
+z	z
+ciemnych	ciemnych
+chmur	null
+„	null
+XLIV	null
+Widziałem	null
+null	chmur  
+null	XLIV Widziałem
+we	we
+śnio	null
+XLV	null
+Do	null
+null	śnie  
+null	XLV Do
+piersi	piersi
+mojćj	null
+«	null
+XLVI	null
+O	null
+Niemićjcie	null
+żalu	null
+XLVI	null
+Czas	null
+jnż	null
+nareszcie	null
+XLIX	null
+Niech	null
+null	mojéj  
+null	XLVI O
+null	Niemiéjcie
+null	żalu  
+null	XLVII Czas
+null	już
+null	nareszcie  
+null	XLIX Niech
+me	me
+serce	null
+„	null
+L	null
+Ty	null
+null	serce  
+null	L Ty
+jesteś	jesteś
+luba	null
+LI	null
+Dziecko	null
+»	null
+„	null
+»	null
+»	null
+Str	null
+null	luba  
+null	LI Dziecko  

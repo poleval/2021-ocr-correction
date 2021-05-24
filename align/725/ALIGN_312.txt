@@ -1,0 +1,91 @@
+wiersz	null
+null	ERRATA
+null	Str
+null	„
+null	„
+null	„
+null	„
+null	„
+null	„
+null	„
+null	„
+null	„
+null	 wiersz 
+null	„
+null	„
+null	„
+null	„
+null	„
+null	„
+null	„
+null	„
+null	„
+null	 
+null	 
+null	 
+null	 
+null	 
+ostatni	ostatni
+ERRA	null
+FA	null
+null	 
+null	 
+null	 
+null	 
+null	 
+po	po
+null	 
+burza	burza
+brak	brak
+przecinka	przecinka
+przed	przed
+null	 
+siędzie	siędzie
+dodać	dodać
+null	 
+null	i
+zamiast	zamiast
+null	 
+nędzarzy	nędzarzy
+ma	ma
+być	być
+null	 
+nędzarza	nędzarza
+zamiast	zamiast
+ogiądzie	null
+null	 
+null	osiądzie
+ma	ma
+być	być
+null	 
+osiędzie	osiędzie
+na	na
+końcu	końcu
+brak	brak
+przecinka	przecinka
+na	na
+początku	początku
+brak	brak
+null	 
+i	i
+zamiast	zamiast
+null	 
+świecę	świecę
+ma	ma
+być	być
+null	 
+święcę	święcę
+niepotrzebny	niepotrzebny
+średnik	średnik
+na	na
+końcu	końcu
+brak	brak
+dwukropka	dwukropka
+zamiast	zamiast
+null	 
+ebramie	ebramie
+ma	ma
+być	być
+null	 
+chramie	chramie
+CKĄ	null

@@ -1,0 +1,323 @@
+Ubogima	null
+null	 
+null	Ubogi
+null	ma
+zawsze	zawsze
+piękną	piękną
+córkę	córkę
+Nie	Nie
+ma	ma
+dla	dla
+niej	niej
+posagu	posagu
+więc	więc
+ją	ją
+chwali	chwali
+U	null
+biednego	null
+null	 
+null	U biednego
+pieniędzy	pieniędzy
+nie	nie
+pożyczaj	pożyczaj
+U	null
+biednego	null
+null	 
+null	U biednego
+rozum	rozum
+niemieje	niemieje
+null	 
+Biednemu	Biednemu
+zawsze	zawsze
+wiatr	wiatr
+w	null
+oczy	null
+null	w oczy
+null	 
+Kiedy	Kiedy
+się	się
+ubogi	ubogi
+raduje	raduje
+—Gdy	null
+null	—
+null	Gdy
+gubi	gubi
+i	null
+odnajduje	null
+null	i odnajduje
+null	 
+Kiedy	Kiedy
+się	się
+ubogi	ubogi
+smuci	smuci
+—Gdy	null
+null	—
+null	Gdy
+ma	ma
+dwa	dwa
+wesela	wesela
+w	null
+jednym	null
+null	w jednym
+dniu	dniu
+Na	Na
+prowincji	prowincji
+dotąd	dotąd
+zachował	zachował
+się	się
+jeszcze	jeszcze
+zwyczaj	zwyczaj
+że	że
+w	null
+czasie	null
+null	w czasie
+uczt	uczt
+weselnych	weselnych
+zastawiają	zastawiają
+jeden	jeden
+stół	stół
+dla	dla
+biedaków	biedaków
+miejscowych	miejscowych
+wszelkiego	wszelkiego
+rodzaju	rodzaju
+czasem	czasem
+nawet	nawet
+dla	dla
+żebraków	żebraków
+null	 
+Do	Do
+wypędzenia	wypędzenia
+biedaka	biedaka
+potrzeba	potrzeba
+bogacza	bogacza
+null	 
+Gdy	Gdy
+bogaci	bogaci
+chorują	chorują
+wtedy	wtedy
+biedni	biedni
+gotują	gotują
+Gdyż	Gdyż
+wówczas	wówczas
+rozdają	rozdają
+hojną	hojną
+jałmużnę	jałmużnę
+ubodzy	ubodzy
+mają	mają
+więc	więc
+za	za
+co	co
+null	się
+żywić	żywić
+null	 
+Kiedy	Kiedy
+bogaty	bogaty
+upada	upada
+a	a
+biedny	biedny
+się	się
+podnosi	podnosi
+to	to
+jeszcze	jeszcze
+nie	nie
+równa	równa
+null	 
+Bogacz	Bogacz
+nie	nie
+ma	ma
+sumienia	sumienia
+null	 
+Bogaty	Bogaty
+się	się
+nadyma	nadyma
+a	a
+biedny	biedny
+puchnie	puchnie
+null	 
+Co	Co
+u	u
+bogatego	bogatego
+przepada	przepada
+tego	tego
+biedny	biedny
+w	w
+całym	całym
+majątku	majątku
+nie	nie
+ma	ma
+null	 
+Nikt	Nikt
+się	się
+nie	nie
+skarży	skarży
+gdy	gdy
+go	go
+nie	nie
+boli	boli
+null	 
+Jak	Jak
+Bóg	Bóg
+daje	daje
+chleb	chleb
+to	to
+ludzie	ludzie
+dają	dają
+masło	masło
+null	 
+Jak	Jak
+Bóg	Bóg
+daje	daje
+łyżką	łyżką
+to	to
+ludzie	ludzie
+null	dają
+całą	całą
+beczką	beczką
+null	 
+Lepszy	Lepszy
+gorzki	gorzki
+listek	listek
+od	od
+Boga	Boga
+niż	niż
+słodki	słodki
+od	od
+ludzi	ludzi
+null	 
+Bóg	Bóg
+daje	daje
+zimno	zimno
+Bóg	Bóg
+daje	daje
+i	i
+okrycie	okrycie
+null	 
+Bóg	Bóg
+nie	null
+null	nic
+darmo	darmo
+nie	nie
+daje	daje
+null	 
+Bóg	Bóg
+w	w
+górze	górze
+siedzi	siedzi
+a	a
+na	na
+dole	dole
+jeździ	jeździ
+null	 
+Bóg	Bóg
+zsyła	zsyła
+lekarstwo	lekarstwo
+v	v
+ratunek	ratunek
+przed	przed
+chorobą	chorobą
+v	v
+nieszczęściem	nieszczęściem
+Ozłowiek	null
+null	 
+null	Człowiek
+przemyśla	przemyśla
+Bóg	Bóg
+się	się
+śmieje	śmieje
+Qo	null
+null	 
+null	Co
+Bóg	Bóg
+czyni	czyni
+to	to
+niezawodnie	niezawodnie
+dobre	dobre
+Qo	null
+null	 
+null	Co
+Bogu	Bogu
+to	to
+Bogu	Bogu
+co	co
+ludziom	ludziom
+te	null
+null	to
+ludziom	ludziom
+null	 
+Kogo	Kogo
+Bóg	Bóg
+chce	chce
+uradować	uradować
+tego	tego
+ludzie	ludzie
+nie	nie
+mogą	mogą
+zasmucić	zasmucić
+null	 
+Kogo	Kogo
+Bóg	Bóg
+lubi	lubi
+tego	tego
+karze	karze
+null	 
+Gdy	Gdy
+Bóg	Bóg
+chce	chce
+to	to
+i	i
+miotła	miotła
+strzela	strzela
+null	 
+Kiedy	Kiedy
+się	się
+Bóg	Bóg
+raduje	raduje
+—	—
+Gdy	Gdy
+widzi	widzi
+jak	jak
+jeden	jeden
+biedak	biedak
+wspiera	wspiera
+drugiego	drugiego
+null	 
+Każdy	Każdy
+dla	dla
+siebie	siebie
+Bóg	Bóg
+dla	dla
+wszystkich	wszystkich
+null	 
+Bóg	Bóg
+daje	daje
+pijakowi	pijakowi
+wino	wino
+a	a
+przędzarzowi	przędzarzowi
+len	len
+null	 
+I	I
+biedni	biedni
+i	i
+bogaci	bogaci
+wszyscy	wszyscy
+wobec	wobec
+Boga	Boga
+równi	równi
+null	 
+Im	Im
+bliżej	bliżej
+bóżniey	null
+null	bóżnicy
+tym	tym
+dalej	dalej
+od	od
+Boga	Boga
+null	 
+Kto	Kto
+lubi	lubi
+brać	brać
+nie	nie
+lubi	lubi
+dawać	dawać

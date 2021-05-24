@@ -1,0 +1,103 @@
+IE	null
+Til	null
+IV	null
+VI	null
+VIE	null
+VIII	null
+Ix	null
+IŃ	null
+xi	null
+XIII	null
+SPIS	SPIS
+RZECZY	RZECZY
+null	I
+NA	NA
+NORMANDZKIM	NORMANDZKIM
+BRZEGU	BRZEGU
+«Madame	null
+null	Str
+null	I «Madame
+la	la
+Vierge»	null
+«	null
+«	null
+«	null
+«	null
+WAODZSZICJ	null
+sb	null
+EOG	null
+ż	null
+Nawęzorki	null
+«	null
+«	null
+ss	null
+«	null
+»	null
+Przy	null
+null	Vierge»  
+null	II W
+null	osadzie  
+null	III Na
+null	węgorki  
+null	IV Przy
+drzwiach	drzwiach
+otwartych	null
+DOFKICEDO	null
+«w	null
+W	null
+s	null
+MORZEOJESZIO	null
+nau	null
+»	null
+s	null
+»	null
+MATE	null
+WTACJJĄ	null
+«	null
+©	null
+«	null
+©	null
+wś	null
+aa	null
+Na	null
+wybrzeżu	null
+A	null
+SODA	null
+OZJENON	null
+O	null
+zmierzchu	null
+sBycapellas	null
+„dw	null
+Mis	null
+A	null
+Szlendaki	null
+MOG	null
+Mój	null
+zegarek	null
+Hanysek	null
+y	null
+Uniw	null
+Warst	null
+Str	null
+gi	null
+SI	null
+null	otwartych  
+null	V Do
+null	ziemi  
+null	VI Morze
+null	odeszło  
+null	VII Barki
+null	wracają  
+null	VIII Na
+null	wybrzeżu  
+null	IX O
+null	zmierzchu  
+null	X «A
+null	capella»  
+null	II
+null	CI
+null	MALI
+null	XI Szlendaki  
+null	XII Mój
+null	zegarek  
+null	XIII Hanysek  

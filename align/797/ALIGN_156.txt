@@ -1,0 +1,100 @@
+	null
+null	Str
+null	XLIX  Do
+null	Cycerona  
+null	L  Do
+null	przyjaciela  
+null	LI  Do
+null	Lesbii  
+null	LII  O
+null	czasy  
+null	LIII  Wypadek
+null	w
+null	sądzie  
+null	LV  Do
+null	Kameryusa  
+null	LVII  Dobrana
+null	para  
+null	LVIII  Niegdyś
+null	a
+null	teraz  
+null	LIX  Rufa  
+null	LX  Jęk
+null	boleści  
+null	LXI  Pieśń
+null	weselna  
+null	LXII  Pieśń
+null	weselna
+null	II  
+null	LXIV  Wesele
+null	Peleusa
+null	i
+null	Tetydy  
+null	LXV  Do
+null	Hortenzyusa
+null	Hortala  
+null	LXVI  Warkocz
+null	Bereniki  
+null	LXVII  Rozmowa
+null	z
+null	bramą  
+null	LXVIIIa  Do
+null	przyjaciela  
+null	LXVIIIb  Upominek
+null	Alliusowi  
+null	LXX  Niewieście
+null	obiecanki  
+null	LXXII  Zwierzę
+null	ludzkie  
+null	LXXIII  Rozczarowanie  
+null	LXXVLXXXV  Szaleniec  
+null	LXXVI  Rezygnacya  
+null	LXXVII  Niewierny
+null	przyjaciel  
+null	LXXVIIIb  Zemsta
+null	poety  
+null	LXXIX  Piękny
+null	Lesbius  
+null	LXXXII  Do
+null	Kwincyusa  
+null	LXXXIII  Znak
+null	pomyślny  
+null	LXXXIV  Arryus  
+null	LXXXV  Nie
+null	kocham  
+null	LXXXVI  Prawdziwa
+null	piękność  
+null	XCI  Co
+null	Celliusa
+null	nęci  
+null	XCII  Czy
+null	kocha  
+null	XCV  Wiersze
+null	i
+null	wierszydła  
+null	XCVI  Pociecha  
+null	XCVIII  Straszny
+null	Wikcyus  
+null	C  Trudny
+null	wybór  
+null	CI  Ostatnia
+null	przysługa  
+null	CII  Do
+null	Korneliusa  
+null	CIII  Do
+null	rajfura
+null	Sylona  
+null	CIV  Fałsz  
+null	CV  Mamurra
+null	na
+null	Parnasie  
+null	CVII  Pogodzenie  
+null	CVIII  Horoskop  
+null	CIX  Życzenie
+null	kochanka  
+null	CX  Zawód  
+null	CXIII  Mucylla  
+null	CXIV  Bogacz
+null	szczęśliw
+null	Mamurra  
+null	CXVI  Wojna  

@@ -1,0 +1,617 @@
+Berorbnung	null
+fiber	null
+Bildung	null
+eines	null
+Staatsrata	null
+und	null
+eines	null
+Bereinigten	null
+Land	null
+tages	null
+im	null
+Sónigrcicj	null
+olen	null
+Artitel	null
+Jn	null
+der	null
+Sandeskauptitadt	null
+Warjchau	null
+wird	null
+cin	null
+„Stała	null
+rat	null
+fur	null
+stónigrció	null
+Polen”	null
+und	null
+ein	null
+„Nereinigter	null
+Sandtag	null
+gebilbet	null
+Artitel	null
+Die	null
+Nertreting	null
+Ber	null
+in	null
+Ofterreicdifdonngarijcher	null
+Dłtue	null
+pationsverwaltiing	null
+befindlidhen	null
+Teile	null
+Des	null
+fónigreichs	null
+Polen	null
+im	null
+Gereinigten	null
+Sandłag	null
+ud	null
+dem	null
+Etaatśrat	null
+wird	null
+durdj	null
+Dereinbarung	null
+mit	null
+der	null
+dfłerreichijdjngarijchen	null
+Regierung	null
+geregelt	null
+Bie	null
+Berttehung	null
+des	null
+Generalgowwernementa	null
+Warjcjnu	null
+fimbet	null
+in	null
+fotgender	null
+Beife	null
+jtatt	null
+Artifel	null
+je	null
+dandiagsAbgeordueten	null
+werden	null
+bon	null
+den	null
+Mreieber	null
+fammlungen	null
+in	null
+den	null
+Stadtfecifen	null
+Warfchau	null
+und	null
+tod	null
+bout	null
+Ben	null
+jtódtijcjenRórperchaften	null
+gewóólt	null
+mił	null
+der	null
+Włafqabe	null
+daf	null
+auf	null
+Die	null
+cinzelnen	null
+Streiefomnumalocrbdnde	null
+entfnilen	null
+Stadttecis	null
+Warjjai	null
+bgrordnete	null
+Sanbfreis	null
+Warjejani	null
+O	null
+Stabttreis	null
+dod	null
+Sandtreia	null
+Rodz	null
+Steeis	null
+Bendzin	null
+»	null
+Gzenftodani	null
+ż	null
+z	null
+mbielim	null
+Gietadj	null
+Ralifhstnet	null
+foninsśltpa	null
+folo	null
+Sencjyca	null
+ż	null
+Blociaweteiejjawa	null
+Ą	null
+RutnoGoftyntn	null
+ż	null
+Sipnosypin	null
+ć	null
+k	null
+locteftonfteSierye	null
+MlawaGiechanowefrajdjnię	null
+Pultuftełatotw	null
+ŁA	null
+SowiejZodhacjetw	null
+„	null
+Stierniewice	null
+„Słota	null
+Ę	null
+«	null
+Blonie	null
+„	null
+roje	null
+iufeRazowiecti	null
+anwolin	null
+Sufow	null
+»	null
+Siedlce	null
+Sofolowtiengrow	null
+SomzaeftolnoMazowiect	null
+»	null
+Dftrow	null
+„	null
+©ftrofenta	null
+Gmin	null
+«wi	null
+b	null
+Bufammen	null
+Albgeordnete	null
+at	null
+ein	null
+freisfommumatoerbanb	null
+und	null
+mehr	null
+Abgeord	null
+mete	null
+ju	null
+wablen	null
+fo	null
+wird	null
+Die	null
+Wadi	null
+nad	null
+den	null
+Grunbfigen	null
+der	null
+Berhdltniewagi	null
+borgenonmen	null
+Artitel	null
+Mahfónr	null
+zu	null
+Sandtagsabgcordneten	null
+find	null
+mir	null
+Perjonen	null
+die	null
+Dam	null
+von	null
+ifnen	null
+bertretenen	null
+tonmimatooennd	null
+durzch	null
+ognfię	null
+ober	null
+Grunobefig	null
+angehdren	null
+Rozporządzenie	Rozporządzenie
+o	o
+utworzeniu	utworzeniu
+Rady	Rady
+Stanu	Stanu
+i	i
+Sejmu	Sejmu
+w	w
+Królestwie	Królestwie
+Polskim	Polskim
+Artykuł	null
+W	null
+null	Artykuł 
+null	 W
+mieście	mieście
+A	null
+null	stołecznym
+Warszawie	Warszawie
+utworzone	utworzone
+będą	będą
+„Rada	„Rada
+Stanu	Stanu
+w	w
+Królestwie	Królestwie
+Polskim	null
+null	Polskim“
+i	i
+„Sejm	null
+Artykuł	null
+Przedstawicielstwo	null
+null	„Sejm“
+null	Artykuł 
+null	 Przedstawicielstwo
+tych	tych
+części	części
+Królestwa	Królestwa
+Polskiego	Polskiego
+w	w
+Sejmie	Sejmie
+i	i
+w	w
+Radzie	Radzie
+stanu	stanu
+które	które
+się	się
+znajdują	znajdują
+pod	pod
+zarządem	zarządem
+okupacji	okupacji
+austro	null
+wę	null
+gierskiej	null
+null	austrowęgierskiej
+będzie	będzie
+ustalone	ustalone
+na	na
+mocy	mocy
+umowy	umowy
+rzą	null
+dem	null
+null	z
+null	rządem
+austrowęgierskim	austrowęgierskim
+Przedstawicielstwo	null
+Jenerał	null
+Gubernatorstwa	null
+null	 Przedstawicielstwo
+null	JenerałGubernatorstwa
+Warszawskiego	Warszawskiego
+będzie	będzie
+miało	miało
+miejsce	miejsce
+w	w
+sposób	sposób
+następujący	następujący
+Artykuł	null
+Posłów	null
+null	Artykuł 
+null	 Posłów
+do	do
+Sejmu	Sejmu
+wybierają	wybierają
+sejmiki	sejmiki
+powia	null
+towe	null
+null	powiatowe
+a	a
+w	w
+powiatach	powiatach
+miej	null
+lol	null
+Watszawskih	null
+null	miejskich
+null	Warszawskim
+i	i
+Łódzkim	Łódzkim
+korporacje	korporacje
+miejskie	miejskie
+na	na
+poszczególne	poszczególne
+powiatowe	powiatowe
+związki	związki
+komunalne	komunalne
+przypada	przypada
+a	null
+null	 
+null	na
+Warszawski	Warszawski
+powiat	powiat
+miejski	miejski
+null	 
+posłów	posłów
+null	 
+na	na
+Warszawski	Warszawski
+powiat	powiat
+ziemski	ziemski
+null	 
+null	„
+null	 
+na	na
+Łódzki	Łódzki
+powiat	powiat
+miejski	miejski
+null	 
+null	„
+null	 
+na	na
+Łódzki	Łódzki
+powiat	powiat
+ziemski	ziemski
+null	 
+null	„
+null	 
+na	na
+powiat	powiat
+Będziński	Będziński
+m	null
+null	 
+„	„
+w	null
+null	 
+null	 „ „ 
+Częstochowski	Częstochowski
+null	 
+„	„
+»	null
+«	null
+„	null
+”	null
+„	null
+null	 
+null	 „ „ 
+Wieluński	Wieluński
+„	null
+null	 
+poseł	poseł
+»	null
+Sleradzki	null
+null	 
+null	 „ „ 
+null	Sieradzki
+null	 
+posłów	posłów
+„	null
+„	null
+null	 
+null	 „ „ 
+Kaliski	Kaliski
+i	i
+Turecki	Turecki
+null	 
+„	„
+„	null
+»	null
+„	null
+null	 
+null	 „ „ 
+Koniński	Koniński
+i	i
+Słupecki	Słupecki
+»ERONEPY	null
+Pożeł	null
+null	 
+„	„
+„	null
+null	 
+null	 „ „ 
+null	Kolski
+null	 
+null	poseł
+null	 
+null	 „ „ 
+Łęczycki	Łęczycki
+sżasięci	null
+JAA	null
+”	null
+null	 
+„	„
+Włocławskii	null
+null	 
+null	 „ „ 
+null	Włocławski
+null	i
+Nieszawski	Nieszawski
+null	 
+„	„
+»	null
+null	 
+null	 „ „ 
+Kutnowski	Kutnowski
+i	i
+Gostyński	Gostyński
+null	 
+„	„
+„	null
+„	null
+null	 
+null	 „ „ 
+Lipnowski	Lipnowski
+i	i
+Rypiński	Rypiński
+null	 
+„	„
+M	null
+„	null
+null	 
+null	 „ „ 
+Płocki	Płocki
+Płoński	Płoński
+i	i
+Sier	null
+Dioda	null
+„Kg	null
+Hz	null
+null	Sierpecki
+null	 
+„	„
+null	 
+null	 „ „ 
+Mławski	Mławski
+Ciechanowski	Ciechanowski
+i	i
+Przesnyski	null
+null	Przasnyski
+null	 
+„	„
+„	null
+„	null
+null	 
+null	 „ „ 
+Pułtuski	Pułtuski
+i	i
+Makowski	Makowski
+null	 
+„	„
+»	null
+„	null
+Łowiekii	null
+null	 
+null	 „ „ 
+null	Łowicki
+null	i
+Sochaczewski	Sochaczewski
+null	 
+„	„
+„	null
+„	null
+null	 
+null	 „ „ 
+Skierniewicki	Skierniewicki
+null	 
+poseł	poseł
+„Rawski	null
+«	null
+lo	null
+null	 
+null	 „ „ 
+null	Rawski
+null	 
+„	„
+null	 
+null	 „ „ 
+null	Błoński
+null	 
+„	„
+Błońsń	null
+ew	null
+null	 
+null	 „ „ 
+null	Grójecki
+null	 
+„	„
+„	null
+drójch	null
+„	null
+„	null
+„	null
+null	 
+null	 „ „ 
+MińskiMazowiecki	MińskiMazowiecki
+null	 
+„	„
+„	null
+null	 
+null	 „ „ 
+Garwoliński	Garwoliński
+M	null
+Z	null
+null	 
+„	„
+„	null
+null	 
+null	 „ „ 
+Łukowski	Łukowski
+«	null
+Ś	null
+null	 
+„	„
+null	 
+null	 „ „ 
+Siedlecki	Siedlecki
+»	null
+o	null
+null	 
+„	„
+„	null
+Sokołowskii	null
+null	 
+null	 „ „ 
+null	Sokołowski
+null	i
+Węgrowski	Węgrowski
+prsłów	null
+„	null
+„	null
+null	 
+null	posłów
+null	 
+null	 „ „ 
+Łomżyński	Łomżyński
+Kolneński	Kolneński
+i	i
+Mazowiecki	Mazowiecki
+null	 
+„	„
+„	null
+w	null
+null	 
+null	 „ „ 
+Ostrowski	Ostrowski
+pośeł	null
+»	null
+Qstrołęci	null
+null	 
+null	poseł
+null	 
+null	 „ „ 
+null	Ostrołęcki
+null	 
+„	„
+UB	null
+„	null
+„	null
+null	 
+null	 „ „ 
+Szczuczyński	Szczuczyński
+null	 
+null	„
+razem	razem
+posłów	null
+Gdy	null
+null	posłów 
+null	 Gdy
+jeden	jeden
+z	z
+powiatowych	powiatowych
+związków	związków
+komu	null
+nalnych	null
+null	komunalnych
+winien	winien
+wybrać	wybrać
+h	null
+null	ch
+lub	lub
+więcej	więcej
+posłów	posłów
+wybory	wybory
+odbędą	odbędą
+się	się
+według	według
+zasad	zasad
+wyborów	wyborów
+pro”	null
+porojonalnych	null
+Artykul	null
+Wybierane	null
+null	proporcjonalnych
+null	Artykuł 
+null	 Wybierane
+na	na
+posłów	posłów
+do	do
+Sejmu	Sejmu
+mogą	mogą
+być	być
+tylko	tylko
+osoby	osoby
+należące	należące
+na	na
+mocy	mocy
+miejsca	miejsca
+zamieska	null
+nia	null
+null	zamieskania
+lub	lub
+własności	własności
+nieruchomej	nieruchomej
+do	do
+związku	związku
+komu	null
+nalnego	null
+null	komunalnego
+którego	którego
+są	są
+przedstawicielami	przedstawicielami

@@ -1,0 +1,172 @@
+LXVII	null
+LXVIII	null
+LXIX	null
+LXX	null
+LXXI	null
+r	null
+v	null
+V	null
+VI	null
+VII	null
+VIIL	null
+IX	null
+x	null
+Ą	null
+XL	null
+XII	null
+XIII	null
+XIV	null
+XV	null
+XVI	null
+XVIII	null
+XIX	null
+XXL	null
+—	null
+XvIil	null
+—	null
+Noc	null
+null	Str
+null	LXVII Noc
+była	była
+zimną	null
+«	null
+»	null
+Samobójcom	null
+null	zimną  
+null	LXVIII Samobójcom
+kopią	kopią
+w	w
+nocy	null
+Gdzie	null
+null	nocy  
+null	LXIX Gdzie
+się	się
+zwrócę	null
+Noc	null
+null	zwrócę  
+null	LXX Noc
+na	na
+mych	mych
+oczach	null
+Przebrzmiał	null
+null	oczach  
+null	LXXI Przebrzmiał
+wiek	wiek
+marzeń	null
+null	marzeń  
+POWRÓT	POWRÓT
+Raz	null
+null	I Raz
+wśród	wśród
+ciemni	null
+Tęskni	null
+null	ciemni  
+null	II Tęskni
+mój	mój
+duch	null
+Serce	null
+Moje	null
+«	null
+«	null
+Po	null
+null	duch  
+null	III Serce
+null	moje  
+null	IV Po
+lesie	lesie
+chodzę	null
+«	null
+Noc	null
+null	chodzę  
+null	V Noc
+mglista	mglista
+ciemna	null
+Z	null
+null	ciemna  
+null	VI Z
+rodziną	rodziną
+mojej	mojej
+bogdanki	null
+Przy	null
+null	bogdanki  
+null	VII Przy
+rybackiej	rybackiej
+chacie	null
+„	null
+Rybaczko	null
+null	chacie  
+null	VIII Rybaczko
+piękna	piękna
+miła	null
+Księżyc	null
+null	miła  
+null	IX Księżyc
+rozproszył	rozproszył
+blaski	null
+Po	null
+obłokach	null
+«	null
+«	null
+«	null
+«	null
+«	null
+«	null
+Owinięte	null
+null	blaski  
+null	X Po
+null	obłokach  
+null	XI Owinięte
+w	w
+obłok	obłok
+szary	null
+Wiatr	null
+null	szary  
+null	XII Wiatr
+nałożył	nałożył
+szarawary	null
+«	null
+Burza	null
+null	szarawary  
+null	XIII Burza
+do	do
+tańca	tańca
+przygrywa	null
+„	null
+Nadchodzi	null
+wieczór	null
+«	null
+«	null
+Gdy	null
+null	przygrywa  
+null	XIV Nadchodzi
+null	wieczór  
+null	XV Gdy
+przed	przed
+twóm	null
+oknem	null
+Morze	null
+null	twém
+null	oknem  
+null	XVI Morze
+swe	swe
+światło	światło
+rozlało	null
+O	null
+null	rozlało  
+null	XVIII O
+liljo	liljo
+miłości	miłości
+mojćj	null
+W	null
+null	mojéj  
+null	XIX W
+oddali	oddali
+na	na
+widnokręgu	null
+I	null
+null	widnokręgu  
+null	XXI I
+znowu	znowu
+dawna	dawna
+miłość	null
+null	miłość  

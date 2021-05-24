@@ -1,0 +1,65 @@
+Pezeliytu	null
+droga	null
+rza	null
+Niko	null
+ŁOTĄ	null
+Iv	null
+Jesień	null
+e	null
+Kusze	null
+łapk	null
+Pużdziecniik	null
+Tikcie	null
+Żebrak	null
+Dziadck	null
+Babka	null
+a	null
+Kobicin	null
+null	Str
+null	Słowiki  
+null	Zawód  „ 
+null	Ogród  
+null	Wydarty
+null	bukiet  „ 
+null	List  „
+null	Ślepa  
+null	Przebyta
+null	droga  „ 
+null	Burza  „ 
+null	Nike  
+null	Atlas  „ 
+null	IV
+null	Jesień  
+null	Kurze
+null	łapki  „ 
+null	Dni  „ 
+null	Październik  
+null	Liście  „ 
+null	Żebrak  „ 
+null	Dziadek  
+null	Babka  „ 
+null	Kobieta
+która	która
+ŻW	null
+Żórwie	null
+null	czeka  „ 
+null	Żórawie  
+Pod	Pod
+kościołem	null
+null	kościołem  „ 
+Kwiatki	Kwiatki
+z	z
+Waterloo	null
+Spóźuieny	null
+list	null
+s	null
+Ber	null
+Bros	null
+ge	null
+BE	null
+Mt	null
+I	null
+m	null
+null	Waterloo  „ 
+null	Spóźniony
+null	list  

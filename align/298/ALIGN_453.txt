@@ -1,0 +1,126 @@
+SPIS	SPIS
+RZECZY	RZECZY
+Przedmowa	null
+autora	null
+null	Str
+null	 Przedmowa
+null	autora  
+ROZDZIAŁ	ROZDZIAŁ
+Ę	null
+Poudąśki	null
+wiklizy	null
+»	null
+gd	null
+null	 I Początki
+null	wiedzy  
+ROZDZIAŁ	ROZDZIAŁ
+II	null
+Początek	null
+null	 II Początek
+chrześciaństwa	chrześciaństwa
+—	—
+Przekształcenie	Przekształcenie
+jego	jego
+po	po
+osiągnięciu	osiągnięciu
+panowania	panowania
+—	—
+Stosunek	Stosunek
+do	do
+nauki	null
+null	nauki  
+ROZDZIAŁ	ROZDZIAŁ
+III	null
+Zatarg	null
+null	 III Zatarg
+o	o
+jedność	jedność
+Boga	Boga
+—	—
+Pierwsza	Pierwsza
+czyli	czyli
+południowa	południowa
+reformacya	null
+null	reformacya  
+ROZDZIAŁ	ROZDZIAŁ
+IV	null
+Odrodzenie	null
+null	 IV Odrodzenie
+się	się
+nauk	nauk
+na	na
+południu	null
+null	południu  
+ROZDZIAŁ	ROZDZIAŁ
+V	null
+Zatarg	null
+null	 V Zatarg
+o	o
+istocie	istocie
+duszy	duszy
+—	—
+Teorya	Teorya
+emanacyi	emanacyi
+i	i
+absorbcyi	null
+sz	null
+null	absorbcyi  
+ROZDZIAŁ	ROZDZIAŁ
+VI	null
+Zatarg	null
+null	 VI Zatarg
+co	co
+do	do
+istoty	istoty
+Świata	null
+null	świata  
+ROZDZIAŁ	ROZDZIAŁ
+VII	null
+Spór	null
+null	 VII Spór
+o	o
+wiek	wiek
+ziemi	null
+null	ziemi  
+ROZDZIAŁ	ROZDZIAŁ
+VIII	null
+Zatarg	null
+null	VIII Zatarg
+co	co
+do	do
+sprawdzianu	sprawdzianu
+null	prawdy  
+ROZDZIAŁ	ROZDZIAŁ
+IX	null
+Spór	null
+null	 IX Spór
+o	o
+kierownictwo	kierownictwo
+wszechświata	null
+null	wszechświata  
+ROZDZIAŁ	ROZDZIAŁ
+X	null
+Stosunek	null
+null	 X Stosunek
+chrześciaństwa	chrześciaństwa
+łacińskiego	łacińskiego
+do	do
+cywilizacyi	cywilizacyi
+tegoczesnej	null
+null	tegoczesnej  
+ROZDZIAŁ	ROZDZIAŁ
+XI	null
+Nauka	null
+null	 XI Nauka
+wobec	wobec
+cywilizacyi	cywilizacyi
+tegoczesnej	null
+null	tegoczesnej  
+ROZDZIAŁ	ROZDZIAŁ
+XII	null
+Nadchodzący	null
+przewrot	null
+m	null
+Str	null
+null	 XII Nadchodzący
+null	przewrot  

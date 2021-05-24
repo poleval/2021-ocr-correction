@@ -1,0 +1,298 @@
+ABE	null
+null	 
+Kiedy	Kiedy
+stary	stary
+obala	obala
+a	a
+młody	młody
+buduje	buduje
+to	to
+jeszcze	jeszcze
+nie	nie
+równa	równa
+Go	null
+null	 
+null	Co
+starzy	starzy
+żuja	null
+null	żują
+to	to
+młodzi	młodzi
+plują	plują
+null	 
+Im	Im
+starzej	starzej
+tym	tym
+zimniej	zimniej
+null	 
+Gdy	Gdy
+się	się
+stary	stary
+z	z
+młodą	młodą
+żeni	żeni
+to	to
+stary	stary
+staje	staje
+się	się
+młodym	młodym
+M	null
+a	a
+młoda	młoda
+starą	starą
+f	null
+null	 
+W	W
+dużym	dużym
+stawie	stawie
+łowią	łowią
+duże	duże
+ryby	ryby
+ś	null
+null	 
+Kto	Kto
+null	nic
+nie	nie
+nie	null
+stawi	stawi
+nic	nic
+nie	nie
+dostaje	dostaje
+nie	nie
+odbiera	odbiera
+null	 
+Gdy	Gdy
+się	się
+nie	nie
+ma	ma
+nic	nic
+do	do
+stracenia	stracenia
+trzeba	trzeba
+wszystkiego	wszystkiego
+próbować	próbować
+null	 
+I	I
+studnia	studnia
+się	się
+wyczerpuje	wyczerpuje
+null	 
+Próżno	Próżno
+chcieć	chcieć
+studnię	studnię
+napełnić	napełnić
+gdy	gdy
+do	do
+niej	niej
+woda	woda
+sama	sama
+nie	nie
+przypływa	przypływa
+null	 
+Nie	Nie
+trzeba	trzeba
+stryczka	stryczka
+przeciągać	przeciągać
+null	 
+Przyjechał	Przyjechał
+po	po
+sukcesję	sukcesję
+a	a
+musiał	musiał
+za	za
+pogrzeb	pogrzeb
+zapłacić	zapłacić
+null	 
+Suknia	Suknia
+człowieka	człowieka
+czyni	czyni
+tj	tj
+„jak	„jak
+cię	cię
+widzą	widzą
+tak	tak
+cię	cię
+piszą”	piszą”
+Śwata	null
+null	 
+null	Swata
+Bóg	Bóg
+za	za
+kłamstwo	kłamstwo
+nie	nie
+karze	karze
+null	 
+Swat	Swat
+musi	musi
+być	być
+łgarzem	łgarzem
+null	 
+Kiedy	Kiedy
+się	się
+swaci	swaci
+kłócą	kłócą
+wtedy	wtedy
+się	się
+partja	partja
+rozchwiewa	rozchwiewa
+null	 
+Zwiąż	Zwiąż
+mi	mi
+wszystkie	wszystkie
+cztery	cztery
+tj	tj
+ręce	ręce
+i	i
+nogi	nogi
+ale	ale
+rzuć	rzuć
+mię	mię
+między	między
+swoich	swoich
+Ż	null
+null	 
+Siedmiu	Siedmiu
+synów	synów
+gotuje	gotuje
+ojen	null
+null	ojcu
+miejsce	miejsce
+w	w
+raju	raju
+siedm	siedm
+eórek—	null
+Ę	null
+null	córek
+null	—
+w	w
+piekle	piekle
+Byty	null
+null	 
+null	Syty
+głodnemu	głodnemu
+nie	nie
+wierzy	wierzy
+null	 
+Jak	Jak
+kto	kto
+nie	nie
+ma	ma
+na	na
+szabas	szabas
+to	to
+nie	nie
+ma	ma
+i	i
+na	na
+niedzielę	niedzielę
+null	 
+Kot	Kot
+czy	czy
+pies	pies
+byle	byle
+mięso	mięso
+na	na
+szabas	szabas
+null	 
+Co	Co
+kto	kto
+w	w
+szabas	szabas
+zarobi	zarobi
+to	to
+w	w
+tygodniu	tygodniu
+straci	straci
+null	 
+Kto	Kto
+sobie	sobie
+w	w
+wigilję	wigilję
+szabasu	szabasu
+nie	nie
+przygotuje	przygotuje
+ten	ten
+w	w
+szabas	szabas
+nie	nie
+ma	ma
+null	 
+W	W
+szabas	szabas
+i	i
+w	w
+piekle	piekle
+mają	mają
+spokój	spokój
+null	 
+Sobotnia	Sobotnia
+praca	praca
+nietrwała	nietrwała
+null	 
+Kiedy	Kiedy
+mówią	mówią
+szalony	szalony
+to	to
+wierz	wierz
+null	 
+Szalonemu	Szalonemu
+wszystko	wszystko
+wolno	wolno
+null	 
+I	I
+dla	dla
+djabła	djabła
+trzeba	trzeba
+szczędzić	szczędzić
+Bzczędź	null
+null	 
+null	Szczędź
+szczędź	szczędź
+przyjdzie	przyjdzie
+złe	złe
+i	i
+weźmie	weźmie
+null	 
+Lepsza	Lepsza
+kwinta	kwinta
+szczęścia	szczęścia
+niż	niż
+funt	funt
+złota	złota
+kwinta	kwinta
+lub	lub
+kwintel	kwintel
+dawniej	dawniej
+znaczyła	znaczyła
+ćwierć	ćwierć
+łuta	łuta
+Lepićj	null
+null	 
+null	Lepiej
+gdy	gdy
+szezęście	null
+null	szczęście
+człowieka	człowieka
+szuka	szuka
+niż	niż
+gdy	gdy
+człowiek	człowiek
+szczęścia	szczęścia
+null	 
+Szczęście	Szczęście
+nie	nie
+pozwała	null
+null	pozwala
+z	z
+sobą	sobą
+długo	długo
+igrać	igrać
+null	 
+Wszystko	Wszystko
+rodzice	rodzice
+dać	dać
+mogą	mogą
+prócz	prócz
+szczęścia	szczęścia
+PEREZ	null
+Z	null

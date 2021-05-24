@@ -1,0 +1,46 @@
+	null
+null	KWARTALNIK
+null	FILOZOFICZNY
+null	POD
+null	REDAKCJĄ
+null	ZYGMUNTA
+null	ZAWIRSKIEGO
+null	WRAZ
+null	Z
+null	MARIANEM
+null	HEITZMANEM
+null	PRZY
+null	UDZIALE
+null	KOMITETU
+null	REDAKCYJNEGO
+null	ZŁOŻONEGO
+null	Z
+null	W HEINRICHA
+null	A KROKIEWICZA
+null	KS K MICHALSKIEGO
+null	W RUBCZYŃSKIEGO
+null	W TATARKIEWICZA
+null	OSOBNE
+null	ODBICIE
+null	KRAKÓW
+null	POLSKA
+null	AKADEMIA
+null	UMIEJĘTNOŚCI
+null	SKŁAD
+null	GŁÓWNY
+null	W
+null	KSIĘGARNI
+null	GEBETHNERA
+null	I
+null	WOLFFA
+null	WARSZAWA
+null	—
+null	KRAKÓW
+null	—
+null	ŁÓDŹ
+null	—
+null	POZNAŃ
+null	—
+null	WILNO
+null	—
+null	ZAKOPANE
