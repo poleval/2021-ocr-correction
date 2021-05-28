@@ -1,6 +1,6 @@
 Post-correction of OCR results
 ==============================
-The proposed task concerns post-correcting OCR results of Polish-language books, which were published in the years 1791-1998. 
+The proposed task concerns post-correcting OCR results of Polish-language books, which were published in the years 1791-1998.
 
 Motivation
 ----------
@@ -12,7 +12,7 @@ Dataset
 -------
 The dataset contains Polish language books, published in the period of 1791-1998, which are currently freely licenced. The source material has been adapted from the Wikisource project by collecting original scans and their manual transcriptions from Wikisource and using Tesseract OCR engine to generate (potentially erroneous) text versions of the original scans. The originial page number, book ID and book publishing date (not available for some books) is included in the dataset and may be included in the trained model. Only pages with at least 150 characters are included in order to filter out front pages, covers, titles etc. which are not the target of this task.
 
-For the purposes of the challenge we provide a training dataset, containing reference transcriptions, the material produced by the OCR engine. We also provide a development dataset, which may be used to analyze the performance of a particular model in detail. For both of these datasets an alignment between gold-standard data and OCR-results is also provided. The test-A dataset, for which gold-standard data is not provided will be used to generate the live leaderboard of the challenge. The final evaluation will be performed on the test-B dataset, which will be revealed ca. one week before the competition end. 
+For the purposes of the challenge we provide a training dataset, containing reference transcriptions, the material produced by the OCR engine. We also provide a development dataset, which may be used to analyze the performance of a particular model in detail. For both of these datasets an alignment between gold-standard data and OCR-results is also provided. The test-A dataset, for which gold-standard data is not provided will be used to generate the live leaderboard of the challenge. The final evaluation will be performed on the test-B dataset, which will be revealed ca. one week before the competition end.
 
 The whole set contains 979 books with a total number of almost 69 000 pages. Books’ years of publication range from 1791 to 1998, with the majority of them coming from the years 1870-1940. The training set contains roughly 46 000 pages, while the development set contains 5500 pages.
 
@@ -20,7 +20,7 @@ The whole set contains 979 books with a total number of almost 69 000 pages. Boo
 Metric
 ------
 
-We will use the WER metric to rank the submissions. 
+We will use the WER metric to rank the submissions.
 
 Input
 -----
