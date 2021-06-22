@@ -16,6 +16,7 @@ For the purposes of the challenge we provide a training dataset, containing refe
 
 The whole set contains 979 books with a total number of almost 69 000 pages. Books’ years of publication range from 1791 to 1998, with the majority of them coming from the years 1870-1940. The training set contains roughly 46 000 pages, while the development set contains 5500 pages.
 
+The data has been published in the following repository: https://github.com/poleval/2021-ocr-correction
 
 Metric
 ------
