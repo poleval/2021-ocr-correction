@@ -61,3 +61,15 @@ Output
 Output is just the text corrected.
 
 Remember to escape end-of-lines and backslashes.
+
+Video instruction
+-----------------
+
+[![Video instruction](http://img.youtube.com/vi/3UBvJKcV2OU/0.jpg)](http://www.youtube.com/watch?v=3UBvJKcV2OU "Video instruction")
+
+Challenge stage
+---------------
+
+The competition was finalized in September 2021. Now the challenge is
+in the after-competition stage. You can submit solutions, but they
+will be marked with a different color.
